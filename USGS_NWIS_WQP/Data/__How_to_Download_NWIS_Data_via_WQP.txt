@@ -1,0 +1,86 @@
+
+S.D. Peckham
+2023-11-22
+
+======================================
+ How to Download NWIS Data Using the
+ Water Quality Portal (WQP)
+======================================
+1. Go to this URL:
+   https://www.waterqualitydata.us/#advanced=true
+
+2. In the "Select Location Parameters" section, choose "Stream"
+   from the "Site Type" droplist.  Note that there are many
+   other site types, including: Estuary, Facility, Lake, Land,
+   Ocean, Spring, Stream, Subsurface, and Well. 
+
+3. In the "Filter Results" section, in "Parameter Code" dropbox,
+   type "00060" or "00061".
+   Only NWIS (not STEWARDS or STORET) allows characteristics
+   to be specified with a Parameter Code.
+
+   NWIS Parameter codes are defined in Appendix H of the NWIS Users
+   Manual v5, at:
+   https://pubs.usgs.gov/of/2013/1054/pdf/OFR2013-1054_NWIS_ver5.pdf
+      00020 = Temperature, air, degrees Celsius
+      00021 = Temperature, air, degrees Fahrenheit
+      00042 = Altitude, feet above mean sea level
+      00055 = Stream velocity, feet per second
+      00060 = Daily Discharage (ft3/s)
+      00061 = Instantaneous Discharge (ft3/s)
+      00065 = Gage height, feet
+      00072 = Stream stage, meters
+
+4. In the "Download the Data" section, for "File Format", click
+   on "Tab-separated".  For "Data Profiles", click on "Site Data Only".
+
+5. Scroll to bottom and click on "Download" button.
+   The downloaded file will be called "station.zip".
+   Unzip and rename this file as follows.
+
+   If you did not specify a parameter code or a "Site Type",
+      the TSV file will have 1,739,528 records.
+      (Note that the Mac Numbers app can only show the first 1 million.)
+      Rename it to: WQP_All_Site_Info.tsv.
+      The filesize will be almost 520 MB.
+      You can subset this TSV file by federal agency and/or site_type
+      using the function: get_wqp_site_subset() in:
+         topoflow36/topoflow/utils/ngen/usgs_utils.py
+
+   If you did not specify a parameter code but chose "Site Type" = "Stream",
+      the TSV file will have 145,375 records.
+      Rename it to:  "WQP_USGS_Stream_Site_Info.tsv"
+      Note that while all of these will be "Stream" sites, many of them
+      will have water quality data or some other data but not physical
+      variables such as depth and discharge.
+      The "db_str" or "key" for this dataset is: "USGS_NWIS_WQP3".
+
+   If Parameter Code = 00060 and "Site Type" = "Stream",
+      the TSV file will have 14707 records.
+      Rename it to:  "WQP_USGS_Stream_Site_Daily_Q_Info.tsv"
+      The "db_str" or "key" for this dataset is: "USGS_NWIS_WQP1".
+
+   If Parameter Code = 00061 and "Site Type" = "Stream",
+      the TSV file will have 46760 records.
+      Rename it to:  "WQP_USGS_Stream_Site_Inst_Q_Info.tsv"
+      The "db_str" or "key" for this dataset is: "USGS_NWIS_WQP2".
+
+   If Parameter Code = 00060 and "Site Type" = "All Site Types",
+      the TSV file will have 15729 records and the 4th column will be
+      MonitoringLocationTypeName.  Note that there are many "site types"
+      other than "Stream", as explained above.
+      Rename it to:  "WQP_USGS_Any_Site_Inst_Daily_Q_Info.tsv"
+
+6. Note that the file:  topoflow36/topoflow/utils/ngen/usgs_utils.py
+   has many utility functions for working with these USGS datasets.
+   In particular, see the function:  get_wqp_site_subset(), which
+   allows you to subset an "all site" file by responsible agency
+   and/or site type.  The "agency" argument can be set to any of
+   the following (among others, see function comments):
+      ANY, USAID, USARS, USBIA, USBLM, USBR, USCE,
+      USEPA, USFS, USFWS, USGS, USSCS
+
+
+
+
+
