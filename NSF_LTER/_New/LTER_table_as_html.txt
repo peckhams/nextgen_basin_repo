@@ -1,0 +1,254 @@
+<table id="site-characteristics-list" class="data-table">
+<thead>
+    <tr>
+        <th>Site Acronym</th>
+        <th>Site Name</th>
+        <th>Grant Prefix-Grant Number</th>
+        <th>Site Ecosystem</th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+        <th>Elevation</th>
+    </tr>
+</thead>
+<tbody><tr>
+        <td>AND</td>
+        <td>Andrews Forest LTER</td>
+        <td>DEB-2025755</td>
+        <td>Coniferous Forest</td>
+        <td>44.212</td>
+        <td>-122.256</td>
+        <td>1020</td>
+    </tr><tr>
+        <td>ARC</td>
+        <td>Arctic LTER</td>
+        <td>DEB-2220863</td>
+        <td>Arctic Tundra</td>
+        <td>68.633333</td>
+        <td>-149.606667</td>
+        <td>760</td>
+    </tr><tr>
+        <td>BES</td>
+        <td>Baltimore Ecosystem Study</td>
+        <td>DEB-1855277</td>
+        <td>Urban Ecosystem</td>
+        <td>39.1</td>
+        <td>-76.3</td>
+        <td>2</td>
+    </tr><tr>
+        <td>BLE</td>
+        <td>Beaufort Lagoon Ecosystems LTER</td>
+        <td>OPP-1656026</td>
+        <td>Estuary</td>
+        <td>71.3379</td>
+        <td>-156.4165</td>
+        <td></td>
+    </tr><tr>
+        <td>BNZ</td>
+        <td>Bonanza Creek LTER</td>
+        <td>DEB-1636476</td>
+        <td>Taiga</td>
+        <td>64.8585</td>
+        <td>-147.847</td>
+        <td>365</td>
+    </tr><tr>
+        <td>CCE</td>
+        <td>California Current Ecosystem LTER</td>
+        <td>OCE-2224726</td>
+        <td>Marine</td>
+        <td>32.8736</td>
+        <td>-120.28</td>
+        <td>10</td>
+    </tr><tr>
+        <td>CDR</td>
+        <td>Cedar Creek Ecosystem Science Reserve</td>
+        <td>DEB-1831944</td>
+        <td>Savanna/Tallgrass Prairie</td>
+        <td>45.401</td>
+        <td>-93.201</td>
+        <td>282</td>
+    </tr><tr>
+        <td>CAP</td>
+        <td>Central Arizona - Phoenix LTER</td>
+        <td>DEB-1637590</td>
+        <td>Urban Ecosystem</td>
+        <td>33.427</td>
+        <td>-111.933</td>
+        <td>340</td>
+    </tr><tr>
+        <td>CWT</td>
+        <td>Coweeta LTER</td>
+        <td>DEB-1637522</td>
+        <td>Deciduous Forest</td>
+        <td>35</td>
+        <td>-83.5</td>
+        <td>686</td>
+    </tr><tr>
+        <td>FCE</td>
+        <td>Florida Coastal Everglades LTER</td>
+        <td>DEB-2025954</td>
+        <td>Freshwater Marsh/Estuary</td>
+        <td>25.4682</td>
+        <td>-80.8533</td>
+        <td>0</td>
+    </tr><tr>
+        <td>GCE</td>
+        <td>Georgia Coastal Ecosystems LTER</td>
+        <td>OCE-1832178</td>
+        <td>Salt Marsh/Estuary</td>
+        <td>31.427</td>
+        <td>-81.371</td>
+        <td>0</td>
+    </tr><tr>
+        <td>HFR</td>
+        <td>Harvard Forest LTER</td>
+        <td>DEB-1832210</td>
+        <td>Deciduous Forest</td>
+        <td>42.53</td>
+        <td>-72.19</td>
+        <td>330</td>
+    </tr><tr>
+        <td>HBR</td>
+        <td>Hubbard Brook LTER</td>
+        <td>DEB-1637685</td>
+        <td>Deciduous Forest</td>
+        <td>43.94</td>
+        <td>-71.751</td>
+        <td>590</td>
+    </tr><tr>
+        <td>JRN</td>
+        <td>Jornada Basin LTER</td>
+        <td>DEB-2025166</td>
+        <td>Desert</td>
+        <td>32.6179</td>
+        <td>-106.74</td>
+        <td>1188</td>
+    </tr><tr>
+        <td>KBS</td>
+        <td>Kellogg Biological Station LTER</td>
+        <td>DEB-1637653</td>
+        <td>Row Crop Agriculture</td>
+        <td>42.4</td>
+        <td>-85.4</td>
+        <td>288</td>
+    </tr><tr>
+        <td>KNZ</td>
+        <td>Konza Prairie LTER</td>
+        <td>DEB-20205849</td>
+        <td>Tallgrass Prairie</td>
+        <td>39.093</td>
+        <td>-96.575</td>
+        <td>382</td>
+    </tr><tr>
+        <td>LNO</td>
+        <td>LTER Network Office (UCSB)</td>
+        <td>DEB-1929393</td>
+        <td>Administrative</td>
+        <td>34.4195</td>
+        <td>-119.699</td>
+        <td></td>
+    </tr><tr>
+        <td>LUQ</td>
+        <td>Luquillo LTER</td>
+        <td>DEB-1831952</td>
+        <td>Tropical Rainforest</td>
+        <td>18.3</td>
+        <td>-65.8</td>
+        <td>350</td>
+    </tr><tr>
+        <td>MCM</td>
+        <td>McMurdo Dry Valleys LTER</td>
+        <td>OPP-1637708</td>
+        <td>Polar Desert</td>
+        <td>-77.62317</td>
+        <td>162.90054</td>
+        <td>437</td>
+    </tr><tr>
+        <td>MSP</td>
+        <td>Minneapolis-St. Paul LTER</td>
+        <td>DEB-2045382</td>
+        <td>Urban</td>
+        <td>44.985844</td>
+        <td>-93.182944</td>
+        <td></td>
+    </tr><tr>
+        <td>MCR</td>
+        <td>Moorea Coral Reef LTER</td>
+        <td>OCE-2224354</td>
+        <td>Coral Reef</td>
+        <td>-17.4909</td>
+        <td>-149.826</td>
+        <td>0</td>
+    </tr><tr>
+        <td>NWT</td>
+        <td>Niwot Ridge LTER</td>
+        <td>DEB-1637686</td>
+        <td>Alpine Tundra</td>
+        <td>40.05411</td>
+        <td>-105.5891</td>
+        <td>3528</td>
+    </tr><tr>
+        <td>NTL</td>
+        <td>North Temperate Lakes LTER</td>
+        <td>DEB-20205982</td>
+        <td>Temperate Lake</td>
+        <td>46.0124</td>
+        <td>-89.672</td>
+        <td>497</td>
+    </tr><tr>
+        <td>NES</td>
+        <td>Northeast U.S. Shelf</td>
+        <td>OCE-1655686</td>
+        <td>Marine</td>
+        <td>40.6967</td>
+        <td>-70.8833</td>
+        <td>0</td>
+    </tr><tr>
+        <td>NGA</td>
+        <td>Northern Gulf of Alaska</td>
+        <td>OCE-1656070</td>
+        <td>Subarctic Marine</td>
+        <td>59.045</td>
+        <td>-148.7</td>
+        <td>0</td>
+    </tr><tr>
+        <td>PAL</td>
+        <td>Palmer Antarctica LTER</td>
+        <td>OPP-1440435</td>
+        <td>Polar Marine</td>
+        <td>-64.7742</td>
+        <td>-64.0545</td>
+        <td>10</td>
+    </tr><tr>
+        <td>PIE</td>
+        <td>Plum Island Ecosystems LTER</td>
+        <td>OCE-2224608</td>
+        <td>Estuary</td>
+        <td>42.759</td>
+        <td>-70.891</td>
+        <td>0</td>
+    </tr><tr>
+        <td>SBC</td>
+        <td>Santa Barbara Coastal LTER</td>
+        <td>OCE-1831937</td>
+        <td>Semiarid Coastal and Marine</td>
+        <td>34.4125</td>
+        <td>-119.842</td>
+        <td>0</td>
+    </tr><tr>
+        <td>SEV</td>
+        <td>Sevilleta LTER</td>
+        <td>DEB-1655499</td>
+        <td>Desert/Grassland</td>
+        <td>34.353</td>
+        <td>-106.882</td>
+        <td>1478</td>
+    </tr><tr>
+        <td>VCR</td>
+        <td>Virginia Coast Reserve LTER</td>
+        <td>DEB-1832221</td>
+        <td>Barrier Island/Lagoon</td>
+        <td>37.283</td>
+        <td>-75.913</td>
+        <td>0</td>
+</tr></tbody>
+</table>
