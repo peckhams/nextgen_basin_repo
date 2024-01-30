@@ -1,0 +1,86 @@
+
+https://github.com/csdms/bmi/discussions/138
+
+S.D. Peckham
+2024-01-18
+
+Reference:
+https://www.hydroshare.org/resource/a60faac4c73649efb4736de7ec587f7c/
+
+==========================
+USGS Gages for CZO Sites
+==========================
+06730200;  Boulder Creek at North 75TH St. Near Boulder, CO; Boulder
+06730500;  Boulder Creek at Mouth Near Longmont, CO; Boulder 
+06727500;  Fourmile Creek at Orodell, CO; Boulder
+06727410;  Fourmile Creek at Logan Mill Road Near Crisman, CO; Boulder
+021564493; Broad River Below Neal Shoals Res NR Carlisle, SC; Calhoun
+02156500;  Broad River Near Carlisle, SC; Calhoun
+02160700;  Enoree River at Whitmire, SC; Calhoun
+02160105;  Tyger River Near Delta, SC; Calhoun
+08324000;  Jemez River Near Jemez, NM; Catalina-Jemez
+09484000;  Sabino Creek Near Tucson, AZ; Catalina-Jemez
+11475560;  ELDER C NR BRANSCOMB CA; Eel
+11475800;  SF EEL R A LEGGETT CA; Eel
+05573540;  Sangamon River at Route 48 at Decatur, IL; IML
+05570910;  Sangamon River at Fisher, IL; IML
+05572000;  Sangamon River at Monticello, IL; IML
+50063440;  Quebrada Sonadora NR EL Verde, PR; Luquillo
+50076000;  Rio Blanco NR Florida, PR; Luquillo
+50065500;  Rio Mameyes NR Sabana, PR; Luquillo
+50067000;  Rio Sabana at Sabana, PR; Luquillo 
+01558000;  Little Juniata River at Spruce Creek, PA; Shale Hills
+01558500;  Shaver Creek near Petersburg, PA; Shale Hills
+
+==========================
+USDA Gages for CZO Sites
+==========================
+Kings River Experimental Watershed;
+https://www.fs.usda.gov/rds/archive/Catalog/RDS-2017-0037
+https://www.fs.usda.gov/research/treesearch/62541
+
+See USFS "Watershed Condition Framework" (CSV & shapefile).
+  Watershed_Condition_Framework_info.csv
+  Search for "Sierra National Forest" (first column)
+  Go down to row 4279-4293.
+  Sierra National Forest	180300100704	Verplank Creek-Kings River
+  Sierra National Forest	180300100702	Converse Creek-Kings River
+  Sierra National Forest	180300100309	Lower Middle Fork Kings River
+  Sierra National Forest	180300100606	Patterson Creek-North Fork Kings River
+  Sierra National Forest	180300100805	Upper Pine Flat Reservoir
+  Sierra National Forest	180300100605	Rancheria Creek-North Fork Kings River
+  Sierra National Forest	180300100504	Lower Dinkey Creek
+  Sierra National Forest	180300100308	Crown Creek
+  Sierra National Forest	180300100604	Wishon Reservoir-North Fork Kings River
+  Sierra National Forest	180300100601	Fleming Creek-North Fork Kings River
+  Sierra National Forest	180300100602	Helms Creek
+  Sierra National Forest	180300100603	Post Corral Creek-North Fork Kings River
+
+  There are 10 headwater catchments in the KREW (Kings River Experimental Watersheds).
+  Some are within Providence Creek and some are in Bull Creek.
+  KREW is also the location for the Sierra CZO.
+
+  Check out these:
+    Some are within Providence Creek and some are in Bull Creek.
+  https://waterdata.usgs.gov/nwis/inventory?huc2_cd=18030010&format=station_list&sort_key=site_no&group_key=county&list_of_search_criteria=huc2_cd
+-------------------------------------------------------
+Boulder Creek Watershed
+Santa Catalina Mountains
+Jemez River Basin
+Reynolds Creek Experimental Watershed
+Susquehanna Shale Hills Critical Zone Observatory
+Northeastern Puerto Rico and the Luquillo Mountains
+Clear Creek Watershed
+Sangamon River Basin
+Calhoun Critical Zone Observatory
+Providence Creek Headwater Catchments (1660 - 2115 m elevation)
+
+WGS 84 EPSG:4326
+
+Start Date:	09/30/1985
+End Date:	08/01/2017
+
+
+
+ 
+  
