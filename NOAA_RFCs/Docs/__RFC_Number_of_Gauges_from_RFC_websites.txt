@@ -1,0 +1,61 @@
+S.D. Peckham
+2023-11-08
+
+========================================
+ Number of RFC Sites from RFC Websites
+ (as of 2023-11-08)
+========================================
+* The number found in the shapefiles from here:
+   https://www.nohrsc.noaa.gov/gisdatasets/
+  are given in parentheses.
+
+* There are 8902 HADS basins with type "Stream"
+* There are 9109 HADS basins with type "Stream: xxxx'
+* There are 9370 basins in the crosswalk from Gautam.
+* There are 10432 basins according to RFC websites.
+* Obtained info for 7319 NWIS USGS Stream gauges via API,
+  including RFC name, NWS loc ID, USGS ID, elevation, etc.
+
+ABRFC - All: 424, Forecasts: 208  (Shapefile: 495)
+   https://water.weather.gov/ahps/region.php?rfc=abrfc
+
+APRFC - All: 344, Forecasts: 118  (Shapefile: 325)
+   https://water.weather.gov/ahps/region.php?rfc=aprfc
+
+CBRFC - All: 359, Forecasts: 284  (Shapefile: 508)
+   https://water.weather.gov/ahps/region.php?rfc=cbrfc
+
+CNRFC - All: 691, Forecasts: 218  (Shapefile: 514)
+   https://water.weather.gov/ahps/region.php?rfc=cnrfc
+
+LMRFC - All: 874, Forecasts: 304  (Shapefile: 543)
+   https://water.weather.gov/ahps/region.php?rfc=lmrfc
+
+MARFC - All: 899, Forecasts: 225  (Shapefile: 167)
+   https://water.weather.gov/ahps/region.php?rfc=marfc
+
+MBRFC - All: 1185, Forecasts: 467  (Shapefile: 1412)
+   https://water.weather.gov/ahps/region.php?rfc=mbrfc
+
+NCRFC - All: 1299, Forecasts: 484  (Shapefile: 1190)
+   https://water.weather.gov/ahps/region.php?rfc=ncrfc
+
+NERFC - All: 488, Forecasts: 240  (Shapefile: 239)
+   https://water.weather.gov/ahps/region.php?rfc=nerfc
+
+NWRFC - All: 696, Forecasts: 339  (Shapefile: 562)
+   https://water.weather.gov/ahps/region.php?rfc=nerfc
+
+OHRFC - All: 1050, Forecasts: 381  (Shapefile: 723)
+   https://water.weather.gov/ahps/region.php?rfc=nerfc
+
+SERFC - All: 1452, Forecasts: 327  (Shapefile: 457)
+   https://water.weather.gov/ahps/region.php?rfc=serfc
+
+WGRFC - All: 671, Forecasts: 335  (Shapefile: 624)
+   https://water.weather.gov/ahps/region.php?rfc=wgrfc
+
+Totals - All: 10432, Forecasts: 3930
+
+
+
