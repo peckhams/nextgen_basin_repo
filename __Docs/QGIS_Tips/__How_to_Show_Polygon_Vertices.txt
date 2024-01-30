@@ -1,0 +1,11 @@
+S.D. Peckham
+2023-10-15
+
+Note: To show vertices of a polygon in QGIS.
+1. In the Layers box, right click on the layer.
+2. Choose Styles > Edit Symbol...
+3. Click plus sign (upper right) to "add symbol layer"
+4. In "Symbol layer type" droplist, choose: "Outline: Marker Line"
+5. In "Marker placement" section, check "On first vertex" and
+   "On inner vertices".
+6. Click on OK button.
