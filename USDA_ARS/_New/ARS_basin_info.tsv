@@ -1,0 +1,772 @@
+Watershed ID	Location	State Code	Alternate Name	Watershed Name	Latitude (DMS)	Longitude (DMS)	Latitude (dec deg)	Longitude (dec deg)	Acres	Area (km2)	Start Date	End Date	ARS DB Years	Data URL	Notes
+01002	ARNOT FOREST	NY	Alternate_Name	W-4	421720	-763727	42.28889	-76.62417	17.9	0.0724	1941-04-01	1947-08-31			 
+02002	COHOCTON	NY	Alternate_Name	W-II	422945	-772912	42.49583	-77.48667	13.8	0.0558	1938-05-01	1945-09-30			 
+02003	COHOCTON	NY	Alternate_Name	W-III	4231--	-7726--	42.51667	-77.43333	24.2	0.0979	1938-01-01	1945-09-30			 
+04001	FREEHOLD	NJ	Alternate_Name	W-1	401434	-741747	40.24278	-74.29639	15.7	0.0635	1938-01-01	1938-08-17			 
+04001	FREEHOLD	NJ	Alternate_Name	W-1	401434	-741747	40.24278	-74.29639	17.5	0.0708	1938-08-18	1943-09-31			 
+04002	FREEHOLD	NJ	Alternate_Name	W-II	401415	-742000	40.2375	-74.33333	34.2	0.1384	1938-03-01	1939-02-20			 
+04002	FREEHOLD	NJ	Alternate_Name	W-II	401415	-742000	40.2375	-74.33333	32.9	0.1331	1939-02-21	1943-09-31			 
+04002	FREEHOLD	NJ	Alternate_Name	W-II	401415	-742000	40.2375	-74.33333	32.9	0.1331	1950-05-01	1955-08-31			 
+04003	FREEHOLD	NJ	Alternate_Name	W-III	401423	-741810	40.23972	-74.30278	51.8	0.2096	1938-03-31	1943-09-30			 
+05001	COLLEGE PARK	MD	Alternate_Name	W-1	390332	-765706	39.05889	-76.95167	8.22	0.0333	1939-09-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05002	COLLEGE PARK	MD	Alternate_Name	W-2	390332	-765706	39.05889	-76.95167	7.44	0.0301	1939-09-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05003	COLLEGE PARK	MD	Alternate_Name	W-3	390303	-765645	39.05083	-76.94583	5.66	0.0229	1939-10-01	1941-04-01		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05003	COLLEGE PARK	MD	Alternate_Name	W-3	390303	-765645	39.05083	-76.94583	6.06	0.0245	1941-04-02	1944-09-15		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05003	COLLEGE PARK	MD	Alternate_Name	W-3	390303	-765645	39.05083	-76.94583	5.02	0.0203	1944-09-16	1955-01-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05004	COLLEGE PARK	MD	Alternate_Name	W-4	390303	-765645	39.05083	-76.94583	8.01	0.0324	1939-10-01	1941-04-01		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05004	COLLEGE PARK	MD	Alternate_Name	W-4	390303	-765645	39.05083	-76.94583	6.11	0.0247	1941-04-02	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05004	COLLEGE PARK	MD	Alternate_Name	W-4	390303	-765645	39.05083	-76.94583	5.03	0.0204	1945-01-01	1955-01-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05005	COLLEGE PARK	MD	Alternate_Name	W-5	390332	-765706	39.05889	-76.95167	4.07	0.0165	1939-12-31	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05006	COLLEGE PARK	MD	Alternate_Name	W-6					3.53	0.0143	1940-09-01	1962-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05007	COLLEGE PARK	MD	Alternate_Name	W-7					4.11	0.0166	1940-09-01	1941-08-29		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05007	COLLEGE PARK	MD	Alternate_Name	W-7					3.52	0.0142	1941-08-30	1962-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05008	COLLEGE PARK	MD	Alternate_Name	W-8					2.43	0.0098	1940-08-01	1955-01-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05009	COLLEGE PARK	MD	Alternate_Name	W-9	390303	-765740	39.05083	-76.96111	12.05	0.0488	1940-09-01	1955-01-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+05010	COLLEGE PARK	MD	Alternate_Name	W-10	390332	-765706	39.05889	-76.95167	3.04	0.0123	1943-07-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+06001	HAGERSTOWN	MD	Alternate_Name	W-I					46.3	0.1874	1938-04-01	1947-10-31		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+06002	HAGERSTOWN	MD	Alternate_Name	W-II	392555	-774014	39.43194	-77.67056	80.8	0.327	1938-10-01	1947-11-30		https://hrsl.ba.ars.usda.gov/wdc/md.htm	 
+07001	AUBURN	AL	Alternate_Name	W-I					27.0	0.1093	1945-01-01	1947-09-30		https://hrsl.ba.ars.usda.gov/wdc/al.htm	 
+08001	VERO BEACH	FL	Alternate_Name	W-1					49915.	201.999	1951-04-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08002	VERO BEACH	FL	Alternate_Name	W-2	271703	-804921	27.28417	-80.8225	63100.	255.3569	1955-07-01	1959-12-31	1955-1976	https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08002	VERO BEACH	FL	Alternate_Name	W-2	271703	-804921	27.28417	-80.8225	63170.	255.6401	1960-01-01	1966-12-31		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08002	VERO BEACH	FL	Alternate_Name	W-2	271703	-804921	27.28417	-80.8225	66880.	270.654	1967-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08003	VERO BEACH	FL	Alternate_Name	W-3	272324	-805342	27.39	-80.895	10000.	40.4686	1955-07-01	1959-12-31	1955-1976	https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08003	VERO BEACH	FL	Alternate_Name	W-3	272324	-805342	27.39	-80.895	10050.	40.6709	1960-01-01	1966-12-31		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08003	VERO BEACH	FL	Alternate_Name	W-3	272324	-805342	27.39	-80.895	12224.	49.4688	1967-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08004	VERO BEACH	FL	Alternate_Name	W-4					3968.	16.0579	1959-01-01	1963-12-31		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08004	VERO BEACH	FL	Alternate_Name	W-4					3970.	16.066	1964-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08005	VERO BEACH	FL	Alternate_Name	W-5	271840	-805344	27.31111	-80.89556	22656.	91.6857	1964-01-01	1975-12-31	1964-1976	https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+08005	VERO BEACH	FL	Alternate_Name	W-5	271840	-805344	27.31111	-80.89556	20992.	84.9517	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/fl.htm	 
+09001	AMERICUS	GA	Alternate_Name	W-1	320852	-841830	32.14778	-84.30833	17.9	0.0724	1938-08-01	1938-12-31	1938-1943	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	Notice that first watershed name is W-1 but others use roman numerals.
+09001	AMERICUS	GA	Alternate_Name	W-1	320852	-841830	32.14778	-84.30833	23.5	0.0951	1939-01-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	Notice that first watershed name is W-1 but others use roman numerals.
+09001	AMERICUS	GA	Alternate_Name	W-1	320852	-841830	32.14778	-84.30833	22.8	0.0923	1942-07-01	1943-05-31		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	Notice that first watershed name is W-1 but others use roman numerals.
+09002	AMERICUS	GA	Alternate_Name	W-II	321137	-842015	32.19361	-84.3375	42.8	0.1732	1938-08-01	1942-03-31	1938-1942	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	Watershed name in INDEX.TXT is W-I but according to info at URL it should be W-II.
+09003	AMERICUS	GA	Alternate_Name	W-III	321100	-842015	32.18333	-84.3375	32.0	0.1295	1938-08-01	1942-02-28	1938-1942	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+09004	AMERICUS	GA	Alternate_Name	W-IV	321308	-842148	32.21889	-84.36333	59.2	0.2396	1938-08-01	1943-04-30	1938-1943	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+10001	WATKINSVILLE	GA	Alternate_Name	W-1	335338	-832530	33.89389	-83.425	19.2	0.0777	1939-09-01	Present	1945-1984	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+10011	WATKINSVILLE	GA	Alternate_Name	P-1	335315	-832515	33.8875	-83.42083	6.67	0.027	1972-01-01	Present	1972-1975	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+10012	WATKINSVILLE	GA	Alternate_Name	P-2	335305	-832538	33.88472	-83.42722	3.21	0.013	1973-01-01	Present	1973-1975	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+10013	WATKINSVILLE	GA	Alternate_Name	P-3	335208	-832710	33.86889	-83.45278	3.11	0.0126	1972-01-01	Present	1972-1975	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+10014	WATKINSVILLE	GA	Alternate_Name	P-4	335212	-832710	33.87	-83.45278	3.41	0.0138	1973-01-01	Present	1973-1975	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+11001	HIGH POINT	NC	Alternate_Name	W.F.D.R.					21100.	85.3887	1923-07-01	1936-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+11001	HIGH POINT	NC	Alternate_Name	W.F.D.R.					20544.	83.1387	1937-01-01	1953-09-30		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+11002	HIGH POINT	NC	Alternate_Name	M.C.					10350.	41.885	1934-09-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+11002	HIGH POINT	NC	Alternate_Name	M.C.					10300.	41.6827	1934-06-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+11003	HIGH POINT	NC	Alternate_Name	U.R.					7230.	29.2588	1934-06-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+12001	STATESVILLE	NC	Alternate_Name	C-8	354310	-810220	35.71944	-81.03889	5.12	0.0207	1933-01-01	1938-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+12002	STATESVILLE	NC	Alternate_Name	W-23	354252	-810248	35.71444	-81.04667	6.00	0.0243	1933-01-01	1938-12-31		https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+13001	BLACKSBURG	VA	Alternate_Name	W-II					5.44	0.022	1939-05-01	1951-03-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13002	BLACKSBURG	VA	Alternate_Name	W-III					19.3	0.0781	1939-05-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13003	BLACKSBURG	VA	Alternate_Name	W-IV					3.49	0.0141	1951-09-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13004	BLACKSBURG	VA	Alternate_Name	W-V					6.08	0.0246	1952-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13005	BLACKSBURG	VA	Alternate_Name	W-VI					7.70	0.0312	1951-09-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13006	BLACKSBURG	VA	Alternate_Name	T.C.	370557	-804434	37.09917	-80.74278	3054.	12.3591	1957-06-01	1969-12-31	1957-1969	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13007	BLACKSBURG	VA	Alternate_Name	C.C.	370756	-802730	37.13222	-80.45833	786.	3.1808	1957-08-01	Present	1957-1972	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13008	BLACKSBURG	VA	Alternate_Name	B.C.	370245	-801643	37.04583	-80.27861	93.	0.3764	1957-08-01	Present	1957-1972	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13009	BLACKSBURG	VA	Alternate_Name	P.C.	363452	-791118	36.58111	-79.18833	182.	0.7365	1958-01-01	1969-12-31	1958-1969	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13010	BLACKSBURG	VA	Alternate_Name	L.W.C.	363518	-790519	36.58833	-79.08861	1471.	5.9529	1958-01-01	1974-12-31	1958-1972	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13011	BLACKSBURG	VA	Alternate_Name	R.R.B.	364354	-775441	36.73167	-77.91139	555.	2.246	1958-04-01	Present	1958-1972	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13012	BLACKSBURG	VA	Alternate_Name	P.M.B.	382705	-775723	38.45139	-77.95639	192.	0.777	1958-06-01	1969-12-31	1958-1969	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13013	BLACKSBURG	VA	Alternate_Name	C.R.	383430	-782715	38.575	-78.45417	2023.	8.1868	1959-10-01	1969-12-31	1959-1969	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13014	BLACKSBURG	VA	Alternate_Name	F.C.	375748	-781112	37.96333	-78.18667	389.	1.5742	1960-09-01	1969-12-31	1960-1969	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+13015	BLACKSBURG	VA	Alternate_Name	C.B.	372206	-792310	37.36833	-79.38611	1058.	4.2816	1960-09-01	Present	1960-1972	https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+14001	CHATHAM	VA	Alternate_Name	W-I					13.3	0.0538	1938-08-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+14002	CHATHAM	VA	Alternate_Name	W-II					16.1	0.0652	1938-08-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+14003	CHATHAM	VA	Alternate_Name	W-III					17.1	0.0692	1938-08-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+15001	STAUNTON	VA	Alternate_Name	W-I					390.	1.5783	1948-07-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+15002	STAUNTON	VA	Alternate_Name	W-II					2430.	9.8339	1948-07-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+15003	STAUNTON	VA	Alternate_Name	W-III					6144.	24.8639	1948-07-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/va.htm	 
+16001	KLINGERSTOWN	PA	Mahantango Cr. at Malta	R-04	403640	-0765444	40.61111	-76.91222	103680.	419.5784	1968-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16002	KLINGERSTOWN	PA	Alternate_Name	O-16					6656.	26.9359	1968-01-01	1980-12-31		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16003	KLINGERSTOWN	PA	Mahantango Cr. at Klgtn.	K-27	404133	-0763949	40.6925	-76.66361	28544.	115.5136	1968-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16004	KLINGERSTOWN	PA	Alternate_Name	M-27					48768.	197.3573	1968-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16005	KLINGERSTOWN	PA	Alternate_Name	J-30					340.	1.3759	1967-01-01	1980-12-31		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16006	KLINGERSTOWN	PA	Stehr Bros. Weir	WE-38	404216	-763516	40.70444	-76.58778	1773.	7.1751	1968-01-01	Present	1968-1990	https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16007	KLINGERSTOWN	PA	Alternate_Name	WE-38					1930.	7.8104	1967-01-01	1971-12-31		https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16010	KLINGERSTOWN	PA	Alternate_Name	PAUL F1					100.	0.4047	1970-01-01	Present	1970-1976	https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+16020	KLINGERSTOWN	PA	Alternate_Name	PAUL F2					140.	0.5666	1970-01-01	Present	1970-1976	https://hrsl.ba.ars.usda.gov/wdc/pa.htm	 
+17001	EDWARDSVILLE	IL	Alternate_Name	W-1	385245	-895414	38.87917	-89.90389	27.22	0.1102	1938-03-01	1955-12-31	1938-1955	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+17002	EDWARDSVILLE	IL	Alternate_Name	W-2	385245	-895424	38.87917	-89.90667	49.95	0.2021	1938-03-01	1955-12-31	1938-1954	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+17003	EDWARDSVILLE	IL	Alternate_Name	W-3	385227	-895408	38.87417	-89.90222	12.55	0.0508	1938-03-01	1942-12-31	1938-1942	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+17004	EDWARDSVILLE	IL	Alternate_Name	W-4	385242	-895427	38.87833	-89.9075	289.8	1.1728	1938-03-01	1955-12-31	1938-1955	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18001	ELMWOOD	IL	Alternate_Name	WB-1					1.28	0.0052	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18002	ELMWOOD	IL	Alternate_Name	WB-2					2.28	0.0092	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18003	ELMWOOD	IL	Alternate_Name	WB-3					2.61	0.0106	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18004	ELMWOOD	IL	Alternate_Name	WB-4					2.77	0.0112	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18005	ELMWOOD	IL	Alternate_Name	WB-5					1.93	0.0078	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18006	ELMWOOD	IL	Alternate_Name	WB-6					2.41	0.0098	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18007	ELMWOOD	IL	Alternate_Name	WT-1					2.02	0.0082	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18008	ELMWOOD	IL	Alternate_Name	WT-2					1.88	0.0076	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18009	ELMWOOD	IL	Alternate_Name	WT-3					2.40	0.0097	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18010	ELMWOOD	IL	Alternate_Name	WT-4					2.06	0.0083	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18011	ELMWOOD	IL	Alternate_Name	WT-5					2.76	0.0112	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+18012	ELMWOOD	IL	Alternate_Name	WT-6					5.35	0.0217	1945-04-01	1946-09-30		https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+19001	LAFAYETTE	IN	Alternate_Name	W-1					2.55	0.0103	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19002	LAFAYETTE	IN	Alternate_Name	W-2					2.23	0.009	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19003	LAFAYETTE	IN	Alternate_Name	W-4					2.01	0.0081	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19004	LAFAYETTE	IN	Alternate_Name	W-5					2.87	0.0116	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19005	LAFAYETTE	IN	Alternate_Name	W-6					2.79	0.0113	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19006	LAFAYETTE	IN	Alternate_Name	W-7					1.96	0.0079	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19007	LAFAYETTE	IN	Alternate_Name	W-8					1.96	0.0079	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19008	LAFAYETTE	IN	Alternate_Name	W-10					2.06	0.0083	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19009	LAFAYETTE	IN	Alternate_Name	W-11					2.05	0.0083	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19010	LAFAYETTE	IN	Alternate_Name	W-12					3.37	0.0136	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19011	LAFAYETTE	IN	Alternate_Name	W-13					3.02	0.0122	1940-04-01	1953-03-31	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19012	LAFAYETTE	IN	Alternate_Name	W-14					2.85	0.0115	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19013	LAFAYETTE	IN	Alternate_Name	W-15					3.59	0.0145	1940-04-01	1953-09-30	1940-1953	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19014	LAFAYETTE	IN	Alternate_Name	W-18					3.24	0.0131	1940-04-01	1953-09-30		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19015	LAFAYETTE	IN	Alternate_Name	W-20					2.64	0.0107	1940-04-01	1952-09-30		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19016	LAFAYETTE	IN	Alternate_Name	W-25					3.52	0.0142	1940-04-01	1952-09-30		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19017	LAFAYETTE	IN	Alternate_Name	W-31					1.64	0.0066	1940-08-01	1951-12-31		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19018	LAFAYETTE	IN	Alternate_Name	W-32					1.83	0.0074	1940-08-01	1951-12-31		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19019	LAFAYETTE	IN	Alternate_Name	W-33					3.44	0.0139	1940-08-01	1951-12-31		https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+19020	LAFAYETTE	IN	Alternate_Name	W-34					3.17	0.0128	1940-08-01	1951-12-31	1940-1951	https://hrsl.ba.ars.usda.gov/wdc/in.htm	 
+20001	CLARINDA	IA	Alternate_Name	W-V					3.25	0.0132	1932-10-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+20002	CLARINDA	IA	Alternate_Name	W-W					1.97	0.008	1934-01-01	1942-05-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+20003	CLARINDA	IA	Alternate_Name	W-X					1.97	0.008	1934-01-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+20004	CLARINDA	IA	Alternate_Name	W-Y					3.25	0.0132	1932-10-10	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+20005	CLARINDA	IA	Alternate_Name	W-Z					3.12	0.0126	1932-10-10	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+21001	IOWA CITY	IA	Alternate_Name	W-Z					1930.	7.8104	1924-09-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22001	SHENANDOAH	IA	Alternate_Name	NO. 1					128000.	517.9981	1934-07-01	1940-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22002	SHENANDOAH	IA	Alternate_Name	NO. 2					67200.	271.949	1934-07-01	1940-06-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22003	FOURMILE CK	IA	Alternate_Name	SITE 1	421454	-923800	42.24833	-92.63333	12.48	0.0505	1976-01-01	1980-12-31	1976-1980	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22004	FOURMILE CK	IA	Alternate_Name	SITE 2	421454	-923802	42.24833	-92.63389	15.74	0.0637	1976-01-01	1980-12-31	1976-1980	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22005	FOURMILE CK	IA	Alternate_Name	SITE 3	421248	-923342	42.21333	-92.56167	14.65	0.0593	1976-01-01	1980-12-31	1976-1980	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22006	FOURMILE CK	IA	Alternate_Name	SITE 7	421506	-924236	42.25167	-92.71	701.85	2.8403	1976-01-01	1980-12-31	1976-1980	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+22007	FOURMILE CK	IA	Alternate_Name	SITE 8	421448	-923812	42.24667	-92.63667	368.22	1.4901	1976-01-01	1980-12-31	1976-1980	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+23001	EAST LANSING	MI	Alternate_Name	A					1.98	0.008	1941-02-01	1959-12-31			 
+23002	EAST LANSING	MI	Alternate_Name	B					1.35	0.0055	1941-02-01	1959-12-31			 
+23003	EAST LANSING	MI	Alternate_Name	W					1.65	0.0067	1941-03-01	1959-12-31			 
+24001	BETHANY	MO	Alternate_Name	PA-A					2.03	0.0082	1934-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24002	BETHANY	MO	Alternate_Name	PA-B					6.52	0.0264	1932-01-01	1935-11-22		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24002	BETHANY	MO	Alternate_Name	PA-B					5.56	0.0225	1935-11-23	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24003	BETHANY	MO	Alternate_Name	PA-C					1.97	0.008	1937-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24004	BETHANY	MO	Alternate_Name	D-1					7.51	0.0304	1934-07-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24005	BETHANY	MO	Alternate_Name	D-2					.03	0.0001	1934-07-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24006	BETHANY	MO	Alternate_Name	D-3					4.85	0.0196	1932-07-01	1934-05-11		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24006	BETHANY	MO	Alternate_Name	D-3					4.48	0.0181	1934-05-12	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24007	BETHANY	MO	Alternate_Name	1-58					2.12	0.0086	1933-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+24008	BETHANY	MO	Alternate_Name	IJ-1					2.13	0.0086	1933-07-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+25001	KINGDOM CITY	MO	Alternate_Name	S.R.W.	385654	-915437	38.94833	-91.91028	154.	0.6232	1941-01-01	1988-12-31	1941-1980	https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+25002	MCCREDIE	MO	Alternate_Name	NO.2					44.33	0.1794	1951-01-01	1963-10-17		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+26001	COSHOCTON	OH	Alternate_Name	102	402225	-814741	40.37361	-81.79472	1.26	0.0051	1937-04-01	1946-12-31	1937-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26001	COSHOCTON	OH	Alternate_Name	102	402225	-814741	40.37361	-81.79472	1.26	0.0051	1957-01-01	1957-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26001	COSHOCTON	OH	Alternate_Name	102	402225	-814741	40.37361	-81.79472	1.26	0.0051	1960-04-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26002	COSHOCTON	OH	Alternate_Name	104	402224	-814741	40.37333	-81.79472	1.33	0.0054	1937-04-01	1946-12-31	1937-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26002	COSHOCTON	OH	Alternate_Name	104	402224	-814741	40.37333	-81.79472	1.33	0.0054	1969-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26003	COSHOCTON	OH	Alternate_Name	129	402219	-814752	40.37194	-81.79778	2.71	0.011	1938-04-01	1972-12-31	1938-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26003	COSHOCTON	OH	Alternate_Name	129	402219	-814752	40.37194	-81.79778	2.71	0.011	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26004	COSHOCTON	OH	Alternate_Name	135	402220	-814748	40.37222	-81.79667	2.69	0.0109	1938-04-01	1969-12-31	1938-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26004	COSHOCTON	OH	Alternate_Name	135	402220	-814748	40.37222	-81.79667	2.69	0.0109	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26005	COSHOCTON	OH	Alternate_Name	130	402213	-814758	40.37028	-81.79944	1.63	0.0066	1938-05-01	Present	1938-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26006	COSHOCTON	OH	Alternate_Name	107	402128	-814757	40.35778	-81.79917	2.59	0.0105	1938-09-01	1946-12-31	1939-1946	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26007	COSHOCTON	OH	Alternate_Name	131	402208	-814812	40.36889	-81.80333	2.21	0.0089	1938-05-01	1969-12-31	1939-1981	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26007	COSHOCTON	OH	Alternate_Name	131	402208	-814812	40.36889	-81.80333	2.21	0.0089	1975-01-01	1981-07-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26008	COSHOCTON	OH	Alternate_Name	132	402158	-814815	40.36611	-81.80417	0.59	0.0024	1948-05-01	1968-12-31	1948-1969	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26008	COSHOCTON	OH	Alternate_Name	132	402158	-814815	40.36611	-81.80417	0.62	0.0025	1969-01-01	1969-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26009	COSHOCTON	OH	Alternate_Name	134	402211	-814826	40.36972	-81.80722	0.92	0.0037	1938-05-01	1947-06-31	1938-1947	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26010	COSHOCTON	OH	Alternate_Name	123	402223	-814720	40.37306	-81.78889	1.37	0.0055	1939-01-01	Present	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26011	COSHOCTON	OH	Alternate_Name	115	402222	-814712	40.37278	-81.78667	1.61	0.0065	1939-04-01	1970-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26011	COSHOCTON	OH	Alternate_Name	115	402222	-814712	40.37278	-81.78667	1.61	0.0065	1982-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26012	COSHOCTON	OH	Alternate_Name	127	402229	-814728	40.37472	-81.79111	1.65	0.0067	1949-05-01	1970-12-31	1949-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26012	COSHOCTON	OH	Alternate_Name	127	402229	-814728	40.37472	-81.79111	1.65	0.0067	1983-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26013	COSHOCTON	OH	Alternate_Name	109	402211	-814739	40.36972	-81.79417	1.69	0.0068	1938-11-01	Present	1938-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26014	COSHOCTON	OH	Alternate_Name	103	402156	-814749	40.36556	-81.79694	0.65	0.0026	1939-04-01	1970-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26014	COSHOCTON	OH	Alternate_Name	103	402156	-814749	40.36556	-81.79694	0.65	0.0026	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26015	COSHOCTON	OH	Alternate_Name	110	402154	-814742	40.365	-81.795	1.27	0.0051	1939-04-01	1970-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26015	COSHOCTON	OH	Alternate_Name	110	402154	-814742	40.365	-81.795	1.27	0.0051	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26016	COSHOCTON	OH	Alternate_Name	113	402204	-814650	40.36778	-81.78056	1.45	0.0059	1939-09-01	1973-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26016	COSHOCTON	OH	Alternate_Name	113	402204	-814650	40.36778	-81.78056	1.45	0.0059	1975-01-01	1976-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26016	COSHOCTON	OH	Alternate_Name	113	402204	-814650	40.36778	-81.78056	1.45	0.0059	1983-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26017	COSHOCTON	OH	Alternate_Name	118	402153	-814714	40.36472	-81.78722	1.96	0.0079	1940-01-01	1973-12-31	1940-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26017	COSHOCTON	OH	Alternate_Name	118	402153	-814714	40.36472	-81.78722	1.96	0.0079	1975-01-01	1976-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26017	COSHOCTON	OH	Alternate_Name	118	402153	-814714	40.36472	-81.78722	1.96	0.0079	1982-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26018	COSHOCTON	OH	Alternate_Name	111	402204	-814656	40.36778	-81.78222	1.18	0.0048	1939-04-01	1970-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26019	COSHOCTON	OH	Alternate_Name	121	402139	-814802	40.36083	-81.80056	1.42	0.0057	1939-04-01	1970-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26019	COSHOCTON	OH	Alternate_Name	121	402139	-814802	40.36083	-81.80056	1.42	0.0057	1972-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26019	COSHOCTON	OH	Alternate_Name	121	402139	-814802	40.36083	-81.80056	1.42	0.0057	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26020	COSHOCTON	OH	Alternate_Name	106	402143	-814756	40.36194	-81.79889	1.56	0.0063	1939-04-01	1972-12-31	1940-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26020	COSHOCTON	OH	Alternate_Name	106	402143	-814756	40.36194	-81.79889	1.56	0.0063	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26021	COSHOCTON	OH	Alternate_Name	188	402127	-814741	40.3575	-81.79472	2.05	0.0083	1939-09-01	1970-12-31	1939-1970	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26022	COSHOCTON	OH	Alternate_Name	124					2.07	0.0084	1939-09-01	1947-06-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26023	COSHOCTON	OH	Alternate_Name	185	402131	-814747	40.35861	-81.79639	7.40	0.0299	1939-09-01	1970-12-31	1939-1972	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26023	COSHOCTON	OH	Alternate_Name	185	402131	-814747	40.35861	-81.79639	7.40	0.0299	1972-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26024	COSHOCTON	OH	Alternate_Name	187	402130	-814724	40.35833	-81.79	7.20	0.0291	1941-01-01	1970-12-31	1941-1972	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26024	COSHOCTON	OH	Alternate_Name	187	402130	-814724	40.35833	-81.79	7.20	0.0291	1972-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26025	COSHOCTON	OH	Alternate_Name	192	402140	-814752	40.36111	-81.79778	7.59	0.0307	1939-09-01	1970-12-30	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26025	COSHOCTON	OH	Alternate_Name	192	402140	-814752	40.36111	-81.79778	7.59	0.0307	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26026	COSHOCTON	OH	Alternate_Name	172	402156	-814816	40.36556	-81.80444	43.6	0.1764	1939-02-01	1971-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26026	COSHOCTON	OH	Alternate_Name	172	402156	-814816	40.36556	-81.80444	43.6	0.1764	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26027	COSHOCTON	OH	Alternate_Name	169	402128	-814808	40.35778	-81.80222	29.0	0.1174	1940-01-01	1969-12-31	1940-1969	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26028	COSHOCTON	OH	Alternate_Name	177	402158	-814756	40.36611	-81.79889	75.6	0.3059	1940-01-01	1970-12-31	1940-1970	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26029	COSHOCTON	OH	Alternate_Name	183	402131	-814657	40.35861	-81.7825	74.2	0.3003	1938-03-01	1963-12-31	1939-1963	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26029	COSHOCTON	OH	Alternate_Name	183					74.2	0.3003	1976-01-01	1976-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26029	COSHOCTON	OH	Alternate_Name	183					74.2	0.3003	1982-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26030	COSHOCTON	OH	Alternate_Name	196	402138	-814707	40.36056	-81.78528	303.	1.2262	1937-05-01	Present	1937-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26031	COSHOCTON	OH	Alternate_Name	10	402329	-814840	40.39139	-81.81111	122.	0.4937	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26032	COSHOCTON	OH	Alternate_Name	5	402435	-814808	40.40972	-81.80222	349.	1.4124	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26033	COSHOCTON	OH	Alternate_Name	92	402403	-814756	40.40083	-81.79889	920.	3.7231	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26034	COSHOCTON	OH	Alternate_Name	94	402328	-814826	40.39111	-81.80722	1520.	6.1512	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26035	COSHOCTON	OH	Alternate_Name	95	402300	-814905	40.38333	-81.81806	2570.	10.4004	1938-01-01	1972-12-31	1938-1972	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26036	COSHOCTON	OH	Alternate_Name	97	402146	-815021	40.36278	-81.83917	4580.	18.5346	1937-01-01	1971-12-31	1937-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26037	COSHOCTON	OH	Alternate_Name	994					17500.	70.8201	1936-10-01	1962-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26037	COSHOCTON	OH	Alternate_Name	994					17400.	70.4154	1963-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26038	COSHOCTON	OH	Alternate_Name	174	402150	-814732	40.36389	-81.79222	52.8	0.2137	1960-06-01	1984-12-31	1960-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26039	COSHOCTON	OH	Alternate_Name	194	402147	-814723	40.36306	-81.78972	187.	0.7568	1960-01-01	1975-12-31	1960-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26039	COSHOCTON	OH	Alternate_Name	194	402147	-814723	40.36306	-81.78972	187.	0.7568	1976-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26040	COSHOCTON	OH	Alternate_Name	182	402136	-814655	40.36	-81.78194	69.6	0.2817	1964-01-01	1970-12-31	1964-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26040	COSHOCTON	OH	Alternate_Name	182	402136	-814655	40.36	-81.78194	69.6	0.2817	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26041	COSHOCTON	OH	Alternate_Name	166	402157	-814757	40.36583	-81.79917	79.2	0.3205	1967-01-01	1972-12-31	1967-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26041	COSHOCTON	OH	Alternate_Name	166	402157	-814757	40.36583	-81.79917	79.2	0.3205	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26042	COSHOCTON	OH	Alternate_Name	20	402209	-814956	40.36917	-81.83222	373.	1.5095	1942-01-01	1942-12-31	1942-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26042	COSHOCTON	OH	Alternate_Name	20	402209	-814956	40.36917	-81.83222	373.	1.5095	1966-01-01	1971-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26711	COSHOCTON	OH	Alternate_Name	11	402315	-814855	40.3875	-81.81528	293.	1.1857	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26719	COSHOCTON	OH	Alternate_Name	19	402213	-814845	40.37028	-81.8125	15.	0.0607	1969-01-01	1973-12-31	1969-1973	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26791	COSHOCTON	OH	Alternate_Name	91	402422	-814741	40.40611	-81.79472	79.2	0.3205	1938-01-01	1971-12-31	1938-1971	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26828	COSHOCTON	OH	Alternate_Name	128	402137	-814739	40.36028	-81.79417	2.68	0.0108	1939-01-01	1947-12-31	1939-1972	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26828	COSHOCTON	OH	Alternate_Name	128	402137	-814739	40.36028	-81.79417	2.68	0.0108	1950-01-01	1950-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26828	COSHOCTON	OH	Alternate_Name	128	402137	-814739	40.36028	-81.79417	2.68	0.0108	1954-01-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26828	COSHOCTON	OH	Alternate_Name	128	402137	-814739	40.36028	-81.79417	2.68	0.0108	1958-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26863	COSHOCTON	OH	Alternate_Name	163	402215	-814749	40.37083	-81.79694	.42	0.0017	1968-01-01	1972-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1939-01-01	1946-12-31	1939-1992	https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1948-01-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1952-01-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1956-01-01	1957-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1960-01-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+26891	COSHOCTON	OH	Alternate_Name	191	402130	-814745	40.35833	-81.79583	1.20	0.0049	1979-01-01	1984-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+27001	HAMILTON	OH	Alternate_Name	W-1					187.	0.7568	1938-11-01	1944-05-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+27002	HAMILTON	OH	Alternate_Name	W-II					16.2	0.0656	1938-03-01	1944-05-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+27003	HAMILTON	OH	Alternate_Name	W-III					28.8	0.1165	1938-08-01	1944-05-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+27004	HAMILTON	OH	Alternate_Name	W-IV					20.3	0.0822	1938-05-01	1944-04-30		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+28001	ZANESVILLE	OH	Alternate_Name	C.W.	395710	-820714	39.95278	-82.12056	2.55	0.0103	1934-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+28002	ZANESVILLE	OH	Alternate_Name	P.W.	395840	-820710	39.97778	-82.11944	3.57	0.0144	1934-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+28003	ZANESVILLE	OH	Alternate_Name	W.W.	395817	-820647	39.97139	-82.11306	2.23	0.009	1934-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/oh.htm	 
+29001	COLBY	WI	Alternate_Name	W-1					345.	1.3962	1949-05-01	1966-09-30		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+30001	COON VALLEY	WI	Alternate_Name	NO. 1					49400.	199.9149	1934-06-01	1940-09-30		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+30002	COON VALLEY	WI	Alternate_Name	NO. 2					49344.	199.6883	1934-06-01	1940-09-30		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+31001	FENNIMORE	WI	Alternate_Name	W-1	425939	-903904	42.99417	-90.65111	330.	1.3355	1938-07-01	1969-12-31	1938-1969	https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+31002	FENNIMORE	WI	Alternate_Name	W-2	425954	-903927	42.99833	-90.6575	22.8	0.0923	1938-07-01	1968-12-31	1938-1968	https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+31003	FENNIMORE	WI	Alternate_Name	W-3	425947	-903913	42.99639	-90.65361	52.5	0.2125	1938-07-01	1969-12-31	1938-1969	https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+31004	FENNIMORE	WI	Alternate_Name	W-4	425949	-903935	42.99694	-90.65972	171.	0.692	1938-06-01	1968-12-31	1938-1968	https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32001	LA CROSSE	WI	Alternate_Name	U.P.W.					2.71	0.011	1933-01-01	1934-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32001	LA CROSSE	WI	Alternate_Name	U.P.W.					2.41	0.0098	1935-01-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32002	LA CROSSE	WI	Alternate_Name	U.C.W.					4.13	0.0167	1933-01-01	1933-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32002	LA CROSSE	WI	Alternate_Name	U.C.W.					2.33	0.0094	1934-01-01	1937-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32002	LA CROSSE	WI	Alternate_Name	U.C.W.					2.24	0.0091	1938-01-01	1946-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32003	LA CROSSE	WI	Alternate_Name	C.W.					2.71	0.011	1937-01-01	1963-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32004	LA CROSSE	WI	Alternate_Name	C.W.A.					2.95	0.0119	1952-01-01	1963-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32005	LA CROSSE	WI	Alternate_Name	E-3					1.01	0.0041	1933-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+32006	LA CROSSE	WI	Alternate_Name	A-4					2.21	0.0089	1933-01-01	1954-12-31		https://hrsl.ba.ars.usda.gov/wdc/wi.htm	 
+33001	BENTONVILLE	AR	Alternate_Name	W-1	361700	-941300	36.28333	-94.21667	10.03	0.0406	1938-10-01	1943-12-31	1938-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+33002	BENTONVILLE	AR	Alternate_Name	W-2	361800	-941900	36.3	-94.31667	9.34	0.0378	1938-10-01	1947-08-31	1938-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+33003	BENTONVILLE	AR	Alternate_Name	W-3	361800	-941900	36.3	-94.31667	14.25	0.0577	1938-10-01	1947-08-31	1939-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+33004	BENTONVILLE	AR	Alternate_Name	W-4	361500	-941600	36.25	-94.26667	24.	0.0971	1939-03-01	1947-08-31	1939-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+33005	BENTONVILLE	AR	Alternate_Name	W-5	361700	-941300	36.28333	-94.21667	19.43	0.0786	1938-10-01	1947-08-31	1939-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+33006	BENTONVILLE	AR	Alternate_Name	W-6	362200	-941200	36.36667	-94.2	10.75	0.0435	1939-06-01	1947-08-31	1939-1943	https://hrsl.ba.ars.usda.gov/wdc/ar.htm	 
+34001	CHEROKEE	OK	Alternate_Name	W-1	364400	-982306	36.73333	-98.385	2.23	0.009	1942-01-01	1960-06-31	1942-1960	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34002	CHEROKEE	OK	Alternate_Name	W-2	364400	-982306	36.73333	-98.385	4.82	0.0195	1942-01-01	1960-06-31	1942-1960	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34003	CHEROKEE	OK	Alternate_Name	W-3					.30	0.0012	1942-01-01	1952-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34003	CHEROKEE	OK	Alternate_Name	W-3					.04	0.0002	1953-01-01	1960-06-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34004	CHEROKEE	OK	Alternate_Name	W-4					4.35	0.0176	1942-01-01	1960-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34005	CHEROKEE	OK	Alternate_Name	W-5					7.85	0.0318	1942-01-01	1960-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34006	CHEROKEE	OK	Alternate_Name	W-6	364400	-982306	36.73333	-98.385	1.75	0.0071	1942-01-01	1960-06-31	1942-1960	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34007	CHEROKEE	OK	Alternate_Name	W-7	364400	-982306	36.73333	-98.385	1.99	0.0081	1942-01-01	1960-06-31	1942-1960	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34008	CHEROKEE	OK	Alternate_Name	W-8	364400	-982306	36.73333	-98.385	4.72	0.0191	1941-04-01	1955-06-31	1942-1960	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34008	CHEROKEE	OK	Alternate_Name	W-8	364400	-982306	36.73333	-98.385	4.72	0.0191	1956-07-01	1960-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34009	CHEROKEE	OK	Alternate_Name	W-9					.50	0.002	1942-01-01	1960-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34010	CHEROKEE	OK	Alternate_Name	W-10					1.68	0.0068	1960-08-01	1967-01-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34011	CHEROKEE	OK	Alternate_Name	W-11					2.12	0.0086	1960-08-01	1967-01-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34012	CHEROKEE	OK	Alternate_Name	W-12					1.68	0.0068	1960-07-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34013	CHEROKEE	OK	Alternate_Name	W-13	364400	-982306	36.73333	-98.385	1.99	0.0081	1960-07-01	1967-12-31	1960-1967	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34014	CHEROKEE	OK	Alternate_Name	W-14					2.16	0.0087	1960-09-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+34015	CHEROKEE	OK	Alternate_Name	W-15					2.15	0.0087	1960-09-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35001	GUTHRIE	OK	Alternate_Name	W-1	354912	-972318	35.82	-97.38833	35.40	0.1433	1932-01-01	1939-12-31	1939-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35001	GUTHRIE	OK	Alternate_Name	W-1	354912	-972318	35.82	-97.38833	33.40	0.1352	1940-01-01	1953-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35002	GUTHRIE	OK	Alternate_Name	W-2	354912	-972318	35.82	-97.38833	3.21	0.013	1931-01-01	1951-12-31	1939-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35003	GUTHRIE	OK	Alternate_Name	W-3	354912	-972318	35.82	-97.38833	3.13	0.0127	1930-01-01	1951-12-31	1941-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35004	GUTHRIE	OK	Alternate_Name	W-4	354912	-972318	35.82	-97.38833	5.62	0.0227	1931-01-01	1953-12-31	1940-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35005	GUTHRIE	OK	Alternate_Name	W-5	354912	-972318	35.82	-97.38833	5.28	0.0214	1931-01-01	1947-12-31	1939-1947	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35006	GUTHRIE	OK	Alternate_Name	W-I	354912	-972318	35.82	-97.38833	2.50	0.0101	1937-01-01	1953-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35007	GUTHRIE	OK	Alternate_Name	W-II	354912	-972318	35.82	-97.38833	5.09	0.0206	1942-01-01	1955-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35008	GUTHRIE	OK	Alternate_Name	W-III	354912	-972318	35.82	-97.38833	9.09	0.0368	1942-01-01	1953-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35009	GUTHRIE	OK	Alternate_Name	W-IV	354912	-972318	35.82	-97.38833	13.4	0.0542	1942-01-01	1953-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35010	GUTHRIE	OK	Alternate_Name	W-V	354912	-972318	35.82	-97.38833	15.7	0.0635	1942-01-01	1953-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+35011	GUTHRIE	OK	Alternate_Name	W-VI	354912	-972318	35.82	-97.38833	94.8	0.3836	1942-01-01	1955-12-31	1942-1948	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+36001	MUSKOGEE	OK	Alternate_Name	W-I					14.5	0.0587	1939-04-01	1947-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+36002	MUSKOGEE	OK	Alternate_Name	W-II					65.4	0.2647	1939-04-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+36003	MUSKOGEE	OK	Alternate_Name	W-IV					24.9	0.1008	1938-10-01	1947-08-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+37001	STILLWATER	OK	Alternate_Name	W-1	362100	-970400	36.35	-97.06667	16.7	0.0676	1951-07-01	1972-12-31	1959-1979	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+37002	STILLWATER	OK	Alternate_Name	W-3	362100	-970400	36.35	-97.06667	92.	0.3723	1951-07-01	1972-12-31	1959-1979	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+37003	STILLWATER	OK	Alternate_Name	W-4	362100	-970400	36.35	-97.06667	206.	0.8337	1951-07-01	1972-12-31	1958-1972	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+38001	GARLAND	TX	Alternate_Name	W-I					25.	0.1012	1938-09-01	1947-08-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+38002	GARLAND	TX	Alternate_Name	W-III					10.4	0.0421	1938-09-01	1947-08-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+38003	GARLAND	TX	Alternate_Name	W-IV					16.2	0.0656	1939-01-01	1947-08-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39001	SPUR	TX	Alternate_Name	W-1					11.53	0.0467	1927-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39002	SPUR	TX	Alternate_Name	W-2					9.39	0.038	1927-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39003	SPUR	TX	Alternate_Name	W-3					11.71	0.0474	1927-01-01	1944-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39004	SPUR	TX	Alternate_Name	W-5					5.53	0.0224	1927-01-01	1935-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39004	SPUR	TX	Alternate_Name	W-5					5.81	0.0235	1936-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39005	SPUR	TX	Alternate_Name	W-6					6.04	0.0244	1927-01-01	1936-04-30		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39005	SPUR	TX	Alternate_Name	W-6					5.32	0.0215	1936-05-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39006	SPUR	TX	Alternate_Name	W-11					.70	0.0028	1930-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39007	SPUR	TX	Alternate_Name	W-12					.41	0.0017	1930-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39008	SPUR	TX	Alternate_Name	W-14					.53	0.0021	1930-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+39009	SPUR	TX	Alternate_Name	W-15					.50	0.002	1930-01-01	1945-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40001	TYLER	TX	Alternate_Name	W-2					9.15	0.037	1943-01-01	1944-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40002	TYLER	TX	Alternate_Name	W-3					7.94	0.0321	1932-06-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40003	TYLER	TX	Alternate_Name	W-4					6.38	0.0258	1931-01-01	1932-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40003	TYLER	TX	Alternate_Name	W-4					5.75	0.0233	1933-01-01	1939-03-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40003	TYLER	TX	Alternate_Name	W-4					6.05	0.0245	1939-04-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40004	TYLER	TX	Alternate_Name	W-5					1.73	0.007	1932-04-01	1936-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+40004	TYLER	TX	Alternate_Name	W-5					1.57	0.0064	1937-01-01	1942-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+41001	VEGA	TX	Alternate_Name	W-1					129.	0.522	1938-01-01	1943-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+41002	VEGA	TX	Alternate_Name	W-2					95.9	0.3881	1938-02-01	1943-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42001	RIESEL	TX	Alternate_Name	A					42.	0.17	1938-06-31	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42002	RIESEL	TX	Alternate_Name	C	313111	-965334	31.51972	-96.89278	579.	2.3431	1938-02-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42002	RIESEL	TX	Alternate_Name	C	313111	-965334	31.51972	-96.89278	579.	2.3431	1949-03-01	1992-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42003	RIESEL	TX	Alternate_Name	D	313038	-965322	31.51056	-96.88944	1110.	4.492	1937-12-01	1943-06-31	1939-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42003	RIESEL	TX	Alternate_Name	D	313038	-965322	31.51056	-96.88944	1110.	4.492	1949-03-01	1992-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42004	RIESEL	TX	Alternate_Name	G	312859	-965206	31.48306	-96.86833	4380.	17.7252	1938-01-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42004	RIESEL	TX	Alternate_Name	G	312859	-965206	31.48306	-96.86833	4380.	17.7252	1957-07-01	1988-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42005	RIESEL	TX	Alternate_Name	J					5860.	23.7146	1937-07-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42006	RIESEL	TX	Alternate_Name	W-1	312727	-965248	31.4575	-96.88	176.	0.7122	1937-07-01	1968-12-31	1940-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42006	RIESEL	TX	Alternate_Name	W-1	312727	-965248	31.4575	-96.88	174.	0.7042	1969-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42007	RIESEL	TX	Alternate_Name	W-2	312719	-965255	31.45528	-96.88194	130.	0.5261	1937-07-01	1975-12-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42008	RIESEL	TX	Alternate_Name	W-6	312724	-965311	31.45667	-96.88639	42.3	0.1712	1939-05-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42008	RIESEL	TX	Alternate_Name	W-6	312724	-965311	31.45667	-96.88639	42.3	0.1712	1946-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42009	RIESEL	TX	Alternate_Name	W-8					40.4	0.1635	1938-08-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42010	RIESEL	TX	Alternate_Name	W-10	312712	-965300	31.45333	-96.88333	19.7	0.0797	1938-08-01	Present	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42011	RIESEL	TX	Alternate_Name	Y	312836	-965236	31.47667	-96.87667	309.	1.2505	1937-05-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42011	RIESEL	TX	Alternate_Name	Y	312836	-965236	31.47667	-96.87667	309.	1.2505	1946-05-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42012	RIESEL	TX	Alternate_Name	Y-2	312830	-965246	31.475	-96.87944	132.	0.5342	1939-01-01	Present	1940-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42013	RIESEL	TX	Alternate_Name	Y-4	312830	-965254	31.475	-96.88167	79.9	0.3233	1939-01-01	1943-06-31	1968-1968	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42013	RIESEL	TX	Alternate_Name	Y-4	312830	-965254	31.475	-96.88167	79.9	0.3233	1946-01-01	1968-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42014	RIESEL	TX	Alternate_Name	Y-6	312826	-965309	31.47389	-96.88583	20.90	0.0846	1939-01-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42014	RIESEL	TX	Alternate_Name	Y-6	312826	-965309	31.47389	-96.88583	20.90	0.0846	1947-05-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42014	RIESEL	TX	Alternate_Name	Y-6	312826	-965309	31.47389	-96.88583	16.3	0.066	1956-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42015	RIESEL	TX	Alternate_Name	Y-7	312808	-965249	31.46889	-96.88028	40.	0.1619	1939-01-01	1943-06-31	1968-1975	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42015	RIESEL	TX	Alternate_Name	Y-7	312808	-965249	31.46889	-96.88028	40.	0.1619	1947-05-01	1975-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42016	RIESEL	TX	Alternate_Name	Y-8	312822	-965254	31.47278	-96.88167	20.8	0.0842	1939-03-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42016	RIESEL	TX	Alternate_Name	Y-8	312822	-965254	31.47278	-96.88167	20.8	0.0842	1949-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42017	RIESEL	TX	Alternate_Name	Y-10	312831	-965310	31.47528	-96.88611	21.0	0.085	1938-07-01	1943-07-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42017	RIESEL	TX	Alternate_Name	Y-10	312831	-965310	31.47528	-96.88611	21.0	0.085	1946-05-01	1955-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42017	RIESEL	TX	Alternate_Name	Y-10	312831	-965310	31.47528	-96.88611	18.6	0.0753	1956-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42018	RIESEL	TX	Alternate_Name	SW-2					2.7	0.0109	1938-04-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42019	RIESEL	TX	Alternate_Name	SW-3					3.09	0.0125	1939-01-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42020	RIESEL	TX	Alternate_Name	SW-5					3.09	0.0125	1938-10-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42021	RIESEL	TX	Alternate_Name	SW-6					3.04	0.0123	1938-11-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42022	RIESEL	TX	Alternate_Name	SW-7					3.15	0.0127	1938-03-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42023	RIESEL	TX	Alternate_Name	SW-11	312802	-965304	31.46722	-96.88444	3.23	0.0131	1938-03-01	1943-06-31	1969-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42023	RIESEL	TX	Alternate_Name	SW-11	312802	-965304	31.46722	-96.88444	2.66	0.0108	1969-07-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42024	RIESEL	TX	Alternate_Name	SW-12	312848	-965259	31.48	-96.88306	2.97	0.012	1938-01-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42024	RIESEL	TX	Alternate_Name	SW-12	312848	-965259	31.48	-96.88306	2.97	0.012	1947-06-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42025	RIESEL	TX	Alternate_Name	SW-13					3.19	0.0129	1938-03-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42026	RIESEL	TX	Alternate_Name	SW-14					3.02	0.0122	1939-04-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42027	RIESEL	TX	Alternate_Name	SW-16					3.17	0.0128	1937-10-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42028	RIESEL	TX	Alternate_Name	SW-17	312745	-965314	31.4625	-96.88722	2.99	0.0121	1939-02-01	1943-06-31	1968-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42028	RIESEL	TX	Alternate_Name	SW-17	312745	-965314	31.4625	-96.88722	2.99	0.0121	1948-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42029	RIESEL	TX	Alternate_Name	SW-18					3.04	0.0123	1938-04-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42030	RIESEL	TX	Alternate_Name	Z					310.	1.2545	1939-06-01	1943-06-31		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42031	RIESEL	TX	Alternate_Name	P-1	312725	-965235	31.45694	-96.87639	.24	0.001	1938-01-01	1943-06-31	1968-1968	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42031	RIESEL	TX	Alternate_Name	P-1	312725	-965235	31.45694	-96.87639	.24	0.001	1960-01-01	1968-06-01		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42032	RIESEL	TX	Alternate_Name	P-2	312724	-965234	31.45667	-96.87611	.24	0.001	1938-01-01	1943-06-31	1968-1968	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42032	RIESEL	TX	Alternate_Name	P-2	312724	-965234	31.45667	-96.87611	.24	0.001	1960-01-01	1968-06-01		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42033	RIESEL	TX	Alternate_Name	P-3	312723	-965233	31.45639	-96.87583	.24	0.001	1938-01-01	1943-06-31	1968-1968	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42033	RIESEL	TX	Alternate_Name	P-3	312723	-965233	31.45639	-96.87583	.24	0.001	1960-01-01	1968-06-01		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42034	RIESEL	TX	Alternate_Name	P-4	312722	-965232	31.45611	-96.87556	.24	0.001	1938-01-01	1943-06-01	1968-1968	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42034	RIESEL	TX	Alternate_Name	P-4	312722	-965232	31.45611	-96.87556	.24	0.001	1960-01-01	1968-06-01		https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42035	RIESEL	TX	Alternate_Name	SW-19	312835	-965349	31.47639	-96.89694	3.25	0.0132	1970-01-01	1983-12-31	1970-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42036	RIESEL	TX	Alternate_Name	SW-20	312833	-965344	31.47583	-96.89556	3.21	0.013	1970-01-01	1983-12-31	1970-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42037	RIESEL	TX	Alternate_Name	Y-13	312836	-965239	31.47667	-96.8775	11.3	0.0457	1969-01-01	Present	1969-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42038	RIESEL	TX	Alternate_Name	Y-14	312811	-965255	31.46972	-96.88194	5.6	0.0227	1969-01-01	Present	1969-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42039	RIESEL	TX	Alternate_Name	W-12	312756	-965307	31.46556	-96.88528	9.9	0.0401	1969-01-01	Present	1969-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+42040	RIESEL	TX	Alternate_Name	W-13	312757	-965308	31.46583	-96.88556	11.3	0.0457	1969-01-01	Present	1969-1981	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+43001	HAYS	KS	Alternate_Name	6L					2.85	0.0115	1934-01-01	1938-12-31			 
+43002	HAYS	KS	Alternate_Name	AG					1.61	0.0065	1932-01-01	1947-12-31			 
+44001	HASTINGS	NE	Alternate_Name	W-3	401547	-982231	40.26306	-98.37528	481.	1.9465	1938-08-01	1967-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44002	HASTINGS	NE	Alternate_Name	W-5	401441	-982148	40.24472	-98.36333	411.	1.6633	1939-07-01	1967-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44003	HASTINGS	NE	Alternate_Name	W-8	401351	-982241	40.23083	-98.37806	2086.	8.4417	1938-01-01	1967-12-31	1938-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44004	HASTINGS	NE	Alternate_Name	W-11	401251	-982201	40.21417	-98.36694	3490.	14.1235	1939-01-01	1967-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44005	HASTINGS	NE	Alternate_Name	1-H	401602	-982208	40.26722	-98.36889	3.62	0.0146	1939-03-01	1967-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44006	HASTINGS	NE	Alternate_Name	2-H	401554	-982212	40.265	-98.37	3.40	0.0138	1939-03-01	1954-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44006	HASTINGS	NE	Alternate_Name	2-H	401554	-982212	40.265	-98.37	3.40	0.0138	1958-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44007	HASTINGS	NE	Alternate_Name	3-H	401550	-982224	40.26389	-98.37333	3.95	0.016	1939-03-01	1958-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44007	HASTINGS	NE	Alternate_Name	3-H	401550	-982224	40.26389	-98.37333	3.77	0.0153	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44008	HASTINGS	NE	Alternate_Name	4-H	401556	-982224	40.26556	-98.37333	3.84	0.0155	1939-04-01	1954-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44008	HASTINGS	NE	Alternate_Name	4-H	401556	-982224	40.26556	-98.37333	3.84	0.0155	1958-01-01	1958-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44008	HASTINGS	NE	Alternate_Name	4-H	401556	-982224	40.26556	-98.37333	3.64	0.0147	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44009	HASTINGS	NE	Alternate_Name	5-H	401600	-982227	40.26667	-98.37417	3.93	0.0159	1939-04-01	1956-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44009	HASTINGS	NE	Alternate_Name	5-H	401600	-982227	40.26667	-98.37417	3.93	0.0159	1958-01-01	1958-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44009	HASTINGS	NE	Alternate_Name	5-H	401600	-982227	40.26667	-98.37417	4.02	0.0163	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44010	HASTINGS	NE	Alternate_Name	6-H	401604	-982227	40.26778	-98.37417	4.16	0.0168	1939-04-01	1956-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44010	HASTINGS	NE	Alternate_Name	6-H	401604	-982227	40.26778	-98.37417	4.16	0.0168	1958-01-01	1958-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44010	HASTINGS	NE	Alternate_Name	6-H	401604	-982227	40.26778	-98.37417	4.01	0.0162	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44011	HASTINGS	NE	Alternate_Name	7-H	401606	-982226	40.26833	-98.37389	4.15	0.0168	1939-04-01	1956-12-31	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44011	HASTINGS	NE	Alternate_Name	7-H	401606	-982226	40.26833	-98.37389	4.15	0.0168	1958-01-01	1958-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44011	HASTINGS	NE	Alternate_Name	7-H	401606	-982226	40.26833	-98.37389	4.26	0.0172	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44012	HASTINGS	NE	Alternate_Name	8-H	401606	-982217	40.26833	-98.37139	3.93	0.0159	1939-03-01	1955-01-04	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44012	HASTINGS	NE	Alternate_Name	8-H	401606	-982217	40.26833	-98.37139	3.93	0.0159	1958-01-01	1958-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44012	HASTINGS	NE	Alternate_Name	8-H	401606	-982217	40.26833	-98.37139	3.97	0.0161	1959-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44013	HASTINGS	NE	Alternate_Name	9-H	401551	-982239	40.26417	-98.3775	3.78	0.0153	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44014	HASTINGS	NE	Alternate_Name	10-H	401558	-982243	40.26611	-98.37861	3.98	0.0161	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44015	HASTINGS	NE	Alternate_Name	11-H	401555	-982249	40.26528	-98.38028	3.85	0.0156	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44016	HASTINGS	NE	Alternate_Name	12-H	401554	-982251	40.265	-98.38083	3.66	0.0148	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44017	HASTINGS	NE	Alternate_Name	13-H	401540	-982301	40.26111	-98.38361	3.41	0.0138	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44018	HASTINGS	NE	Alternate_Name	14-H	401536	-982307	40.26	-98.38528	3.35	0.0136	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44019	HASTINGS	NE	Alternate_Name	15-H	401524	-982253	40.25667	-98.38139	3.62	0.0146	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44020	HASTINGS	NE	Alternate_Name	16-H	401524	-982305	40.25667	-98.38472	3.57	0.0144	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44021	HASTINGS	NE	Alternate_Name	17-H					3.96	0.016	1939-04-01	1954-12-31	1939-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44022	HASTINGS	NE	Alternate_Name	18-H	401629	-982213	40.27472	-98.37028	3.74	0.0151	1939-07-01	1955-07-30	1939-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44022	HASTINGS	NE	Alternate_Name	18-H	401629	-982213	40.27472	-98.37028	3.74	0.0151	1957-02-08	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44023	HASTINGS	NE	Alternate_Name	19-H	401604	-982306	40.26778	-98.385	4.10	0.0166	1941-04-01	1954-12-31	1941-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44024	HASTINGS	NE	Alternate_Name	20-H	401558	-982302	40.26611	-98.38389	4.05	0.0164	1941-04-01	1954-12-31	1941-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44025	HASTINGS	NE	Alternate_Name	21-H	401600	-982254	40.26667	-98.38167	3.94	0.0159	1941-04-01	1954-12-31	1941-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44026	HASTINGS	NE	Alternate_Name	22-H	401538	-982201	40.26056	-98.36694	3.83	0.0155	1941-04-01	1954-12-31	1941-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44026	HASTINGS	NE	Alternate_Name	22-H	401538	-982201	40.26056	-98.36694	3.83	0.0155	1962-05-23	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44027	HASTINGS	NE	Alternate_Name	23-H	401540	-982155	40.26111	-98.36528	4.20	0.017	1941-04-01	1954-12-31	1941-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44027	HASTINGS	NE	Alternate_Name	23-H	401540	-982155	40.26111	-98.36528	4.20	0.017	1962-05-23	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44028	HASTINGS	NE	Alternate_Name	24-H	401533	-982157	40.25917	-98.36583	4.21	0.017	1941-04-01	1954-12-31	1941-1954	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+44029	HASTINGS	NE	Alternate_Name	25-H	401555	-982207	40.26528	-98.36861	2.24	0.0091	1963-04-26	1967-12-31	1963-1967	https://hrsl.ba.ars.usda.gov/wdc/ne.htm	 
+45001	SAFFORD	AZ	Alternate_Name	W-I	325026	-1093130	32.84056	-109.525	519.3	2.1015	1939-06-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+45002	SAFFORD	AZ	Alternate_Name	W-II	325020	-1100012	32.83889	-110.00333	682.4	2.7616	1939-01-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+45003	SAFFORD	AZ	Alternate_Name	W-IV	323722	-1093642	32.62278	-109.61167	764.	3.0918	1939-01-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+45004	SAFFORD	AZ	Alternate_Name	W-V	322522	-1093930	32.42278	-109.65833	723.	2.9259	1939-01-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+46001	COLORADO SPR.	CO	Alternate_Name	W-1					10.6	0.0429	1938-04-01	1946-11-30			 
+46002	COLORADO SPR.	CO	Alternate_Name	W-2					39.7	0.1607	1938-04-01	1946-11-30			 
+46003	COLORADO SPR.	CO	Alternate_Name	W-3					35.4	0.1433	1938-04-01	1946-11-30			 
+46004	COLORADO SPR.	CO	Alternate_Name	W-4					35.6	0.1441	1938-04-01	1946-11-30			 
+47001	ALBUQUERQUE	NM	Alternate_Name	W-I	351042	-1070130	35.17833	-107.025	246.	0.9955	1939-08-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+47002	ALBUQUERQUE	NM	Alternate_Name	W-II	351100	-1070118	35.18333	-107.02167	40.1	0.1623	1939-08-01	1969-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+47003	ALBUQUERQUE	NM	Alternate_Name	W-III	351124	-1070124	35.19	-107.02333	155.	0.6273	1939-07-01	1946-12-31	1939-1969	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+47003	ALBUQUERQUE	NM	Alternate_Name	W-III	351124	-1070124	35.19	-107.02333	183.	0.7406	1947-01-01	1956-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+47003	ALBUQUERQUE	NM	Alternate_Name	W-III	351124	-1070124	35.19	-107.02333	168.3	0.6811	1957-01-01	1964-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+47003	ALBUQUERQUE	NM	Alternate_Name	W-III	351124	-1070124	35.19	-107.02333	176.	0.7122	1965-07-01	1969-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48001	MEXICAN SPR.	NM	Alternate_Name	W-1					187.	0.7568	1938-04-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48002	MEXICAN SPR.	NM	Alternate_Name	W-2					610.	2.4686	1937-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48003	MEXICAN SPR.	NM	Alternate_Name	W-3					1325.	5.3621	1938-05-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48004	MEXICAN SPR.	NM	Alternate_Name	W-6					5550.	22.4601	1937-06-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48005	MEXICAN SPR.	NM	Alternate_Name	W-7					495.	2.0032	1938-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48006	MEXICAN SPR.	NM	Alternate_Name	W-8					20910.	84.6198	1937-01-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48007	MEXICAN SPR.	NM	Alternate_Name	W-10					17220.	69.6869	1937-06-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48008	MEXICAN SPR.	NM	Alternate_Name	W-11					46080.	186.4793	1937-01-01	1939-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48009	MEXICAN SPR.	NM	Alternate_Name	W-12					2550.	10.3195	1937-01-01	1939-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48010	MEXICAN SPR.	NM	Alternate_Name	W-13					3360.	13.5974	1937-01-01	1939-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48011	MEXICAN SPR.	NM	Alternate_Name	W-14					3560.	14.4068	1937-12-31	1938-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+48012	MEXICAN SPR.	NM	Alternate_Name	W-15					4740.	19.1821	1937-01-01	1939-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+49001	SANTA FE	NM	Alternate_Name	W-I					141.	0.5706	1939-07-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+49002	SANTA FE	NM	Alternate_Name	W-II					790.	3.197	1939-07-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+49003	SANTA FE	NM	Alternate_Name	W-III					51.6	0.2088	1939-07-01	1948-12-31		https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+50001	PLACERVILLE	CA	Alternate_Name	W-1					41.	0.1659	1935-12-01	1944-12-31			 
+51001	SANTA PAULA	CA	Alternate_Name	W-1					413.	1.6714	1938-10-31	1942-01-01			 
+51002	SANTA PAULA	CA	Alternate_Name	W-3					106.	0.429	1938-10-31	1942-01-01			 
+51003	SANTA PAULA	CA	Alternate_Name	W-4					44.4	0.1797	1938-10-31	1942-01-01			 
+51004	SANTA PAULA	CA	Alternate_Name	W-5					55.1	0.223	1938-10-31	1942-01-01			 
+51005	SANTA PAULA	CA	Alternate_Name	W-6					163.	0.6596	1938-10-31	1942-01-01			 
+51006	SANTA PAULA	CA	Alternate_Name	H.B.R.					735.	2.9744	1936-09-01	1942-06-31			 
+51007	SANTA PAULA	CA	Alternate_Name	L.A.					1607.	6.5033	1934-09-01	1940-05-31			 
+51008	SANTA PAULA	CA	Alternate_Name	H.P.R.					1832.	7.4138	1934-09-01	1943-06-31			 
+51009	SANTA PAULA	CA	Alternate_Name	H.A.B.					5939.	24.0343	1934-10-01	1937-06-31			 
+52001	SEBASTOPOL	CA	Alternate_Name	W-1					3.	0.0121	1936-10-01	1943-07-31			 
+52002	SEBASTOPOL	CA	Alternate_Name	W-2					56.	0.2266	1936-01-01	1940-03-31			 
+53001	VACAVILLE	CA	Alternate_Name	W-I					40.	0.1619	1937-09-01	1942-12-31			 
+54001	WATSONVILLE	CA	Alternate_Name	W-1					16.8	0.068					 
+54002	WATSONVILLE	CA	Alternate_Name	W-2					18.5	0.0749					 
+54003	WATSONVILLE	CA	Alternate_Name	W-3					27.4	0.1109	1938-10-01	1942-12-31			 
+54004	WATSONVILLE	CA	Alternate_Name	W-4					10.1	0.0409	1938-10-01	1942-12-31			 
+55001	EMMETT	ID	Alternate_Name	W-1					219.4	0.8879	1938-09-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+55002	EMMETT	ID	Alternate_Name	W-2					69.4	0.2809	1938-09-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+56001	MOSCOW	ID	Moscow	W-1	464620	-1165639	46.77222	-116.94417	146.8	0.5941	1937-11-01	1942-12-31	1937-1942	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+56002	MOSCOW	ID	Moscow	W-2	464638	-1170000	46.77722	-117.0	177.9	0.7199	1937-11-01	1944-12-31	1937-1944	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+56003	MOSCOW	ID	Moscow	ROCKMAIN					53.11	0.2149	1976-12-07	1979-07-05	1976-1979	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+56004	MOSCOW	ID	Moscow	ROCKCHCK					2.22	0.009	1976-12-07	1979-07-05	1976-1979	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+57001	NEWBERG	OR	Alternate_Name	W-1					13.2	0.0534	1938-09-01	1942-12-31			 
+57002	NEWBERG	OR	Alternate_Name	W-2					21.6	0.0874	1938-09-01	1942-12-31			 
+57003	NEWBERG	OR	Alternate_Name	W-3					12.8	0.0518	1938-09-01	1942-12-31			 
+57004	NEWBERG	OR	Alternate_Name	W-4					6.2	0.0251	1938-09-01	1942-12-31			 
+58001	DAYTON	WA	Alternate_Name	W-1					19.2	0.0777	1939-08-01	1942-12-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+59001	PULLMAN	WA	Alternate_Name	S.F.P.R.					51900.	210.032	1934-10-01	1940-06-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+59002	PULLMAN	WA	Alternate_Name	M.F.C.					17600.	71.2247	1934-10-01	1940-06-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+59003	PULLMAN	WA	Alternate_Name	F.M.C.					46000.	186.1556	1934-10-01	1940-06-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60001	PULLMAN	WA	Alternate_Name	G.S.2					68.2	0.276	1931-01-01	1946-12-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60002	PULLMAN	WA	Alternate_Name	G.S.4					2.33	0.0094	1931-01-01	1938-12-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60003	PULLMAN	WA	Alternate_Name	G.S.5					14.4	0.0583	1932-01-01	1946-12-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60004	PULLMAN	WA	Alternate_Name	G.S.6					15.2	0.0615	1932-01-01	1946-10-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60005	PULLMAN	WA	Alternate_Name	G.S.7					16700.	67.5826	1932-01-01	1938-06-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60006	PULLMAN	WA	Alternate_Name	G.S.8					762.	3.0837	1934-01-01	1941-12-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60007	PULLMAN	WA	Alternate_Name	G.S.9					879.	3.5572	1941-07-01	1946-10-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+60008	PULLMAN	WA	Alternate_Name	G.S.10					4430.	17.9276	1941-07-01	1947-07-31		https://hrsl.ba.ars.usda.gov/wdc/wa.htm	 
+61001	MONTICELLO	IL	Alternate_Name	IA	395942	-883845	39.995	-88.64583	2.	0.0081	1949-07-01	1981-12-31	1949-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61002	MONTICELLO	IL	Alternate_Name	IB	395942	-883845	39.995	-88.64583	45.5	0.1841	1949-09-01	1981-12-31	1949-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61003	MONTICELLO	IL	Alternate_Name	W1					390.0	1.5783	1951-12-08	1979-08-19	1951-1979	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61004	MONTICELLO	IL	Alternate_Name	W2					63.0	0.255	1950-04-11	1978-12-03	1950-1978	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61011	MONTICELLO	IL	Alternate_Name	IA1					30.5	0.1234	1949-07-01	1981-12-31	1980-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61012	MONTICELLO	IL	Alternate_Name	IB1					33.0	0.1335	1949-09-01	1981-12-31	1980-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61021	MONTICELLO	IL	Alternate_Name	IA2					18.2	0.0737	1949-07-01	1981-12-31	1980-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61022	MONTICELLO	IL	Alternate_Name	IB2					25.0	0.1012	1949-09-01	1981-12-31	1981-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+61031	MONTICELLO	IL	Alternate_Name	IA3					3.9	0.0158	1949-07-01	1981-12-31	1980-1981	https://hrsl.ba.ars.usda.gov/wdc/il.htm	 
+62001	OXFORD	MS	Pigeon Roost	W-4	344228	-892939	34.70778	-89.49417	2000.	8.0937	1957-01-01	1964-12-31	1969-1974	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62001	OXFORD	MS	Pigeon Roost	W-4	344228	-892939	34.70778	-89.49417	1580.	6.394	1965-01-01	1979-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62002	OXFORD	MS	Pigeon Roost	W-5	344155	-893044	34.69861	-89.51222	1130.	4.573	1957-01-01	1969-09-30	1969-1974	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62002	OXFORD	MS	Pigeon Roost	W-5	344155	-893044	34.69861	-89.51222	1000.	4.0469	1969-10-01	1979-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62003	OXFORD	MS	Pigeon Roost	W-10	344141	-893610	34.69472	-89.60278	5530.	22.3791	1957-01-01	1972-12-31	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62004	OXFORD	MS	Pigeon Roost	W-12	344200	-893220	34.7	-89.53889	22800.	92.2684	1957-01-01	1973-12-31	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62005	OXFORD	MS	Pigeon Roost	W-17	344511	-893454	34.75306	-89.58167	32100.	129.9042	1957-01-01	1979-12-31	1969-1974	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62006	OXFORD	MS	Pigeon Roost	W-19					243.	0.9834	1957-01-01	1964-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62007	OXFORD	MS	Pigeon Roost	W-24	344548	-893454	34.76333	-89.58167	511.	2.0679	1957-01-01	1961-12-31	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62007	OXFORD	MS	Pigeon Roost	W-24	344548	-893454	34.76333	-89.58167	512.	2.072	1962-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62008	OXFORD	MS	Pigeon Roost	W-28	344406	-892724	34.735	-89.45667	1080.	4.3706	1957-01-01	1973-12-31	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62009	OXFORD	MS	Pigeon Roost	W-30					113.	0.4573	1957-01-01	1959-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62010	OXFORD	MS	Pigeon Roost	W-32	344256	-893730	34.71556	-89.625	20000.	80.9372	1957-01-01	1979-12-31	1969-1974	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62011	OXFORD	MS	Pigeon Roost	W-34	344534	-894145	34.75944	-89.69583	75000.	303.5145	1957-01-01	1969-12-31	1969-1974	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62011	OXFORD	MS	Pigeon Roost	W-34	344534	-894145	34.75944	-89.69583	75000.	303.5145	1971-01-01	1979-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62012	OXFORD	MS	Pigeon Roost	W-35	343909	-893810	34.6525	-89.63611	7550.	30.5538	1957-01-01	1976-12-31	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62013	OXFORD	MS	Pigeon Roost	WC-1					3.88	0.0157	1958-01-01	1977-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62014	OXFORD	MS	Pigeon Roost	WC-2					1.45	0.0059	1958-01-01	1977-12-31	1965-1972	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62015	OXFORD	MS	Pigeon Roost	WC-3					1.61	0.0065	1958-01-01	1977-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62016	OXFORD	MS	Pigeon Roost	WP-4					3.01	0.0122	1958-01-01	1963-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62017	OXFORD	MS	Pigeon Roost	W-17A	344548	-894325	34.76333	-89.72361	3200.	12.95	1957-01-01	Present	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62018	OXFORD	MS	Pigeon Roost	W-35A	343915	-893818	34.65417	-89.63833	1090.	4.4111	1957-01-01	Present	1969-1971	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+62019	OXFORD	MS	Pigeon Roost	W-5A					15.7	0.0635	1972-01-01	1979-12-31		https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+63001	TOMBSTONE	AZ	Walnut Gulch	W-1	314445	-1100910	31.74583	-110.15278	36900.	149.3291	1954-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63002	TOMBSTONE	AZ	Walnut Gulch	W-2	314405	-1100555	31.73472	-110.09861	28100.	113.7168	1954-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63003	TOMBSTONE	AZ	Walnut Gulch	W-3	314357	-1100325	31.7325	-110.05694	2220.	8.984	1954-05-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63004	TOMBSTONE	AZ	Walnut Gulch	W-4	314419	-1100240	31.73861	-110.04444	560.	2.2662	1954-06-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63005	TOMBSTONE	AZ	Walnut Gulch	W-5					5510.	22.2982	1954-01-01	1973-12-31	1968-1973	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63006	TOMBSTONE	AZ	Walnut Gulch	W-6	314355	-1100305	31.73194	-110.05139	23500.	95.1012	1962-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63007	TOMBSTONE	AZ	Walnut Gulch	6307	314402	-1100555	31.73389	-110.09861	3340.	13.5165	1966-06-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63008	TOMBSTONE	AZ	Walnut Gulch	6308	314323	-1100239	31.72306	-110.04417	3830.	15.4995	1963-07-31	1990-12-31	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63009	TOMBSTONE	AZ	Walnut Gulch	6309	314308	-1100130	31.71889	-110.025	5830.	23.5932	1968-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63010	TOMBSTONE	AZ	Walnut Gulch	6310	314315	-1100123	31.72083	-110.02306	4110.	16.6326	1968-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63011	TOMBSTONE	AZ	Walnut Gulch	6311	314428	-1095940	31.74111	-109.99444	2035.	8.2354	1963-01-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63015	TOMBSTONE	AZ	Walnut Gulch	6315	314246	-1100225	31.71278	-110.04028	5912.	23.925	1965-06-01	Present	1968-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63101	TOMBSTONE	AZ	Lucky Hills	LUCK.H.1	314430	-1100315	31.74167	-110.05417	3.2	0.0129	1962-01-01	1986-12-31	1962-1976	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63102	TOMBSTONE	AZ	Lucky Hills	LUCK.H.2	314430	-1100315	31.74167	-110.05417	3.6	0.0146	1963-01-01	Present	1963-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63103	TOMBSTONE	AZ	Lucky Hills	LUCK.H.3	314430	-1100315	31.74167	-110.05417	9.10	0.0368	1963-07-01	Present	1963-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63104	TOMBSTONE	AZ	Lucky Hills	LUCK.H.4	314430	-1100315	31.74167	-110.05417	11.2	0.0453	1963-01-01	Present	1963-1976	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63105	TOMBSTONE	AZ	Lucky Hills	LUCK.H.5	314430	-1100315	31.74167	-110.05417	.45	0.0018	1965-01-01	1986-12-31	1965-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63106	TOMBSTONE	AZ	Lucky Hills	LUCK.H.6	314430	-1100315	31.74167	-110.05417	.85	0.0034	1965-01-01	Present	1965-1977	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63111	TOMBSTONE	AZ	Kendall	KENDALL1	314405	-1095653	31.73472	-109.94806	143.	0.5787	1962-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63112	TOMBSTONE	AZ	Kendall	KENDALL2	314410	-1095640	31.73611	-109.94444	4.6	0.0186	1962-01-01	1986-12-31	1962-1975	https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63113	TOMBSTONE	AZ	Kendall	KENDALL3	314417	-1095635	31.73806	-109.94306	70.	0.2833	1966-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63121	TOMBSTONE	AZ	Holiday Ranch	HOL.RNCH	314350	-1100214	31.73056	-110.03722	13.4	0.0542	1972-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63122	TOMBSTONE	AZ	Cowen	COWEN122	314437	-1100058	31.74361	-110.01611	2.4	0.0097	1974-01-01	1990-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63124	TOMBSTONE	AZ	Cowen	COWEN124	314437	-1100058	31.74361	-110.01611	5.4	0.0219	1974-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63201	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314420	-1100805	31.73889	-110.13472	109.0	0.4411	1966-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63207	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314156	-1100135	31.69889	-110.02639	264.0	1.0684	1959-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63208	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314455	-1100122	31.74861	-110.02278	268.0	1.0846	1969-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63212	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314052	-1100042	31.68111	-110.01167	782.0	3.1646	1969-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63213	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314223	-1100013	31.70639	-110.00361	364.0	1.4731	1969-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63214	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314520	-1095551	31.75556	-109.93083	378.0	1.5297	1960-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63215	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314411	-1095918	31.73639	-109.98833	84.0	0.3399	1966-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63216	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314455	-1095817	31.74861	-109.97139	236.0	0.9551	1966-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63220	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314403	-1095655	31.73417	-109.94861	151.0	0.6111	1959-01-01	1987-12-31		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+63223	TOMBSTONE	AZ	Walnut Gulch Pond	W.G.POND	314406	-1100351	31.735	-110.06417	115.0	0.4654	1985-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+64001	SANTA ROSA	NM	Alternate_Name	W-1	345153	-1041223	34.86472	-104.20639	42880.	173.5294	1955-01-01	1979-04-01	1955-1978	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+65002	NEWELL	SD	Alternate_Name	W-2					115.	0.4654	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65003	NEWELL	SD	Alternate_Name	W-3					90.	0.3642	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65004	NEWELL	SD	Alternate_Name	W-4					105.	0.4249	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65005	NEWELL	SD	Alternate_Name	W-5					46.	0.1862	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65006	NEWELL	SD	Alternate_Name	W-6					30.	0.1214	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65007	NEWELL	SD	Alternate_Name	W-7					160.	0.6475	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65008	NEWELL	SD	Alternate_Name	W-8					160.	0.6475	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65009	NEWELL	SD	Alternate_Name	W-9					15.	0.0607	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65010	NEWELL	SD	Alternate_Name	W-10					280.	1.1331	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65011	NEWELL	SD	Alternate_Name	W-11					160.	0.6475	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65012	NEWELL	SD	Alternate_Name	W-12					90.	0.3642	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65013	NEWELL	SD	Alternate_Name	W-13					160.	0.6475	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65014	NEWELL	SD	Alternate_Name	W-14					35.	0.1416	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65015	NEWELL	SD	Alternate_Name	W-15					115.	0.4654	1958-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+65016	NEWELL	SD	Alternate_Name	W-16					13000.	52.6092	1958-01-01	1961-12-31		https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+66001	MOOREFIELD	WV	Alternate_Name	W-1	390245	-790245	39.04583	-79.04583	.25	0.001	1958-01-01	1961-12-31	1958-1967	https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+66001	MOOREFIELD	WV	Alternate_Name	W-1	390245	-790245	39.04583	-79.04583	.57	0.0023	1962-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+66002	MOOREFIELD	WV	Alternate_Name	W-2	390250	-790230	39.04722	-79.04167	10.06	0.0407	1958-01-01	1961-12-31	1958-1967	https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+66002	MOOREFIELD	WV	Alternate_Name	W-2	390250	-790230	39.04722	-79.04167	9.73	0.0394	1962-01-01	1967-12-31		https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+66004	MOOREFIELD	WV	Alternate_Name	W-4	390253	-790155	39.04806	-79.03194	6.32	0.0256	1958-06-01	1967-12-31	1958-1967	https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+66005	MOOREFIELD	WV	Alternate_Name	W-5	390253	-790149	39.04806	-79.03028	9.55	0.0386	1958-06-01	1967-12-31	1958-1967	https://hrsl.ba.ars.usda.gov/wdc/wv.htm	 
+67001	N. DANVILLE	VT	Alternate_Name	W-1	442700	-720406	44.45	-72.06833	10611.20	42.942	1958-10-01	1976-12-31	1958-1973	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67002	N. DANVILLE	VT	Alternate_Name	W-2	442732	-720539	44.45889	-72.09417	146.	0.5908	1958-09-01	1978-10-11	1961-1971	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67003	N. DANVILLE	VT	Alternate_Name	W-3	442835	-720733	44.47639	-72.12583	2067.	8.3649	1960-01-01	Present	1960-1979	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67004	N. DANVILLE	VT	Alternate_Name	W-4	442727	-720346	44.4575	-72.06278	10752.	43.5118	1960-01-01	1974-12-31	1960-1973	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67005	N. DANVILLE	VT	Alternate_Name	W-5	442604	-720222	44.43444	-72.03944	27469.	111.1632	1960-01-01	1979-05-16	1960-1973	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67006	N. DANVILLE	VT	Alternate_Name	W-6	442843	-720625	44.47861	-72.10694	168.	0.6799	1968-01-01	1975-12-31	1968-1971	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67007	N. DANVILLE	VT	Alternate_Name	W-7	442729	-720600	44.45806	-72.1	5389.	21.8085	1961-01-01	1976-12-31	1961-1972	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67008	N. DANVILLE	VT	Alternate_Name	W-8	442738	-720546	44.46056	-72.09611	3866.	15.6452	1961-01-01	1979-05-16	1961-1979	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67009	N. DANVILLE	VT	Alternate_Name	W-9	442926	-720948	44.49056	-72.16333	116.	0.4694	1961-01-01	1978-07-15	1961-1973	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67010	N. DANVILLE	VT	Alternate_Name	W-10	442640	-720345	44.44444	-72.0625	4032.	16.3169	1963-01-01	1975-12-31	1963-1973	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67011	N. DANVILLE	VT	Alternate_Name	W-11	442700	-720245	44.45	-72.04583	562.	2.2743	1964-01-01	1975-12-31	1964-1972	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67012	N. DANVILLE	VT	Alternate_Name	W-12	442715	-720412	44.45417	-72.07	502.	2.0315	1964-01-01	1975-12-31	1964-1972	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67013	N. DANVILLE	VT	Alternate_Name	W-13	442814	-720621	44.47056	-72.10583	254.	1.0279	1965-01-01	1975-12-31	1965-1972	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67014	N. DANVILLE	VT	Alternate_Name	W-14	442818	-720624	44.47167	-72.10667	915.	3.7029	1965-01-01	1975-12-31	1965-1972	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+67016	N. DANVILLE	VT	Alternate_Name	W-16	442841	-720731	44.47806	-72.12528	736.	2.9785	1965-01-01	1975-12-31	1965-1967	https://hrsl.ba.ars.usda.gov/wdc/vt.htm	 
+68001	REYNOLDS	ID	Reynolds Creek Outlet	W-1	431549	-1164510	43.26361	-116.75278	57700.	233.5038	1963-01-01	Present	1963-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68002	REYNOLDS	ID	Salmon Creek	W-2	431521	-1164510	43.25583	-116.75278	990.	4.0064	1964-01-01	1984-12-31	1964-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68002	REYNOLDS	ID	Salmon Creek	W-2	431521	-1164510	43.25583	-116.75278	990.	4.0064	1989-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68003	REYNOLDS	ID	Reynolds Creek	W-3	431442	-1164530	43.245	-116.75833	7846.	31.7517	1965-01-01	1984-12-31	1965-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68003	REYNOLDS	ID	Reynolds Creek	W-3	431442	-1164530	43.245	-116.75833	7846.	31.7517	1989-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68004	REYNOLDS	ID	Reynolds Creek at Tollgate	W-4	430833	-1164542	43.1425	-116.76167	13453.	54.4424	1966-01-01	Present	1966-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68011	REYNOLDS	ID	Reynolds Creek	W-11	431524	-1164901	43.25667	-116.81694	306.	1.2383	1967-01-01	1978-12-31	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68012	REYNOLDS	ID	Reynolds Creek	W-12	431430	-1164245	43.24167	-116.7125	205.	0.8296	1967-01-01	1977-12-31	1967-1975	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68013	REYNOLDS	ID	Reynolds Mtn. East	W-13	430416	-1164527	43.07111	-116.7575	100.	0.4047	1963-01-01	Present	1963-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68014	REYNOLDS	ID	Lower Sheep Creek	W-14	430853	-1164414	43.14806	-116.73722	33.	0.1335	1967-01-01	1984-12-31	1967-1981	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68014	REYNOLDS	ID	Lower Sheep Creek	W-14	430853	-1164414	43.14806	-116.73722	33.	0.1335	1989-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68015	REYNOLDS	ID	Reynolds Creek	W-15	430416	-1164517	43.07111	-116.75472	126.	0.5099	1965-01-01	1984-12-31	1965-1975	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68016	REYNOLDS	ID	Reynolds Creek	W-16	430726	-1164625	43.12389	-116.77361	3482.	14.0912	1973-01-01	1980-12-31	1973-1975	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68021	REYNOLDS	ID	Upper Sheep Creek 1	W-21	430726	-1164338	43.12389	-116.72722	63.4	0.2566	1970-01-01	1976-12-31	1970-1975	https://hrsl.ba.ars.usda.gov/wdc/id.htm	Lats and lons in INDEX.TXT and inventor.txt do not match exactly but number of acres is an exact match to Upper Sheep Creek 1.
+68021	REYNOLDS	ID	Upper Sheep Creek 1	W-21	430726	-1164338	43.12389	-116.72722	63.4	0.2566	1984-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	Lats and lons in INDEX.TXT and inventor.txt do not match exactly but number of acres is an exact match to Upper Sheep Creek 1.
+68022	REYNOLDS	ID	Upper Sheep Creek 2	W-22	430700	-1164330	43.11667	-116.725	15.7	0.0635	1970-01-01	1975-12-31	1970-1975	https://hrsl.ba.ars.usda.gov/wdc/id.htm	Lats and lons in INDEX.TXT and inventor.txt do not match exactly but number of acres is an exact match to Upper Sheep Creek 2.
+68022	REYNOLDS	ID	Upper Sheep Creek 2	W-22	430700	-1164330	43.11667	-116.725	15.7	0.0635	1984-01-01	1991-12-31		https://hrsl.ba.ars.usda.gov/wdc/id.htm	Lats and lons in INDEX.TXT and inventor.txt do not match exactly but number of acres is an exact match to Upper Sheep Creek 2.
+68023	REYNOLDS	ID	Flats Watershed	W-23	431407	-1164421	43.23528	-116.73917	2.24	0.0091	1971-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68024	REYNOLDS	ID	Nancy's Gulch	W-24	431006	-1164300	43.16833	-116.71667	3.10	0.0125	1971-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68033	REYNOLDS	ID	Reynolds Creek	W-33	430930	-1164010	43.15833	-116.66944	350.	1.4164	1968-01-01	1974-12-31	1968-1973	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+68034	REYNOLDS	ID	Reynolds Creek	W-34	430930	-1164030	43.15833	-116.675	2360.	9.5506	1968-01-01	1974-12-31	1968-1973	https://hrsl.ba.ars.usda.gov/wdc/id.htm	 
+69001	CHICKASHA	OK	Alternate_Name	100	350500	-981400	35.08333	-98.23333	2339840.	9469.0049	1961-10-01	1979-12-31	1961-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69002	CHICKASHA	OK	Alternate_Name	200	350500	-980500	35.08333	-98.08333	2613000.	10574.4452	1961-10-01	1974-12-31	1961-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69002	CHICKASHA	OK	Alternate_Name	200	350500	-980500	35.08333	-98.08333	273000.	1104.7928	1961-10-01	1974-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69004	CHICKASHA	OK	Alternate_Name	400	350500	-975600	35.08333	-97.93333	2725760.	11030.7691	1961-10-01	1968-12-31	1961-1966	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69004	CHICKASHA	OK	Alternate_Name	400	350500	-975600	35.08333	-97.93333	112910.	456.931	1961-10-01	1968-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69005	CHICKASHA	OK	Alternate_Name	500	350500	-975400	35.08333	-97.9	2769920.	11209.4785	1964-01-01	1978-04-30	1964-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69005	CHICKASHA	OK	Alternate_Name	500	350500	-975400	35.08333	-97.9	43840.	177.4143	1964-01-01	1978-04-30		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69006	CHICKASHA	OK	Alternate_Name	600	345900	-974800	34.98333	-97.8	3011800.	12188.3329	1963-08-01	1972-12-31	1964-1970	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69006	CHICKASHA	OK	Alternate_Name	600	345900	-974800	34.98333	-97.8	243050.	983.5893	1963-08-01	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69007	CHICKASHA	OK	Alternate_Name	700	345500	-974600	34.91667	-97.76667	3061100.	12387.8431	1961-10-01	1978-12-31	1961-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69007	CHICKASHA	OK	Alternate_Name	700	345500	-974600	34.91667	-97.76667	50830.	205.7019	1961-10-01	1978-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69008	CHICKASHA	OK	Alternate_Name	611	345700	-975100	34.95	-97.85	4845.	19.607	1961-10-01	1974-12-31	1961-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69009	CHICKASHA	OK	Alternate_Name	612	355700	-975100	35.95	-97.85	563.	2.2784	1961-10-01	1974-12-31	1961-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69010	CHICKASHA	OK	Alternate_Name	111	350300	-981500	35.05	-98.25	16634.	67.3155	1962-10-01	1978-04-30	1962-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69011	CHICKASHA	OK	Alternate_Name	131	350300	-981000	35.05	-98.16667	25660.	103.8424	1962-09-01	1978-04-30	1962-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69012	CHICKASHA	OK	Alternate_Name	411	350300	-975800	35.05	-97.96667	33300.	134.7604	1962-09-01	1974-12-31	1962-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69013	CHICKASHA	OK	Alternate_Name	511	350300	-975100	35.05	-97.85	38020.	153.8616	1962-10-01	1978-12-31	1962-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69014	CHICKASHA	OK	Alternate_Name	110	350500	-981100	35.08333	-98.18333	25020.	101.2524	1963-04-01	1978-04-30	1963-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69015	CHICKASHA	OK	Alternate_Name	522	345700	-975700	34.95	-97.95	132990.	538.1919	1963-05-01	Present	1963-1985	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69016	CHICKASHA	OK	Alternate_Name	512	350500	-975000	35.08333	-97.83333	22530.	91.1758	1963-08-01	1978-04-30	1963-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69017	CHICKASHA	OK	Alternate_Name	621	350000	-974600	35.0	-97.76667	21310.	86.2386	1963-10-01	1987-12-31	1963-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69018	CHICKASHA	OK	Alternate_Name	121	351030	-981530	35.175	-98.25833	131780.	533.2952	1963-10-01	1974-12-31	1964-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69019	CHICKASHA	OK	Alternate_Name	513	350353	-974913	35.06472	-97.82028	12314.	49.833	1964-01-01	1978-04-30	1964-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69020	CHICKASHA	OK	Alternate_Name	514					7225.6	29.241	1967-05-01	1978-04-30	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69021	CHICKASHA	OK	Alternate_Name	5141					4064.	16.4464	1967-01-01	1978-04-30	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69022	CHICKASHA	OK	Alternate_Name	5142					360.3	1.4581	1967-01-01	1974-12-31	1967-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69023	CHICKASHA	OK	Alternate_Name	5143					485.8	1.966	1967-01-01	1974-12-31	1967-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69024	CHICKASHA	OK	Alternate_Name	5144					1456.6	5.8947	1967-01-01	1978-04-30	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69025	CHICKASHA	OK	Alternate_Name	5145					252.8	1.023	1967-01-01	1978-04-30	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69026	CHICKASHA	OK	Alternate_Name	5146					761.6	3.0821	1967-01-01	1978-04-30	1967-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69027	CHICKASHA	OK	Alternate_Name	311	350844	-975730	35.14556	-97.95833	15206.	61.5366	1966-01-01	1978-04-30	1966-1977	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69028	CHICKASHA	OK	Alternate_Name	515	350937	-975106	35.16028	-97.85167	1657.	6.7056	1972-01-01	1980-12-31	1972-1980	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69029	LTTLE WASHITA	OK	Alternate_Name	526	345016	-0980726	34.83778	-98.12389	39644.00	160.4337	1979-01-01	Present	1979-1985	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69030	CHICKASHA	OK	Alternate_Name	C-1	350246	-975439	35.04611	-97.91083	17.83	0.0722	1965-01-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69031	CHICKASHA	OK	Alternate_Name	C-2	350625	-980234	35.10694	-98.04278	38.10	0.1542	1962-05-01	1964-06-14	1962-1974	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69031	CHICKASHA	OK	Alternate_Name	C-2	350625	-980234	35.10694	-98.04278	32.54	0.1317	1964-06-15	1972-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69031	CHICKASHA	OK	Alternate_Name	C-2	350625	-980234	35.10694	-98.04278	38.10	0.1542	1973-01-01	1973-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69031	CHICKASHA	OK	Alternate_Name	C-2	350625	-980234	35.10694	-98.04278	32.54	0.1317	1974-01-01	1975-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69032	CHICKASHA	OK	Alternate_Name	C-3	350225	-975413	35.04028	-97.90361	44.26	0.1791	1965-09-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69033	CHICKASHA	OK	Alternate_Name	C-4	350223	-975413	35.03972	-97.90361	29.93	0.1211	1965-09-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69034	CHICKASHA	OK	Alternate_Name	C-5	350200	-975433	35.03333	-97.90917	12.75	0.0516	1965-05-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69035	CHICKASHA	OK	Alternate_Name	C-6	350200	-975434	35.03333	-97.90944	13.0	0.0526	1965-05-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69036	CHICKASHA	OK	Alternate_Name	C-7	350201	-975438	35.03361	-97.91056	26.52	0.1073	1965-05-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69037	CHICKASHA	OK	Alternate_Name	C-8	350155	-975425	35.03194	-97.90694	27.28	0.1104	1965-04-01	1976-12-31	1965-1976	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69038	CHICKASHA	OK	Alternate_Name	R-1					17.76	0.0719	1962-07-01	1974-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69039	CHICKASHA	OK	Alternate_Name	R-2					24.08	0.0974	1962-07-01	1974-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69040	CHICKASHA	OK	Alternate_Name	R-3					25.84	0.1046	1962-07-01	1974-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69041	CHICKASHA	OK	Alternate_Name	R-4					18.12	0.0733	1962-07-01	1974-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69042	CHICKASHA	OK	Alternate_Name	R-5	350521	-974725	35.08917	-97.79028	23.72	0.096	1966-07-01	1978-12-31	1966-1978	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69043	CHICKASHA	OK	Alternate_Name	R-6	350518	-974720	35.08833	-97.78889	27.22	0.1102	1966-07-01	1978-12-31	1966-1978	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69044	CHICKASHA	OK	Alternate_Name	R-7	350458	-974727	35.08278	-97.79083	19.19	0.0777	1966-07-01	1978-07-31	1966-1978	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69045	CHICKASHA	OK	Alternate_Name	R-8	350503	-974711	35.08417	-97.78639	27.55	0.1115	1966-07-01	1978-07-31	1966-1978	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69049	CHICKASHA	OK	Alternate_Name	R-9	350503	-974731	35.08417	-97.79194	9.3	0.0376	1971-01-01	1978-07-31	1971-1978	https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69051	LTTLE WASHITA	OK	Alternate_Name	5201	345858	-975338	34.98278	-97.89389	9.39	0.038	1980-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	Longitude DMS in INDEX.txt does not match value in inventor.txt. From Google Maps degrees should be -97 not -98. Outlet is at a bridge near the town of Ninnekah.
+69052	LTTLE WASHITA	OK	Alternate_Name	5202	345901	-975347	34.98361	-97.89639	14.06	0.0569	1980-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	Longitude DMS in INDEX.txt does not match value in inventor.txt. From Google Maps degrees should be -97 not -98. Outlet is at a bridge near the town of Ninnekah.
+69053	LTTLE WASHITA	OK	Alternate_Name	5215	345225	-975455	34.87361	-97.91528	1.17	0.0047	1980-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	Longitude DMS in INDEX.txt does not match value in inventor.txt. From Google Maps degrees should be -97 not -98. Outlet is at a bridge near the town of Ninnekah.
+69054	LTTLE WASHITA	OK	Alternate_Name	5268	345029	-0981228	34.84139	-98.20778	7.69	0.0311	1980-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69055	LTTLE WASHITA	OK	Alternate_Name	5269	345029	-0981229	34.84139	-98.20806	10.30	0.0417	1980-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69056	LTTLE WASHITA	OK	Alternate_Name	5275	345240	-0981151	34.87778	-98.1975	1.46	0.0059	1980-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+69057	LTTLE WASHITA	OK	Alternate_Name	5276	345240	-0981152	34.87778	-98.19778	1.28	0.0052	1980-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+70001	SONORA	TX	Alternate_Name	W-14	303412	-1003836	30.57	-100.64333	30720.	124.3195	1961-06-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70002	SONORA	TX	Alternate_Name	S-9	303948	-1003342	30.66333	-100.56167	1774.	7.1791	1961-06-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70003	SONORA	TX	Alternate_Name	S-10	303748	-1003512	30.63	-100.58667	5392.	21.8207	1961-06-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70004	SONORA	TX	Alternate_Name	S-11	303624	-1003618	30.60667	-100.605	10787.	43.6535	1961-06-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70005	SONORA	TX	Alternate_Name	S-12	303530	-1003700	30.59167	-100.61667	2801.	11.3353	1961-06-01	1973-12-31	1968-1971	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70006	SONORA	TX	Alternate_Name	S-13	303342	-1003748	30.56167	-100.63	686.	2.7761	1961-06-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70007	SONORA	TX	Alternate_Name	W-1	301600	-1003400	30.26667	-100.56667	10.2	0.0413	1963-10-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70008	SONORA	TX	Alternate_Name	W-2	301600	-1003400	30.26667	-100.56667	8.6	0.0348	1965-01-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70009	SONORA	TX	Alternate_Name	W-3	301600	-1003400	30.26667	-100.56667	6.7	0.0271	1965-01-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70010	SONORA	TX	Alternate_Name	W-4	301600	-1003400	30.26667	-100.56667	4.5	0.0182	1966-01-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70011	SONORA	TX	Alternate_Name	W-5	301600	-1003400	30.26667	-100.56667	7.2	0.0291	1966-01-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70012	SONORA	TX	Alternate_Name	W-6	301600	-1003400	30.26667	-100.56667	6.9	0.0279	1966-01-01	1975-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70013	SONORA	TX	Alternate_Name	W-7	304024	-1003312	30.67333	-100.55333	12.2	0.0494	1965-01-01	1973-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+70014	SONORA	TX	Alternate_Name	W-8					7.98	0.0323	1972-01-01	1972-12-31	1972-1972	https://hrsl.ba.ars.usda.gov/wdc/tx.htm	 
+71001	TREYNOR	IA	Alternate_Name	W-1	410951	-953830	41.16417	-95.64167	74.5	0.3015	1964-01-01	Present	1964-1986	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71002	TREYNOR	IA	Alternate_Name	W-2	411010	-953900	41.16944	-95.65	2.8	0.0113	1964-01-01	Present	1964-1986	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71003	TREYNOR	IA	Alternate_Name	W-3	411236	-953805	41.21	-95.63472	107.	0.433	1964-01-01	Present	1964-1986	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71004	TREYNOR	IA	Alternate_Name	W-4	411236	-953805	41.21	-95.63472	150.	0.607	1964-01-01	Present	1964-1986	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71005	TREYNOR	IA	Alternate_Name	W-5	411018	-952655	41.17167	-95.44861	389.	1.5742	1963-01-01	1985-12-31	1963-1973	https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71011	TREYNOR	IA	Alternate_Name	W-11	410954	-953831	41.165	-95.64194	14.9	0.0603	1978-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+71021	TREYNOR	IA	Alternate_Name	W-21	411010	-953900	41.16944	-95.65	14.4	0.0583	1978-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/ia.htm	 
+72001	COTTONWOOD	SD	Alternate_Name	H-2	4358--	-10152--	43.96667	-101.86667	2.13	0.0086	1963-01-01	1973-06-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+72002	COTTONWOOD	SD	Alternate_Name	L-2	4358--	-10152--	43.96667	-101.86667	2.38	0.0096	1963-01-01	1973-06-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+72005	COTTONWOOD	SD	Alternate_Name	M-1	4358--	-10152--	43.96667	-101.86667	2.35	0.0095	1963-01-01	1973-06-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/sd.htm	 
+73001	FORT STAUNTON	NM	Alternate_Name	7301	332747	-1053138	33.46306	-105.52722	24.4	0.0987	1966-04-01	1983-12-31	1967-1976	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+73002	FORT STAUNTON	NM	Alternate_Name	7302	332753	-1053133	33.46472	-105.52583	32.2	0.1303	1966-04-01	1983-12-31	1967-1976	https://hrsl.ba.ars.usda.gov/wdc/nm.htm	 
+74002	TIFTON	GA	Little River	W-TB					82592.00	334.2383	1969-01-01	Present	1971-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74003	TIFTON	GA	Little River	W-TN	313103	-833511	31.5175	-83.58639	3872.00	15.6694	1968-01-01	1982-12-31	1970-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74004	TIFTON	GA	Little River	W-TO	313015	-833432	31.50417	-83.57556	3936.60	15.9309	1968-01-01	1982-12-31	1968-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74005	TIFTON	GA	Little River	W-TF	313617	-833753	31.60472	-83.63139	28378.80	114.845	1968-01-01	Present	1969-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74006	TIFTON	GA	Little River	W-TI	314028	-834126	31.67444	-83.69056	12333.00	49.9099	1968-01-01	Present	1968-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74007	TIFTON	GA	Little River	W-TJ	314132	-834208	31.69222	-83.70222	5466.00	22.1201	1968-01-01	Present	1968-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74008	TIFTON	GA	Little River	W-TK	314147	-834151	31.69639	-83.6975	4115.00	16.6528	1968-01-01	Present	1968-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74009	TIFTON	GA	Little River	W-TM	314419	-834328	31.73861	-83.72444	646.00	2.6143	1968-01-01	1988-12-31	1968-1980	https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74010	TIFTON	GA	Little River	W-TU	312826	-832911	31.47389	-83.48639	2246.00	9.0892	1968-01-01	1982-12-31		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+74011	TIFTON	GA	Little River	W-TZ	312830	-833155	31.475	-83.53194	.85	0.0034	1969-01-01	1991-12-31		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+75001	AHOSKIE	NC	Alternate_Name	W-A1	361654	-770006	36.28167	-77.00167	36480.	147.6295	1964-07-01	1974-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+75002	AHOSKIE	NC	Alternate_Name	W-A2	361654	-770954	36.28167	-77.165	15360.	62.1598	1964-07-01	1974-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+75003	AHOSKIE	NC	Alternate_Name	W-A3	361448	-771406	36.24667	-77.235	2368.	9.583	1964-07-01	1974-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+75004	AHOSKIE	NC	Alternate_Name	W-A4	361639	-770048	36.2775	-77.01333	1664.	6.734	1964-07-01	1974-12-31	1968-1972	https://hrsl.ba.ars.usda.gov/wdc/nc.htm	 
+76001	SANTA RITA	AZ	Alternate_Name	001	315155	-1105120	31.86528	-110.85556	4.	0.0162	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76002	SANTA RITA	AZ	Alternate_Name	002	315155	-1105120	31.86528	-110.85556	4.4	0.0178	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76003	SANTA RITA	AZ	Alternate_Name	003	315110	-1105432	31.85278	-110.90889	6.8	0.0275	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76004	SANTA RITA	AZ	Alternate_Name	004	315110	-1105426	31.85278	-110.90722	4.9	0.0198	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76005	SANTA RITA	AZ	Alternate_Name	005	314910	-1105038	31.81944	-110.84389	9.9	0.0401	1975-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76006	SANTA RITA	AZ	Alternate_Name	006	314800	-1105038	31.8	-110.84389	7.6	0.0308	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76007	SANTA RITA	AZ	Alternate_Name	007	314915	-1105038	31.82083	-110.84389	2.6	0.0105	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+76008	SANTA RITA	AZ	Alternate_Name	008	314920	-1105053	31.82222	-110.84806	2.8	0.0113	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/az.htm	 
+77001	LAUPAHOEHOE	HI	Alternate_Name	W-1	195800	-1551500	19.96667	-155.25	2.05	0.0083	1972-01-01	1973-12-31	1972-1978	https://hrsl.ba.ars.usda.gov/wdc/hi.htm	 
+77001	LAUPAHOEHOE	HI	Alternate_Name	W-1	195800	-1551500	19.96667	-155.25	1.52	0.0062	1974-01-01	1978-12-31		https://hrsl.ba.ars.usda.gov/wdc/hi.htm	 
+77003	WAIALUA	HI	Alternate_Name	W-3	213600	-1580200	21.6	-158.03333	7.02	0.0284	1972-01-01	1978-12-31	1972-1977	https://hrsl.ba.ars.usda.gov/wdc/hi.htm	 
+77006	KUNIA	HI	Alternate_Name	W-6	212500	-1580400	21.41667	-158.06667	7.07	0.0286	1975-01-01	1977-01-01	1975-1977	https://hrsl.ba.ars.usda.gov/wdc/hi.htm	 
+78001	PLAINS	GA	Alternate_Name	W-P1	320024	-0842359	32.00667	-84.39972	20.00	0.0809	1985-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+78002	PLAINS	GA	Alternate_Name	W-P2	320027	-0842352	32.0075	-84.39778	294.00	1.1898	1985-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+78003	PLAINS	GA	Alternate_Name	W-P3	320004	-0842357	32.00111	-84.39917	460.00	1.8616	1985-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ga.htm	 
+79001	CENTRALIA	MO	Alternate_Name	W-1	391814	-0920308	39.30389	-92.05222	17880.00	72.3579	1969-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79002	CENTRALIA	MO	Alternate_Name	W-9	391738	-0920716	39.29389	-92.12111	7710.00	31.2013	1969-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79003	CENTRALIA	MO	Alternate_Name	W-11	391428	-0920907	39.24111	-92.15194	3040.00	12.3025	1969-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79004	CENTRALIA	MO	Alternate_Name	BAILEY90	391042	-0921954	39.17833	-92.33167	235.00	0.951	1968-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79005	CENTRALIA	MO	Alternate_Name	BAILEY91	391027	-0922000	39.17417	-92.33333	119.00	0.4816	1968-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79006	CENTRALIA	MO	Alternate_Name	RAUSCH70	390630	-0922556	39.10833	-92.43222	50.00	0.2023	1979-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79007	CENTRALIA	MO	Alternate_Name	RAUSCH71	390630	-0922556	39.10833	-92.43222	9.00	0.0364	1979-01-01	1985-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79008	CENTRALIA	MO	Alternate_Name	ORR 91	390245	-0921500	39.04583	-92.25	285.00	1.1534	1980-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79009	CENTRALIA	MO	Alternate_Name	ORR 92	390245	-0921500	39.04583	-92.25	285.00	1.1534	1980-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+79010	CENTRALIA	MO	Alternate_Name	ORR 93	390245	-0921500	39.04583	-92.25	285.00	1.1534	1980-01-01	1986-12-31		https://hrsl.ba.ars.usda.gov/wdc/mo.htm	 
+80001	EL RENO	OK	Alternate_Name	FR-1	353217	-0980258	35.53806	-98.04944	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80002	EL RENO	OK	Alternate_Name	FR-2	353222	-0980258	35.53944	-98.04944	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80003	EL RENO	OK	Alternate_Name	FR-3	353226	-0980258	35.54056	-98.04944	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80004	EL RENO	OK	Alternate_Name	FR-4	353239	-0980256	35.54417	-98.04889	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80005	EL RENO	OK	Alternate_Name	FR-5	353243	-0980252	35.54528	-98.04778	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80006	EL RENO	OK	Alternate_Name	FR-6	353248	-0980248	35.54667	-98.04667	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80007	EL RENO	OK	Alternate_Name	FR-7	353253	-0980245	35.54806	-98.04583	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+80008	EL RENO	OK	Alternate_Name	FR-8	353257	-0980243	35.54917	-98.04528	4.00	0.0162	1976-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+81001	WOODWARD	OK	Alternate_Name	WW-1	362513	-0992506	36.42028	-99.41833	11.72	0.0474	1977-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+81002	WOODWARD	OK	Alternate_Name	WW-2	362530	-0992513	36.425	-99.42028	13.73	0.0556	1977-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+81003	WOODWARD	OK	Alternate_Name	WW-3	362536	-0992515	36.42667	-99.42083	6.72	0.0272	1977-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+81004	WOODWARD	OK	Alternate_Name	WW-4	362540	-0992514	36.42778	-99.42056	7.22	0.0292	1977-01-01	Present		https://hrsl.ba.ars.usda.gov/wdc/ok.htm	 
+83001	OXFORD	MS	Goodwin Creek	GOODWN C	341351	-895449	34.23083	-89.91361	5290.	21.4079	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83002	OXFORD	MS	Goodwin Creek	GOODWN C	341460	-0895355	34.25	-89.89861	4430.	17.9276	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83003	OXFORD	MS	Goodwin Creek	GOODWN C	341531	-0895231	34.25861	-89.87528	2170.	8.7817	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83004	OXFORD	MS	Goodwin Creek	GOODWN C	341526	-0895228	34.25722	-89.87444	880.	3.5612	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83005	OXFORD	MS	Goodwin Creek	GOODWN C	341548	-0895130	34.26333	-89.85833	1060.	4.2897	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83006	OXFORD	MS	Goodwin Creek	GOODWN C	341616	-0895148	34.27111	-89.86333	298.	1.206	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83007	OXFORD	MS	Goodwin Creek	GOODWN C	341511	-0895136	34.25306	-89.86	399.	1.6147	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83008	OXFORD	MS	Goodwin Creek	GOODWN C	341612	-0895026	34.27	-89.84056	384.	1.554	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83009	OXFORD	MS	Goodwin Creek	GOODWN C	341613	-0895026	34.27028	-89.84056	45.	0.1821	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83010	OXFORD	MS	Goodwin Creek	GOODWN C	341548	-0895031	34.26333	-89.84194	15.	0.0607	1982-01-01	Present	1980-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83011	OXFORD	MS	Goodwin Creek	GOODWN C	341546	-0895007	34.26278	-89.83528	69.	0.2792	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83012	OXFORD	MS	Goodwin Creek	GOODWN C	341604	-0894938	34.26778	-89.82722	74.	0.2995	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83013	OXFORD	MS	Goodwin Creek	GOODWN C	341500	-0895337	34.25	-89.89361	304.	1.2302	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 
+83014	OXFORD	MS	Goodwin Creek	GOODWN C	341504	-0895254	34.25111	-89.88167	403.	1.6309	1982-01-01	Present	1981-1990	https://hrsl.ba.ars.usda.gov/wdc/ms.htm	 

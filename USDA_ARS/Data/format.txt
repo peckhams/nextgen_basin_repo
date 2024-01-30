@@ -1,0 +1,85 @@
+ Data          Precipitation                        FORTRAN
+column         data field description                format
+
+ 1-2     Location number                                 I2
+
+ 3-8     Rain gage identification                        A6
+
+ 9-14    Date of occurrence (month, day, year)          3I2
+
+15-18    Time of day (24-hour clock)                     I4
+
+19-24    Amount of precipitation (inches) for the time
+            interval                                    F6.2
+
+25-31    Accumulated precipitation (inches) for the year        
+                                                        F7.2
+
+ 32       Precipitation type code:
+               0 or blank = rainfall
+               S = snow
+               N = rain and snow
+               L = sleet
+               H = hail
+               M = mixed
+               T = trace, unmeasurable amount
+               E = estimated value (may refer to time
+                   or amount)                             A1
+
+ 33       Precipitation reading code:
+               0 or blank = normal reading
+               1 = total value for a series of days
+                   proportioned equally among the days    I1
+ Data                         Runoff                    FORTRAN
+column                      data field                   format
+                            description                    
+
+ 1-2     Location number                                   I2
+
+ 3-5     Watershed identification                          I3
+
+ 6-11    Date of occurrence (month, day, year)            3I2
+
+12-15    Time of day (24-hour clock)                       I4
+
+16-20    Flow depth (feet), if available                  F5.2
+
+21-30    Runoff rate (cubic feet per second)             F10.3
+
+31-37    Runoff rate (inches per hour)                    F7.4
+
+38-45    Accumulated runoff (inches) for the year         F8.4
+
+ 46      Runoff code:
+              0 or blank =  nonestimated
+              E = estimated value                           A1
+
+ 47      Runoff rate type code:
+              0 or blank = rates in record are instantaneous
+                       1 = rates are
+                           averages for the time interval   I1
+
+
+ Data            Maximum-minimum Daily Temperature          FORTRAN
+column              data field description                   format
+
+ 1-2     Numeric identification number for each location        I2
+
+ 2-5     Numeric identification for collecting station          I3
+
+ 6-7     Data year                                              I2
+
+ 8-79    12 maximum and minimum temperature values for
+            each month as follows:
+               I3 - Maximum temperature for the day
+               I3 - Minimum temperature for the day          12(2I3)
+
+  80     Blank                                                  1X
+
+ 81-82   Day of month                                           I2
+
+
+
+
+
+

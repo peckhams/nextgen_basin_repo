@@ -1,0 +1,802 @@
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1994
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+ARIZONA
+ Santa Rita
+ 010-R
+
+    Santa Rita              315115  1105120  76.001  76.001  1975     P         4.0     1,4,15,17,19(e)
+    Santa Rita              315115  1105120  76.002  76.002  1975     P         4.4     1,4,15,17,19(e)
+    Santa Rita              315110  1105432  76.003  76.003  1975     P         6.8     1,4,15,17,19(e)
+    Santa Rita              315110  1105426  76.004  76.004  1975     P         4.9     1,4,15,17,19(e)
+    Santa Rita              314910  1105038  76.005  76.005  1975     P         9.9     1,4,15,17,19(e)
+
+    Santa Rita              314800  1105038  76.006  76.006  1976     P         7.6     1,4,15,17,19(e)
+    Santa Rita              314915  1105038  76.007  76.007  1976     P         2.6     1,4,15,17,19(e)
+    Santa Rita              314920  1105053  76.008  76.008  1976     P         2.8     1,4,15,17,19(e)
+
+ Tombstone
+ 098-R (a)
+    Walnut Gulch            314445  1100910  63.001  63.001  19544/    P    36,900.      1,4,7,8,9,16,17,18
+    Walnut Gulch            314405  1100555  63.002  63.002  19544/    P    28,100.      1,4,7,8,9,16,17,18
+    Walnut Gulch            314357  1100325  63.003  63.003  1954     P     2,220.      1,4,15,16,17
+    Walnut Gulch            314419  1100240  63.004  63.004  1954     P       560.      1,4,15,16,17
+    Walnut Gulch            314355  1100305  63.006  63.006  1961     P    23,500.      1,4,15,16,17
+
+    Walnut Gulch            314402  1100555  63.007  63.007  1966     P     3,340.      1,4,15,16,17,19
+    Walnut Gulch            314308  1100130  63.009  63.009  1967     P     5,830.      1,4,8,9,15,16,17
+    Walnut Gulch            314315  1100123  63.010  63.010  1967     P     4,110.      1,4,8,9,15,16,17
+    Walnut Gulch            314428  1095940  63.011  63.011  1963     P     2,035.      1,4,15,16,17
+
+    Walnut Gulch            314246  1100225  63.015  63.015  1965     P(d)  5,912.      1,4,15,16,17
+    Lucky Hills 2           314430  1100315  63.102          1963     P         3.6     1,4,15,16,17
+    Lucky Hills 3           314430  1100315  63.103  63.103  1963     P         9.1     1,4,15,16,17,19(e)
+    Lucky Hills 4           314430  1100315  63.104          1963     P        11.2     1,4,15,16,17,19(e)
+    Lucky Hills 6           314430  1100315  63.106          1965     P          .85    1,4,15,16,17,19
+
+    Kendall 1               314405  1095653  63.111  63.111  1962(f)  P       143.      1,4,15,16,17
+    Kendall 2               314410  1095640  63.112  63.112  1962(f)  P         4.6     1,4,15,16,17,19,20
+    Kendall 3               314417  1095653  63.113  63.113  1966(f)  P        70.      1,4,15,16,17
+    Holiday                 314350  1100214  63.121  63.121  1972     U        13.4     1,4,17,19(e)
+    Cowen                   314437  1100058  63.124  63.124  1974     P         5.4     1,4,17,19(e)
+    Simanton                314355  1100305  63.125  63.125  1981     P-U      22.0     1,4(e)
+
+    Walnut Gulch Pond       314520  1095551  63.214          1960     P       378.      1,4(b),15,17,20(c)
+    Walnut Gulch Pond       314455  1095817  63.216          1966     P       236.      1,4(b),15,17,20(c)
+    Walnut Gulch Pond       314406  1100351  63.223          1985     p       115.      1,4(b),15,17,20(c)
+    Walnut Gulch Pond       314420  1100805  63.201          1966     P       109.      1,4(b),15,17,20(c)
+    Walnut Gulch Pond       314403  1095655  63.220          1959     P       151.      1,4(b),15,17,20(c)
+
+    (a) During the period between Nov. 1 through April 30, only 14 raingages are in operation.
+    (b) Runoff measured in stock ponds.
+    (c) Sediment measured by survey of ponds.
+    (d) Includes the 5,510 acres previously identified as 63.005.
+    (e) Sediment measured by total load, traversing slot at flume outlet.                                              
+    (f) Records reinstated 1991.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     
+
+    Note:  For numbered footnotes 1 through 5, see page 2. 
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+GEORGIA
+
+ Tifton
+ 031-R
+    Little River            312854  0833503    W-TB  74.002  1971    M    82,618.     1,4,7,8,13,16,17
+    Little River            312936  0833404    W-TO  74.004  1968(a) M     3,936.     1,4,8,13,16,17
+    Little River            313617  0833753    W-TF  74.005  1968    M    28,403.     1,4,8,13,16,17
+    Little River            314028  0834126    W-TI  74.006  1968    M    12,358.     1,4,8,13,16,17
+
+    Little River            314132  0834208    W-TJ  74.007  1968    M     5,466.     1,4,8,13,16,17
+    Little River            314147  0834151    W-TK  74.008  1968    M     4,141.     1,4,8,13,14,16,17,19,21
+   
+(a) Records discontinued 1982-1993.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      
+
+    Note:  For numbered footnotes 1 through 5, see page 2.
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+
+ Watkinsville
+ 001-R 001-NR
+   W-1                      335338  0832530          10.001  1940    P        19.2    1,4,14,15,16,17
+
+ 004-R
+   P-1 (a)                  335315  0832515          10.011  1972    N         6.67   1,4,14,15,16,17      
+   P-2 (a)                  335305  0832538          10.012  1973    N         3.21   1,4,14,15,16,17
+   P-3 (a)                  335208  0832710          10.013  1972    N         3.11   1,4,14,15,16,17      
+   P-4 (a)                  335212  0832710          10.014  1973    N         3.41   1,4,14,15,16,17      
+
+(a) Records intermittent since 1979.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     
+
+    Note:  For numbered footnotes 1 through 5, see page 2. 
+
+
+
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+IDAHO
+ Boise
+ 048-R
+    Reynolds Cr. Outlet     431549  1164510 036068(a) 68.001 1963    M    57,754.     1,3,4,7,8,9,10,11(b),12,13,14,
+                                                                                      16,17,19
+    Lower Sheep Creek       430853  1164414 117066(a) 68.014 1966(c) P        33.     1,4,7,8,9,10,11(b),12,13,14,16,
+                                                                                      17,19,20
+    Flats Watershed         431407  1164421 057096(a) 68.023 1971    P         2.24   1,4,11(b),12,13,14,16,20
+    Nancy's Gulch           431006  1164300 098097(a) 68.024 1971    P         3.10   1,4,11(b),12,13,14,16,19,20
+    Reynolds Cr. @ Tollgate 430833  1164542 116083(a) 68.004 1966    P    13,453.     1,3,4,7,8,9,10,11(b),12,13,14,
+                                                                                      16,17,19
+    Upper Sheep Creek 1     430721  1164325 138012(a)        1970(d) P        63.4    1,3,4,6,8,9,10,11(b),12,13,14,
+                                                                                      15,16,17,18,19,20
+    Salmon Creek            431521  1164510 046017(a) 68.002 1964    M     8,990.     4,14,16,17
+    Upper Sheep Creek 2     430708  1164306 138034(a)        1970(d) P        15.7    1,3,4,6,8,9,10,11(b),12,13,14,
+                                                                                      15,16,17,19,20
+    Reynolds Mtn. East      430416  1164527 166076(a) 68.013 1963    P       100.     1,3,4,7,8,9,10,11(b),12,13,14,
+                                                                                      16,17,19,20
+
+    (a) Code number is grid location of Weir.
+    (b) Weekly or less frequent--by neutron probe.
+    (c) Discontinued 1985-89.
+    (d) Intermittent records prior to 1984.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     
+
+    Note:  For numbered footnotes 1 through 5, see page 2. 
+
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+IOWA
+ Treynor (a)
+ 010-R 
+   W-1                      410951  0953830          71.001  1964    C        68.2(b) 1,3(d),4,6,7,8,9,11(e),14,15,
+                                                                                      16,17,18,19,21
+   W-2                      411010  0953900          71.002  1964    C        85.0(c) 1,3(d),4,5,7,8,9,11(e),14,15,16,
+                                                                                      17,18,21
+   W-3                      411236  0953805          71.003  1964    C       107.     1,3(d),4,5,7,8,9,11(e),14,15,16,
+                                                                                      17,19,21
+   W-4                      411236  0953805          71.004  1964    C       150.     1,3(d),4,5,6,8,9,11(e),14,15,16,
+                                                                                      17,19,21
+   W-11                     410954  0953831          71.011  1978    C        14.9    1,3(d),4,5,6,8,9,11(e),14,15,16,
+                                                                                      17,19
+
+    (a) Records processed by Cropping Systems and Water Quality Research Unit, Columbia, Missouri.
+    (b) Decreased from 74.5 Ac, 9/79.
+    (c) Increased from 82.8 Ac, 9/79.
+    (d) Occasional estimates of snow on ground by random samples.
+    (e) Sampled each 2 to 4 weeks during non-frost periods.
+
+MISSOURI
+ Centralia (a)
+ 012-R (b)
+    W-1                     391814  0920308          79.001  1969    M    17,880.     1,4,,7,8,9,16,17,21
+    W-9                     391738  0920716          79.002  1969    M     7,710.     1,4,6,7,8,9,16,17,21
+    W-11                    391428  0920907          79.003  1969    M     3,040.     1,4,6,7,8,9,16,17,21
+
+
+    (a) Records processed by Cropping Systems and Water Quality Research Unit, Columbia, Missouri.
+    (b) 30-R(1975) 16-R(1975-1982).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     
+
+    Note:  For numbered footnotes 1 through 5, see page 2. 
+
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+MISSISSIPPI
+ Oxford
+ 037-R
+    Goodwin Creek           341351  0895449     1    83.001  1982    M     5,290.     1,4,14,16,17,18,19
+    Goodwin Creek           341460  0895355     2    83.002  1982    M     4,430.     1,4,8,14,16,17,18,19
+    Goodwin Creek           341531  0895231     3    83.003  1982    M     2,170.     1,4,14,16,17,18,19
+    Goodwin Creek           341526  0895228     4    83.004  1982    M       880.     1,4,8,14,16,17,18,19
+    Goodwin Creek           341548  0895130     5    83.005  1982    M     1,060.     1,4,14,16,17,18,19
+
+    Goodwin Creek           341616  0895148     6    83.006  1982    M       298.     1,4,14,16,17,18,19
+    Goodwin Creek           341511  0895136     7    83.007  1982    M       399.     1,4,14,16,17,18,19
+    Goodwin Creek           341612  0895026     8    83.008  1982    M       384.     1,4,14,16,17,18,19
+    Goodwin Creek           341613  0895026     9    83.009  1982    M        45.     1,4,14,16,17,18,19
+    Goodwin Creek           341548  0895031    10    83.010  1982    W        15.     1,4,14,16,17,18,19
+
+    Goodwin Creek           341546  0895007    11    83.011  1982    P        69.     1,4,14,16,17,18,19
+    Goodwin Creek           341604  0894938    12    83.012  1982    M        74.     1,4,8,14,16,17,18,19
+    Goodwin Creek           341500  0895337    13    83.013  1982    M       304.     1,4,14,16,17,18,19
+    Goodwin Creek           341504  0895254    14    83.014  1982    M       403.     1,4,14,16,17,18,19
+
+    Nelson Farm             343357  0895733     1            1989    N         5.     1,4,6,8,9,10,14,16,17,19
+    Nelson Farm             343359  0895724     2            1989    C         5.     1,4,6,8,9,10,14,16,17,19
+    Nelson Farm             343404  0895719     3            1989    N         8.     1,4,6,8,9,10,14,16,17,19
+    Holly Springs           344936  0892536   WS-1           1993    N (b)     3.2    1,4,14,15,16,17,19,21
+    Holly Springs           344902  0892605   DB-1           1993    N         4.4    1,4,14,15,16,17,19,21
+
+(a) Periodic
+(b) No-till corn/cotton rotation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      
+
+    Note:  For numbered footnotes 1 through 5, see page 2.
+                                                      -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+OHIO
+ Coshocton
+ 012-R
+                            402225  0814742   102    26.001  1938    P         1.26   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402224  0814742   104    26.002  1937(b) P         1.33   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402219  0814752   129    26.003  1938(b) H         2.71   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402220  0814748   135    26.004  1938(b) P         2.69   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402213  0814758   130    26.005  1938(b) H         1.63   1,4,7,8,9,10,12,13,14,15,16,17,
+                                                                                      20,21
+                            402223  0814720   123    26.010  1939    C         1.37   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402229  0814728   127    26.012  1949(b) C         1.65   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402211  0814739   109    26.013  1939    C         1.69   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402156  0814749   103    26.014  1939(b) P         0.65   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402154  0814742   110    26.015  1939(b) P         1.27   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402204  0814650   113    26.016  1939(b) N         1.45   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402153  0814714   118    26.017  1939(b) N         1.96   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402204  0814650   111    26.018  1940(b) C         1.12   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402139  0814802   121    26.019  1939(b) P/H       1.42   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402143  0814756   106    26.020  1939(b) P/H       1.56   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402140  0814752   192    26.025  1939(b) P/H       7.59   1,4,7,8,9,10,12,13,14,15,16,17,
+                                                                                      20,21
+                            402222  0814712   115    26.011  1939(b) M         1.61   1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402156  0814815    172   26.026  1939(b) W        43.6    1,4,7,8,9,10,12,13,14,15,16,
+                                                                                      17,20,21
+                            402138  0814707    196   26.030  1937(b) M       303.     1,4,7,8,9,10,11(a)12,13,14,15,
+                                                                                      16,17,20,21
+                            402150  0814732    174   26.038  1960(b) M        52.8    1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402147  0814723    194   26.039  1960(b) M       187.     1,4,7,8,9,10,11(a)12,13,14,15,
+                                                                                      16,17,20,21
+                            402136  0814755    182   26.040  1964(b) M        69.6    1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402158  0814757    166   26.041  1967(b) M        79.2    1,4,7,8,9,10,11(a),12,13,14,15,
+                                                                                      16,17,20,21
+                            402130  0814745    191   26.891  1939(b) N         1.2    1,4,7,8,9,10,12,13,14,15,16,17,
+                                                                                      20,21
+    (a) Biweekly to monthly.
+    (b) Period of record not continuous
+
+
+
+
+
+
+
+
+                                                                                                                      
+
+    Note:  For numbered footnotes 1 through 5, see page 2.
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+OKLAHOMA
+ Chickasha
+    Little Washita R.(a)(b) 345641  0975708    522   69.015  1963    M   132,990.     1,4,14,16,17,18,19       
+    Little Washita R.(b)    345016  0980726    526   69.029  1979    M    39,644.     1,4,14,16,17,18,19       
+    Little Washita          345858  0975338   5201   69.051  1980    P         9.39   1,4,14,16,17,18,19,21
+    Little Washita          345901  0975347   5202   69.052  1980    P        14.06   1,4,14,16,17,18,19,21
+    Little Washita          345225  0975455   5215   69.053  1980    P(c)      1.17   1,4,14,16,17,18,19,21
+
+
+    (a) Three miles upstream from USGS gage, 1952-63.
+    (b) Stations closed for part of 1986.
+    (c) Roadside erosion; sampler in ditch.
+
+ El Reno (a)
+ 004-R
+                            353217  0980258   FR-1   80.001  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+                            353222  0980258   FR-2   80.002  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+                            353226  0980258   FR-3   80.003  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+                            353239  0980256   FR-4   80.004  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+                            353243  0980252   FR-5   80.005  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+
+                            353248  0980248   FR-6   80.006  1976    P         4.0    1,4,11(d),14,15,16,17,19,21 
+                            353253  0980245   FR-7   80.007  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+                            353257  0980243   FR-8   80.008  1976    P         4.0    1,4,11(d),14,15,16,17,19,21
+
+ Ft. Cobb                   350856  0922753   FC-1           1982    C         6.31   1,4,14,15,16,17,19,21
+                            350854  0922746   FC-2           1982    C         5.13   1,4,14,15,16,17,19,21
+
+ Woodward (a)
+ 004-R
+                            362513  0992506   WW-1   81.001  1977    P        11.72   1,4,14,15,16,17,19,21
+                            362530  0992513   WW-2   81.002  1977    P        13.73   1,4,14,15,16,17,19,21
+                            362536  0992515   WW-3   81.003  1977    C         6.72   1,4,14,15,16,17,19,21
+                            362540  0992514   WW-4   81.004  1977    C         7.22   1,4,14,15,16,17,19,21            
+            
+
+    (a) Data Collection and analysis supervised by Chickasha location.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                     
+
+    Note:  For numbered footnotes 1 through 5, see page 2. 
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+PENNSYLVANIA
+ Klingerstown
+    Mahantango Cr. at Malta 403640  0765444  R-04(a) 16.001  1929     M  103,680.     1,4,6,7,8,9,11(b),16,17
+
+ 004-R 001-NR
+    Mahantango Cr. at Klgtn.404133  0763949   K-27   16.003  1968     M   28,544.     1,4,6,7,8,9,11(b),16,17
+
+ 004-R 001-NR
+    Stehr Bros. Weir        404216  0763516   E-38   16.006  1967     M    1,773.     1,4,6,7,8,9,11(b),13,16,17
+
+    (a) USGS Station
+    (b) Soil Moisture by neutron meter taken weekly or more often during summer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+                                                                                                                       
+
+                                                                                                                     
+   Note:  For numbered footnotes 1 through 5, see page 2.
+                                                         -1-
+
+                  Watersheds at which records of runoff were being collected by the 
+                       Agricultural Research Service as of January 1, 1995
+                                                                                                                       
+
+Study Location                      Watershed
+& Number of                                          Pub.  Record   Land      Area
+Rain Gages1/    Name         Lat.    Long.   Number   Code  Began    Use2/    (Acres)       Types of Data3/              
+                                                                                                                       
+
+TEXAS
+ Riesel
+ 029-R
+    W-1                     312727  0965248          42.006  1937     M      174.      1,4,7,8,9,10,14,15,16,17,19
+    W-6                     312724  0965311          42.008  19394/    M       42.4    1,4,7,8,9,10,14,15,16,17
+    W-10                    312712  0965300          42.010  19394/    P       19.7    1,4,7,8,9,10,14,15,16,17
+
+    Y                       312836  0965236          42.011  19374/    M      309.     1,4,7,8,9,10,14,15,16,17,18,19
+    Y-2                     312830  0965246          42.012  19374/    M      132.     1,4,7,8,9,10,14,15,16,17,18,19
+    Y-6                     312826  0965309          42.014  19394/    C       16.3    1,4,7,8,9,10,14,15,16,17,
+                                                                                       18,19,21
+    Y-8                     312822  0965254          42.016  19394/    C       20.8    1,4,7,8,9,10,14,15,16,17,
+                                                                                       19,21
+    Y-10                    312831  0965310          42.017  19384/    C       18.6    1,4,7,8,9,10,14,15,16,17,
+                                                                                       19,21
+
+    SW-12                   312848  0965259          42.024  19384/    H        2.97   1,4,7,8,9,10,14,15,16,17
+    SW-17                   312743  0965314          42.028  19394/    P        2.99   1,4,7,8,9,10,14,15,16,17
+    Y-13                    312836  0965239          42.037  1969     C       11.3    1,4,7,8,9,10,14,15,16,17,19,21
+    Y-14                    312811  0965255          42.038  19704/    P        5.6    1,4,7,8,9,10,14,15,16,17,19   
+    W-12                    312756  0965307          42.039  1970     C        9.9    1,4,7,8,9,10,14,15,16,17,19,21
+
+    W-13                    312757  0965308          42.040  1970     C       11.3    1,4,7,8,9,10,14,15,16,17,19,21
+    P-1                     312725  0965235          42.031  19384/    P         .243  1,4,7,8,9,10,11,14,15,16,17
+    P-2                     312724  0965234          42.032  19384/    P         .243  1,4,7,8,9,10,11,14,15,16,17
+    P-3                     312723  0965233          42.033  19384/    P         .243  1,4,7,8,9,10,11,14,15,16,17
+    P-4                     312722  0965232          42.034  19384/    P         .243  1,4,7,8,9,10,11,14,15,16,17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      
+
+   Note:  For numbered footnotes 1 through 5, see page 2.
+
+
+                                                  -2-
+
+                          Watershed Inventory Footnotes and Codes Definitions
+
+1/   R = recording;
+    NR = non-recording or no records obtained.
+
+2/   M = Mixed;
+     P = Pasture or Range;
+     C = Cultivated;
+     N = No-till cultivation;
+     H = Meadow;
+     W = Woods;
+     U = Urban.
+3/  Legend for "types of data" column:
+
+     1 - Precipitation measured by recording and standard gages or recording gages only
+     2 - Precipitation, by standard gages only
+     3 - Snow, from snow courses
+     4 - Runoff, continous records
+     5 - Runoff, peak stages only, as from crest gages
+     6 - Ground water levels from wells
+     7 - Pan evaporation
+     8 - Air temperature, maximum and minimum of recording
+     9 - Humidity, daily or oftener
+    10 - Solar radiation
+    11 - Soil moisture (indicate by footnote how often measurements are taken)
+    12 - Frost depths
+    13 - Soil temperature
+    14 - Land use, annual or oftener
+    15 - Condition of vegetative cover and field operations
+    16 - Detailed soil survey available
+    17 - Topgraphic map available
+    18 - Profile and cross sections of channels available
+    19 - Sediment, by suspended sampling
+    20 - Sediment, by silt box and/or Coshocton wheel
+    21 - Nutrient losses available
+
+4/  Records interrupted for certain periods.
+
+5/  Not operated by ARS but records readily available.
+
+                                                  ************
+
+                                        WATERSHED INVENTORY SUMMARY - 1995
+
+                                 Salient Statistics Compiled from Watershed List
+A.  Size classification of watersheds listed.
+
+    10 acres or less (4.05 Hectares) ..................................... 62
+    10.1 to 100 acres (4.45 to 40.48 Hectares) ........................... 30
+    101 to 1,000 acres (40.89 to 404.8 Hectares) ......................... 20
+    1,001 to 10,000 acres (405.25 to 4048.4 Hectares) .................... 17
+    Greater than 10,000 acres ............................................ 13
+
+       Total watersheds for which records are collected ................. 146 
+
+B.  323 recording and 5 non-recording rain gages are operated to serve the 146 watersheds studies.
+C.  Suspended sampling of sediment is made at 71 sites.
+D.  Sediment accumulation, measured by pond or reservoir surveys are made at 36 sites.
+E.  Nutrient losses are being determined at 56 sites.
+
+
+
+
+  
