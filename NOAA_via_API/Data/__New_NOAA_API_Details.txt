@@ -1,0 +1,22 @@
+
+S.D. Peckham
+2023-11-10
+----------------------
+New NWS API (beta version):
+   https://preview-api.water.noaa.gov/v1/docs/#/Gauges/Gauges_ListGauges
+
+Note: This new (beta) API gives extensive info for a single station
+      such as "ANAW1" or "13334300", including RFC name.
+      The below
+
+CONUS Bounding Box
+-124.75 xmin.  -100.    -100
+24.5    ymin.    24.5     30
+-66.9   xmax    -80.     -90
+49.39   ymax    49.39     40
+
+curl -X GET "https://preview-api.water.noaa.gov/v1/gauges?bbox.xmin=-124.75&bbox.ymin=24.5&bbox.xmax=-66.9&bbox.ymax=49.39&srid=EPSG_4326" -H  "accept: application/json"
+
+https://preview-api.water.noaa.gov/v1/gauges?bbox.xmin=-124.75&bbox.ymin=24.5&bbox.xmax=-66.9&bbox.ymax=49.39&srid=EPSG_4326
+
+###### RangeError: Maximum call stack size exceeded  ########
