@@ -1,0 +1,22 @@
+
+                            U.S. GEOLOGICAL SURVEY
+                WATER-RESOURCES INVESTIGATIONS REPORT 93-4076
+
+                            U.S. GEOLOGICAL SURVEY
+                         HYDRO-CLIMATIC DATA NETWORK
+                                    (HCDN)
+                              STREAMFLOW CD-ROM
+
+                       [This is the \READ_ME.MAC file]
+
+
+         The ASCII files on this CD-ROM were created on a PC.  Because
+      of this, each line of text in a file on the CD-ROM ends with the
+      pair of characters carriage return and line feed (octal 015 012,
+      decimal 13 10, or hexadecimal 0D 0A).  On a Macintosh, each line
+      of text ends with just a carriage return character.  As a result,
+      the extraneous line feed is the first "character" of each line
+      starting with the second line.  It is typically displayed on the
+      screen as an open block.  Copy ASCII files to hard disk from the
+      CD-ROM with Apple File Exchange using the MS-DOS to MAC filter to
+      get rid of the unnecessary line feed characters.

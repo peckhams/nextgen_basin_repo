@@ -1,0 +1,98 @@
+                                Contents of the
+                                 STATIONS.DAT
+                                     file
+                                  Version 1.0
+                                   1 Sep 92
+
+
+
+                 There is one record (line) for each station.
+
+              The file is sorted on station number (columns 1-8).
+
+Columns  Format  Contents
+
+  1-8     I8     Station number - the 8 digit station number uniquely
+                    identifying the station.
+   9      1X     Blank.
+ 10-57    A48    Station name - the 48 character name of the station.
+   58     1X     Blank.
+ 59-66    I8     Hydrologic Unit Code (HUC).  The first two digits of the HUC
+                    specify the Water Resources Council region.  The data, if
+                    any, for this station will be found in a sub-directory
+                    based on these first two digits of the HUC.
+   67     1X     Blank.
+ 68-75    F8.0   Drainage area in square miles.
+   76     1X     Blank.
+   77     A1     Time Scale - a one character code which indicates the shortest
+                    time scale at which the data is suitable for use in
+                    climatic analysis.
+                       D - Values at any time scale are suitable.  Daily,
+                              monthly, and annual values are provided.
+                       M - Only monthly or longer term values are suitable;
+                              however, daily, monthly, and annual values are
+                              provided.
+                       N - No data is suitable and no data is provided.
+   78     A1     Portion of record - a one character code which indicates
+                    whether the entire gaged record, or only a subset of it, is
+                    suitable for use in climatic analysis.  No record after
+                    WY1988 has been examined for inclusion in the HCDN.  The
+                    WYEARS.DAT file shows the water years for which data is
+                    provided.
+                       E - The entire period of record, but not after WY1988,
+                           is suitable and provided.
+                       P - Only part of the gaged record is suitable and
+                           provided.
+                       N - No data is suitable and no data is provided.
+   79     1X     Blank.
+ 80-81    I2     Number of lines of comments for this station in the
+                    COMMENTS.DAT file.  This count does not include the initial
+                    line giving the station name.
+   82     1X     Blank.
+ 83-84    A2     District - the two character abbreviation of the USGS Water
+                    Resources Division District which services the gaging
+                    station.  See the STATES.DAT file for a list of these
+                    abbreviations.
+   85     1X     Blank.
+ 86-87    A2     State - the two character abbreviation of the state in which
+                    the gaging station is located.  See the STATES.DAT file for
+                    a list of these abbreviations.
+   88     1X     Blank.
+ 89-91    I3     County - the code number of the county in which the gaging
+                    station is located.  See Federal Information Processing
+                    Standards Publication (FIPS PUBS) 6-3 for a list of these
+                    codes.
+   92     1X     Blank.
+ 93-98    I6     Latitude of the gaging station in the form DDMMSS where D is
+                    degrees, M is minutes, and S is seconds.
+   99     A1     Hemisphere of the latitude - N for Northern and S for
+                    Southern.
+  100     1X     Blank.
+101-107   I7     Longitude of the gaging station in the form DDDMMSS.
+  108     A1     Hemisphere of the longitude - W for Western and E for
+                    Eastern.
+109-116   F8.2   Datum - an arbitrary reference point generally corresponding
+                    to the elevation of the gaging station in feet above the
+                    National Geodetic Vertical Datum of 1929.  A value of
+                    -99.00 indicates a missing value.
+117-120   I4     Non-contributing drainage area in percent of drainage area.
+  121     1X     Blank.
+  122     A1     Benchmark indicator - B if the station is a Benchmark station,
+                    blank otherwise.
+  123     A1     Current Conditions indicator - C if the station is a Current
+                    Conditions station, blank otherwise.
+
+
+Conversion factors:
+
+   Multiply feet by 0.3048 to obtain meters.
+   Multiply square miles by 2.590 to obtain square kilometers.
+
+
+Format descriptions:
+
+   In    an integer field n columns wide.
+   F8.x  a real (float) field 8 columns wide with x decimal places to the right
+            of the decimal point.
+   An    a character field n columns wide.
+   1X    a single blank column.

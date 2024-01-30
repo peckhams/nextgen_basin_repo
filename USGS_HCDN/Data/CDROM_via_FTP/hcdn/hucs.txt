@@ -1,0 +1,95 @@
+
+                            U.S. GEOLOGICAL SURVEY
+                WATER-RESOURCES INVESTIGATIONS REPORT 93-4076
+
+                         HYDRO-CLIMATIC DATA NETWORK
+                                    (HCDN)
+                        STREAMFLOW DATA SET, 1874-1988
+
+                      [This is the \HCDN\HUCS.TXT file]
+
+
+                              Hydrologic units,
+                          hydrologic unit codes, and
+                            hydrologic unit names
+                (Adapted from Seaber, Kapinos, & Knapp, 1987)
+
+
+                               Hydrologic Units
+
+         The United States was divided and sub-divided into successively
+      smaller hydrologic units which were classified into four levels:
+      regions, sub-regions, accounting units, and cataloging units.  The
+      hydrologic units are arranged within each other, from the smallest
+      (cataloging units) to the largest (regions).  Each hydrologic unit
+      is identified by a unique hydrologic unit code (HUC) consisting of
+      two to eight digits based on the four levels of classification in
+      the hydrologic unit system.
+
+         The first level of classification divides the Nation into 21
+      major geographic area, or regions.  These geographic areas
+      (hydrologic areas based on surface topography) contain either the
+      drainage area of a major river, such as the Missouri region, or
+      the combined drainage areas of a series of rivers, such as the
+      Texas-Gulf region, which includes a number of rivers draining into
+      the Gulf of Mexico.  Eighteen of the regions occupy the land area
+      of the conterminous United States.  Alaska is region 19, the
+      Hawaii Islands constitute region 20, and Puerto Rico and other
+      outlying Caribbean areas are region 21.
+
+         The second level of classification divides the 21 regions into
+      222 sub-regions.  A sub-region includes the area drained by a
+      river system, a reach of a river and its tributaries in that
+      reach, a closed basin(s), or a group of streams forming a coastal
+      drainage area.
+
+         The third level of classification subdivides many of the sub-
+      regions into accounting units.  These 352 hydrologic accounting
+      units nest within, or are equivalent to, the sub-regions.
+
+         The fourth level of classification is the cataloging unit, the
+      smallest element in the hierarchy of hydrologic units.  A
+      cataloging unit is a geographic area representing part or all of a
+      surface drainage basin, a combination of basins, or a distinct
+      hydrologic feature.  These units subdivide the sub-regions and
+      accounting units into approximately 2150 smaller areas.
+
+
+                            Hydrologic Units Codes
+
+         An eight-digit code uniquely identifies each of the four levels
+      of classification within four two-digit fields.  The first two
+      digits identify the water-resources region; the first four digits
+      identify the sub-region; the first six digits identify the
+      accounting unit, and the addition of two more digits for the
+      cataloging unit completes the eight-digit code.  An example is
+      given here using hydrologic unit code (HUC) 01080204:
+                              01 - the region
+                            0108 - the sub-region
+                          010802 - the accounting unit
+                        01080204 - the cataloging unit
+      An 00 in the two-digit accounting unit field indicates that the
+      accounting unit and the sub-region are the same.  Likewise, if the
+      cataloging unit field is 00, it is the same as the accounting
+      unit.
+
+
+                            Hydrologic Unit Names
+
+         In addition to hydrologic unit codes, each hydrologic unit has
+      been assigned a name corresponding to the principal hydrologic
+      feature(s) within the unit.  In the absence of such features, the
+      assigned name may reflect a cultural or political feature within
+      the unit.  All regions and sub-regions are uniquely named;
+      however, the accounting units are uniquely named only within each
+      region, and the cataloging units are uniquely named only within
+      each accounting unit.  Duplication of some names at the cataloging
+      unit level is unavoidable because a large number of streams found
+      throughout the Nation share the same names.
+
+         A complete list of all hydrologic unit codes, their names, the
+      names of the States or outlying areas in which they reside, and
+      their drainage areas is given in the file HUC-NAME.TXT.  A
+      condensed version of that file, giving the names and drainage
+      areas of the regions and sub-regions only, is  provided in
+      HUC_AREA.DAT.

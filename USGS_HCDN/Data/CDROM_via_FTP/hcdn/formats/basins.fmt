@@ -1,0 +1,70 @@
+                                Contents of the
+                                  BASINS.DAT
+                                     file
+                                  Version 1.0
+                                   1 Sep 92
+
+
+              For each of the variables (except station number),
+                 a value of -99.00 indicates a missing value.
+
+                 There is one record (line) for each station.
+
+              The file is sorted on station number (column 1-8).
+
+Columns  Format  Contents
+
+  1-8     I8     Station number - the 8 digit station number uniquely
+                 identifying the station.
+  9-17    F9.2   Slope - Main channel slope, in feet per mile, measured at
+                    points 10- and 85-percent of stream length upstream from
+                    gage.
+ 18-26    F9.2   Length - Stream length, in miles, measured along the channel
+                    from gage to basin divide.
+ 27-35    F9.2   Elevation - Mean basin elevation, in feet above mean sea
+                    level, measured from topographic maps by transparent grid
+                    sampling method (20 to 80 points in basin were sampled).
+ 36-44    F9.2   Percent storage - Area of lakes, ponds, and swamps in percent
+                    of contributing drainage area, measured by the grid
+                    sampling method.
+ 45-53    F9.2   Percent lake area - Area of lakes and ponds, in percent of
+                    contributing drainage area, measured by the grid sampling
+                    method.
+ 54-62    F9.2   Percent forest - Forested area, in percent of contributing
+                    drainage area, measured by the grid sampling method.  The
+                    resolution and scale of the underlying maps varied widely.
+ 63-71    F9.2   Percent glacier - Area of glaciers, in percent of contributing
+                    drainage area.
+ 72-80    F9.2   Soil inf. - Soil index, in inches, a relative measure of
+                    potential infiltration (soil water storage), from Soil
+                    Conservation Service.  The soil index was determined from
+                    maps that were necessarily highly generalized and may be
+                    relatively coarse in resolution when applied to small
+                    drainage areas.
+ 81-89    F9.2   Precip. - Mean annual precipitation, in inches, from U.S.
+                    Weather Bureau series, "Climates of States", 1959-61: grid
+                    sampling methods used if isohyetal map is available,
+                    otherwise anomaly map constructed (WSP 1580-D, 1964).
+ 90-98    F9.2   I24,2 - Precipitation intensity; 24-hour rainfall, in inches,
+                    expected on the average of one each 2 years.  (Estimated
+                    from U.S. Weather Bureau Technical Paper 40 (1961) except
+                    for western States where NOAA Atlas 2 exists).
+ 99-107   F9.2   Jan. min. - Mean minimum January temperature, in degrees F,
+                    from U.S. Weather Bureau series, "Climates of States",
+                    1959-61.
+
+
+Conversion factors:
+
+   Multiply inches by 25.4 to obtain millimeters.
+   Multiply feet by 0.3048 to obtain meters.
+   Multiply miles by 1.609 to obtain kilometers.
+   Multiply feet per mile by 0.1894 to obtain meters per kilometer.
+   Temperature degrees C = (degrees F -32)/ 1.8.
+
+
+Format descriptions:
+
+   I8    an integer field 8 columns wide.
+   F9.2  a real (float) field 9 columns wide with 2 places to the right of the
+            decimal point.

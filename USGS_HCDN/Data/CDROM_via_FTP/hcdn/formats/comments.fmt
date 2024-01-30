@@ -1,0 +1,31 @@
+                                Contents of the
+                                 COMMENTS.DAT
+                                     file
+                                  Version 1.0
+                                   1 Sep 92
+
+
+         For each station having comments, the first line contains the
+          station name and the subsequent lines contain the comment.
+
+              The file is sorted on station number (columns 1-8)
+               and sequence number (columns 10-11) within that.
+
+Columns  Format  Contents
+
+  1-8     I8     Station number - the 8 digit station number uniquely
+                    identifying the station.
+   9      1X     Blank.
+ 10-11    I2     Sequence number of this comment line for this station.  The
+                    line containing the station name has a sequence number of
+                    zero.
+   12     1X     Blank.
+ 13-60    A48    Comment or one line of a multi-line comment or the station
+                    name if the sequence number is zero.
+
+
+Format descriptions:
+
+   In    an integer field n columns wide.
+   A48   a character field 48 columns wide.
+   1X    a single blank column.

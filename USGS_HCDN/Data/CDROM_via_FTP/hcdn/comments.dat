@@ -1,0 +1,2487 @@
+01011000  0 ALLAGASH RIVER NEAR ALLAGASH, ME
+01011000  1 Some regulation of river, but monthly and
+01011000  2 annual average discharge values should be
+01011000  3 relatively unaffected.
+01011500  0 ST. FRANCIS RIVER NEAR CONNORS, NEW BRUNSWICK
+01011500  1 International site in Canada.
+01021500  0 MACHIAS RIVER AT WHITNEYVILLE, ME
+01021500  1 Some regulation of river, but monthly and
+01021500  2 annual average discharge values should be
+01021500  3 relatively unaffected.
+01057000  0 LITTLE ANDROSCOGGIN RIVER NEAR SOUTH PARIS, ME
+01057000  1 The gage was moved upstream in 1984,
+01057000  2 diminishing the drainage area by 3%.
+01057000  3 The current drainage area is 73.5.
+01060000  0 ROYAL RIVER AT YARMOUTH, ME
+01060000  1 Some urbanization in watershed, but
+01060000  2 effects deemed to be minimal.
+01076000  0 BAKER RIVER NEAR RUMNEY, NH
+01076000  1 Records prior to 1930 do not meet HCDN criteria.
+01111500  0 BRANCH RIVER AT FORESTDALE, RI
+01111500  1 Records prior to water year 1957 are unsuitable
+01111500  2 for analysis due to regulation by upstream
+01111500  3 mills.
+01118000  0 WOOD RIVER AT HOPE VALLEY, RI
+01118000  1 Records prior to water year 1953 are unsuitable
+01118000  2 for analysis due to regulation by upstream
+01118000  3 mills.
+01119500  0 WILLAMANTIC RIVER NEAR COVENTRY, CT
+01119500  1 Records are not suitable for analysis at
+01119500  2 less than monthly resolution due to minor
+01119500  3 regulation upstream.
+01156000  0 WEST RIVER AT NEWFANE, VT
+01156000  1 Records prior to water year 1929 do not meet
+01156000  2 the specified standards of accuracy.
+01156000  3 Records affected by reservoirs upstream
+01156000  4 starting with water year 1962.
+01162500  0 PRIEST BROOK NEAR WINCHENDON, MA
+01162500  1 Records prior to 1953 do not meet the specified
+01162500  2 criteria.  Records prior to 1962 are unsuitable
+01162500  3 for analysis at less than monthly resolution
+01162500  4 due to diurnal fluctuations caused by
+01162500  5 upstream mill.
+01165000  0 EAST BRANCH TULLY RIVER NEAR ATHOL, MA
+01165000  1 Records affected by upstream reservoir
+01165000  2 starting with water year 1948.
+01165500  0 MOSS BROOK AT WENDELL DEPOT, MA
+01165500  1 Records prior to 1916 may not meet the specified
+01165500  2 criteria.
+01169000  0 NORTH RIVER AT SHATTUCKVILLE, MA
+01169000  1 Although current regulation by upstream mill
+01169000  2 is minor so that even daily averages should
+01169000  3 not be impaired, prior to 1950 regulation was
+01169000  4 greater.
+01169900  0 SOUTH RIVER NEAR CONWAY, MA
+01169900  1 Records are unsuitable for analysis at less
+01169900  2 than monthly resolution due to diurnal
+01169900  3 fluctuation caused by upstream powerplant
+01169900  4 since 1982.
+01173000  0 WARE RIVER AT INTAKE WORKS NEAR BARRE, MA
+01173000  1 Records are subject to flow regulation.
+01173000  2 (Monthly current conditions report uses
+01173000  3 adjusted figures.)
+01175500  0 SWIFT RIVER AT WEST WARE, MA
+01175500  1 Records affected by upstream reservoir
+01175500  2 starting with water year 1940.
+01176000  0 QUABOAG RIVER AT WEST BRIMFIELD, MA
+01176000  1 Records are unsuitable for analysis at less than
+01176000  2 monthly resolution due to diurnal fluctuation
+01176000  3 at low flow imposed by upstream mills.
+01176000  4 Records affected by retarding reservoirs since
+01176000  5 water year 1965.
+01180500  0 MIDDLE B WESTFIELD RIVER AT GOSS HEIGHTS, MA
+01180500  1 Records are unsuitable for analysis at less
+01180500  2 than monthly resolution due to diurnal
+01180500  3 fluctuation at low flow imposed by upstream
+01180500  4 mills. Records affected by reservoir
+01180500  5 regulation starting with water year 1965.
+01181000  0 WEST BRANCH WESTFIELD RIVER AT HUNTINGTON, MA
+01181000  1 Starting in water year 1986, shifts in rating
+01181000  2 have been reflected in poor record.
+01193500  0 SALMON RIVER NEAR EAST HAMPTON, CT
+01193500  1 Records are not suitable for analysis at
+01193500  2 less than monthly resolution due to
+01193500  3 upstream flow regulation.
+01196500  0 QUINNIPIAC RIVER AT WALLINGFORD, CT
+01196500  1 Records are not suitable for analysis at
+01196500  2 less than monthly resolution due to
+01196500  3 some upstream flow regulation.
+01305000  0 CARMANS RIVER AT YAPHANK NY
+01305000  1 Discharge is subject to some regulation  by
+01305000  2 two lakes above station and may be unsuitable
+01305000  3 for analysis at less than monthly resolution.
+01305000  4 Possible effects of basin development during
+01305000  5 the period of record have not been quantified.
+01309500  0 MASSAPEQUA CREEK AT MASSAPEQUA NY
+01309500  1 Significant urbanization has occurred in the
+01309500  2 basin over the period of record and its
+01309500  3 effects are incorporated in the record.
+01318500  0 HUDSON RIVER AT HADLEY NY
+01318500  1 Flow regulated by reservoirs and powerplant
+01318500  2 upstream from station.
+01321000  0 SACANDAGA RIVER NEAR HOPE NY
+01321000  1 Records are unsuitable for analysis at less
+01321000  2 than monthly resolution due to intermittent
+01321000  3 regulation by some small lakes and mill
+01321000  4 upstream. Winter records are ice affected.
+01329000  0 BATTEN KILL AT ARLINGTON, VT
+01329000  1 Prior to 1949, the records are unsuitable
+01329000  2 for analysis at less than monthly resolution
+01329000  3 due to low flow regulation by upstream mill.
+01329500  0 BATTEN KILL AT BATTENVILLE NY
+01329500  1 Records prior to 1922 do not meet the
+01329500  2 specified standards of accuracy.  Winter
+01329500  3 records are ice affected.
+01330500  0 KAYDEROSSERAS CREEK NR WEST MILTON NY
+01330500  1 Records are unsuitable for analysis at less
+01330500  2 than monthly resolution due to occasional
+01330500  3 regulation of low flow by upstream mills.
+01332000  0 NORTH BRANCH HOOSIC RIVER AT NORTH ADAMS, MA
+01332000  1 Records are unsuitable for analysis at less than
+01332000  2 monthly resolution due to diurnal fluctuation
+01332000  3 at low flow caused by upstream mill.
+01333000  0 GREEN RIVER AT WILLIAMSTOWN, MA
+01333000  1 Records are unsuitable for analysis at less
+01333000  2 than monthly resolution due to occasional
+01333000  3 diurnal fluctuations imposed by upstream mill.
+01333000  4 Winter records are ice affected.
+01333500  0 LITTLE HOOSIC RIVER AT PETERSBURG NY
+01333500  1 Winter records are ice affected.
+01334500  0 HOOSIC RIVER NEAR EAGLE BRIDGE NY
+01334500  1 Records are unsuitable for analysis at less
+01334500  2 than monthly resolution due to powerplant
+01334500  3 regulation of low flow.  Winter records
+01334500  4 are ice affected.
+01348000  0 EAST CANADA CREEK AT EAST CREEK NY
+01348000  1 Records are unsuitable for analysis at less
+01348000  2 than monthly resolution due to low head hydro
+01348000  3 dam induced diurnal fluctuations and minor
+01348000  4 regulation. Diversion of approximately 5 cfs
+01348000  5 for municipal supply upstream has been
+01348000  6 unchanged for years.
+01349000  0 OTSQUAGO CREEK AT FORT PLAIN NY
+01349000  1 Records are unsuitable for analysis at less
+01349000  2 than monthly resolution due to occasional
+01349000  3 regulation at low flow.  Winter records
+01349000  4 are ice affected.  Since 1983, the records
+01349000  5 have been rated poor.
+01350000  0 SCHOHARIE CREEK AT PRATTSVILLE NY
+01350000  1 Winter records are ice affected.
+01357500  0 MOHAWK RIVER AT COHOES NY
+01357500  1 This station record reflects flow of Mohawk
+01357500  2 River after flow is diverted at Cresent Dam
+01357500  3 (station  01357499) to Barge Canal. Prior to
+01357500  4 1925, records published as total flow (sum).
+01361000  0 KINDERHOOK CREEK AT ROSSMAN NY
+01361000  1 Records prior to 1928 do not meet specified
+01361000  2 criteria.  Records are unsuitable for
+01361000  3 analysis at less than monthly resolution due
+01361000  4 to diurnal fluctuation and minor regulation
+01361000  5 of low and medium flows by upstream power
+01361000  6 and industrial plants.
+01362198  0 ESOPUS CREEK AT SHANDAKEN NY
+01362198  1 Both the stage record and the stage-discharge
+01362198  2 relationship are rated poor.
+01365000  0 RONDOUT CREEK NEAR LOWES CORNERS NY
+01365000  1 Records rated fair to poor since 1981 due to
+01365000  2 poor stage-discharge relationship.
+01368000  0 WALLKILL RIVER NEAR UNIONVILLE NY
+01368000  1 Station and basin located in New Jersey but
+01368000  2 serviced by New York District.
+01372500  0 WAPPINGER CREEK NEAR WAPPINGERS FALLS NY
+01372500  1 Records prior to 1928 do not meet specified
+01372500  2 standards.
+01373500  0 FISHKILL CREEK AT BEACON NY
+01373500  1 Records are unsuitable for analysis at less
+01373500  2 than monthly resolution due to regulation of
+01373500  3 low flows by plants above station.
+01379500  0 PASSAIC RIVER NEAR CHATHAM NJ
+01379500  1 Records before 1938 contain periods of constant
+01379500  2 estimated values during the winter months.
+01384500  0 RINGWOOD CREEK NEAR WANAQUE NJ
+01384500  1 Records before 1936 do not fit specified
+01384500  2 criteria.
+01386000  0 WEST BROOK NEAR WANAQUE NJ
+01386000  1 Records before 1936 do not fit HCDN criteria.
+01387500  0 RAMAPO RIVER NEAR MAHWAH NJ
+01387500  1 Records before 1904 do not fit specified
+01387500  2 criteria.
+01396500  0 SOUTH BRANCH RARITAN RIVER NEAR HIGH BRIDGE NJ
+01396500  1 Records before 1927 contain periods of constant
+01396500  2 values during the winter months.
+01398500  0 NB RARITAN RIVER NEAR FAR HILLS NJ
+01398500  1 Records before 1923 do not fit HCDN criteria.
+01399500  0 LAMINGTON (BLACK) RIVER NEAR POTTERSVILLE NJ
+01399500  1 Records before 1923 do not fit specified
+01399500  2 criteria.
+01408500  0 TOMS RIVER NEAR TOMS RIVER NJ
+01408500  1 Minor diversions upstream since 1966 judged not
+01408500  2 not to interfere with suitability of record.
+01408500  3 Records before 1930 do not fit HCDN criteria.
+01410000  0 OSWEGO RIVER AT HARRISVILLE NJ
+01410000  1 Records before 1933 do not fit HCDN criteria.
+01414000  0 PLATTE KILL AT DUNRAVEN NY
+01414000  1 Records are unsuitable for analysis at less
+01414000  2 than monthly resolution due to minor regulation
+01414000  3 by upstream sawmills.
+01421000  0 EAST BR DELAWARE R AT FISHS EDDY NY
+01421000  1 Records affected by Pepacton Reservoir
+01421000  2 starting with water year 1954.
+01426500  0 WEST BRANCH DELAWARE RIVER AT HALE EDDY NY
+01426500  1 Records affected by Cannonsville Reservoir
+01426500  2 starting with water year  1964.
+01427500  0 CALLICOON CREEK AT CALLICOON NY
+01427500  1 Record subject to minor regulation by
+01427500  2 small pond above station, but analysis
+01427500  3 can still be done at daily resolution.
+01437000  0 NEVERSINK RIVER AT OAKLAND VALLEY NY
+01437000  1 Records affected by reservoir upstream
+01437000  2 starting with June 1953.
+01445000  0 PEQUEST RIVER AT HUNTSVILLE NJ
+01445000  1 Records before 1941 do not fit HCDN criteria.
+01459500  0 TOHICKON CREEK NEAR PIPERSVILLE, PA.
+01459500  1 Records affected by flow regulation
+01459500  2 starting with water year 1974.
+01463500  0 DELAWARE RIVER AT TRENTON NJ
+01463500  1 Major diversions in the basin starting with
+01463500  2 water year 1954.  Records before 1938 contain
+01463500  3 periods of constant estimated values during
+01463500  4 the winter months.
+01467000  0 NORTH BRANCH RANCOCAS CREEK AT PEMBERTON NJ
+01467000  1 Records before 1924 do not fit HCDN criteria.
+01471000  0 TULPEHOCKEN CREEK NEAR READING, PA.
+01471000  1 Records affected by flow regulation
+01471000  2 starting with water year 1980.
+01478500  0 WHITE CLAY C AB NEWARK DE
+01478500  1 Negligible diversion upstream by factory.
+01483500  0 LEIPSIC R NR CHESWOLD, DE
+01483500  1 Record is short, but included for geographic
+01483500  2 coverage.
+01487000  0 NANTICOKE R NR BRIDGEVILLE, DE
+01487000  1 Extensive channel ditching began in Dec. 1969.
+01488500  0 MARSHYHOPE C NR ADAMSVILLE DE
+01488500  1 Extensive channel ditching began in March 1969.
+01491000  0 CHOPTANK R NR GREENSBORO, MD
+01491000  1 Records, primarily low flows, heavily affected
+01491000  2 by withdrawals for irrigation starting with
+01491000  3 water year 1984.
+01495000  0 BIG ELK C AT ELK MILLS, MD
+01495000  1 Records are unsuitable for analysis at less
+01495000  2 than monthly resolution due to minor diurnal
+01495000  3 fluctuations caused by upstream mills.
+01495000  4 In 1936, several missing data values were
+01495000  5 assigned average monthly discharge values
+01495000  6 estimated from discharge at nearby streams.
+01503000  0 SUSQUEHANNA RIVER AT CONKLIN NY
+01503000  1 Records are unsuitable for analysis at less
+01503000  2 than monthly resolution due to minor regulation
+01503000  3 by upstream reservoirs, beginning with the
+01503000  4 completion of East Sidney Lake in 1950.
+01503000  5 Months with constant discharge values, in 1915
+01503000  6 and 1928, are indicative of estimated average
+01503000  7 monthly discharge during periods of icing
+01503000  8 or recorder failure.
+01512500  0 CHENANGO RIVER NEAR CHENANGO FORKS NY
+01512500  1 Records affected by upstream reservoir
+01512500  2 starting with March 1942.  In 1928, constant
+01512500  3 discharge values for a month are indicative
+01512500  4 of an estimated monthly discharge value
+01512500  5 during a period of icing.
+01514000  0 OWEGO CREEK NEAR OWEGO NY
+01514000  1 Discontinued as continuous record station in
+01514000  2 water year 1978, but continued as crest stage
+01514000  3 gage.
+01518000  0 TIOGA RIVER AT TIOGA, PA  [TIOGA]
+01518000  1 Records affected by inclusion of flow
+01518000  2 from Crooked Creek starting with water
+01518000  3 year 1978.
+01520000  0 COWANESQUE RIVER NR LAWRENCEVILLE, PA  [LWRNVL]
+01520000  1 Records affected by flow regulation
+01520000  2 by upstream dam starting with water year
+01520000  3 1980.
+01520500  0 TIOGA RIVER AT LINDLEY NY
+01520500  1 Records affected by upstream reservoir
+01520500  2 starting with water year 1979.
+01531000  0 CHEMUNG RIVER AT CHEMUNG NY
+01531000  1 Records affected by upstream reservoir
+01531000  2 starting with water year 1949.
+01541500  0 CLEARFIELD CREEK AT DIMELING, PA  [DIMLNG]
+01541500  1 Records affected by flow regulation
+01541500  2 starting with water year 1961.
+01556000  0 FRANKSTOWN BR JUNIATA RIVER AT WILLIAMSBURG, PA.
+01556000  1 Records are unsuitable for analysis at less than
+01556000  2 monthly resolution due to some regulation at
+01556000  3 low flow by upstream mill.
+01567000  0 JUNIATA RIVER AT NEWPORT, PA.  [NEWPRT]
+01567000  1 Records affected by flow regulation starting
+01567000  2 with water year 1973.
+01570500  0 SUSQUEHANNA RIVER AT HARRISBURG, PA.  [HBG]
+01570500  1 Flow regulated by 15 flood control reservoirs.
+01574000  0 WEST CONEWAGO CREEK NEAR MANCHESTER, PA. [MNCHST
+01574000  1 Records affected by reservoir upstream
+01574000  2 starting with water year  1960.
+01586500  0 NB PATAPSCO R NR REISTERSTOWN, MD
+01586500  1 In 1929, several missing data values were
+01586500  2 assigned average monthly discharge values
+01586500  3 estimated from discharge at nearby streams.
+01599000  0 GEORGES C AT FRANKLIN, MD
+01599000  1 Extensive road construction in basin starting
+01599000  2 in water year 1978.
+01610000  0 POTOMAC R AT PAW PAW, WV
+01610000  1 Records are not suitable for analysis at less
+01610000  2 than monthly resolution because there is a minor
+01610000  3 effect on low flow by several distant upstream
+01610000  4 reservoirs. Starting with water year 1981, high
+01610000  5 flows have been affected by dam upstream.
+01613000  0 POTOMAC R AT HANCOCK, MD
+01613000  1 Although there are several reservoirs at some
+01613000  2 distance upstream, the effects at the gaged
+01613000  3 site are negligible and records may even be
+01613000  4 used in analyses with daily resolution.
+01631000  0 S F SHENANDOAH RIVER AT FRONT ROYAL, VA
+01631000  1 Records are unsuitable for analysis at less
+01631000  2 than monthly resolution currently due to minor
+01631000  3 municipal withdrawal upstream from gage and
+01631000  4 prior to 1960, due to diurnal fluctuations
+01631000  5 at low and medium stages induced by mills
+01631000  6 and powerplants upstream.
+01631000  7 ME
+01634000  0 N F SHENANDOAH RIVER NEAR STRASBURG, VA
+01634000  1 Records are unsuitable for analysis at less
+01634000  2 than monthly resolution due to diurnal
+01634000  3 fluctuations induced by powerdam and sewage
+01634000  4 treatment plant releases upstream. Also
+01634000  5 subject to minor withdrawals for irrigation
+01634000  6 during growing season.
+01634000  7 ME
+01634500  0 CEDAR CREEK NEAR WINCHESTER, VA
+01634500  1 Records were provided by the Virginia Water
+01634500  2 Control Board.
+01639500  0 BIG PIPE C AT BRUCEVILLE, MD
+01639500  1 Only monthly average discharge values were
+01639500  2 available for October and November of 1947,
+01639500  3 and daily values were estimated by the
+01639500  4 monthly value for those two months of
+01639500  5 "constant" flow.
+01644000  0 GOOSE CREEK NEAR LEESBURG, VA
+01644000  1 Records were provided by the Virginia Water
+01644000  2 Control Board.
+01645000  0 SENECA C AT DAWSONVILLE, MD
+01645000  1 Rural area undergoing increasing urban
+01645000  2 development since the mid-1970s.
+01646502  0 POTOMAC R (ADJUSTED) NR WASH, DC
+01646502  1 Records same as those for 01646500 but with
+01646502  2 adjustment for actual diversions based on
+01646502  3 figures provided by public utilities and the
+01646502  4 Army Corps of Engineers.
+01663500  0 HAZEL RIVER AT RIXEYVILLE, VA
+01663500  1 Records were provided by the Virginia Water
+01663500  2 Control Board.
+01666500  0 ROBINSON RIVER NEAR LOCUST DALE, VA
+01666500  1 Records were provided by the Virginia Water
+01666500  2 Control Board.
+01669500  0 DRAGON SWAMP NEAR CHURCH VIEW, VA
+01669500  1 Records were provided by the Virginia Water
+01669500  2 Control Board.
+01674000  0 MATTAPONI RIVER NEAR BOWLING GREEN, VA
+01674000  1 Records were provided by the Virginia Water
+01674000  2 Control Board.
+02013000  0 DUNLAP CREEK NEAR COVINGTON, VA
+02013000  1 Records are unsuitable for analysis at less
+02013000  2 than monthly resolution due to occasional
+02013000  3 releases from small upstream dam.
+02014000  0 POTTS CREEK NEAR COVINGTON, VA
+02014000  1 Records were provided by the Virginia Water
+02014000  2 Control Board.
+02015700  0 BULLPASTURE RIVER AT WILLIAMSVILLE, VA
+02015700  1 Records were provided by the Virginia Water
+02015700  2 Control Board.
+02016000  0 COWPASTURE RIVER NEAR CLIFTON FORGE, VA
+02016000  1 Records are unsuitable for analysis at less
+02016000  2 than monthly resolution due to occasional
+02016000  3 diurnal fluctuations caused by unknown source.
+02016000  4 Records were provided by the Virginia Water
+02016000  5 Control Board.
+02017500  0 JOHNS CREEK AT NEW CASTLE, VA
+02017500  1 Records were provided by the Virginia Water
+02017500  2 Control Board.
+02018000  0 CRAIG CREEK AT PARR, VA
+02018000  1 Records were provided by the Virginia Water
+02018000  2 Control Board.
+02020500  0 CALFPASTURE RIVER ABOVE MILL CREEK AT GOSHEN, VA
+02020500  1 Records were provided by the Virginia Water
+02020500  2 Control Board.
+02027800  0 BUFFALO RIVER NEAR TYE RIVER, VA
+02027800  1 Records were provided by the Virginia Water
+02027800  2 Control Board.
+02030000  0 HARDWARE RIVER BL BRIERY RUN NR SCOTTSVILLE, VA
+02030000  1 Records were provided by the Virginia Water
+02030000  2 Control Board.
+02035000  0 JAMES RIVER AT CARTERSVILLE, VA
+02035000  1 Records are unsuitable for analysis at less
+02035000  2 than montly resolution due to diurnal
+02035000  3 fluctuations induced by upstream powerplant
+02035000  4 and sewage treatment plant releases.
+02035000  5 Records affected by releases from Gathright
+02035000  6 Dam after December 1979.
+02039500  0 APPOMATTOX RIVER AT FARMVILLE, VA
+02039500  1 Records are unsuitable for analysis at less
+02039500  2 than monthly resolution due to powerplant
+02039500  3 regulation at low flow.  Fairly constant
+02039500  4 but minor diversion (<1 cfs) for municipal
+02039500  5 water supply upstream from gage.
+02041000  0 DEEP CREEK NEAR MANNBORO, VA
+02041000  1 Records were provided by the Virginia Water
+02041000  2 Control Board.
+02044500  0 NOTTOWAY RIVER NEAR RAWLINGS, VA
+02044500  1 Records were provided by the Virginia Water
+02044500  2 Control Board.
+02045500  0 NOTTOWAY RIVER NEAR STONY CREEK, VA
+02045500  1 Records were provided by the Virginia Water
+02045500  2 Control Board.
+02046000  0 STONY CREEK NEAR DINWIDDIE, VA
+02046000  1 Records were provided by the Virginia Water
+02046000  2 Control Board.
+02047500  0 BLACKWATER RIVER NEAR DENDRON, VA
+02047500  1 Records were provided by the Virginia Water
+02047500  2 Control Board.
+02053200  0 POTECASI CREEK NEAR UNION, N. C.
+02053200  1 Low-flow records rated fair to poor, but this is
+02053200  2 the best station in this geographical area.
+02053800  0 S F ROANOKE RIVER NEAR SHAWSVILLE, VA
+02053800  1 Records were provided by the Virginia Water
+02053800  2 Control Board.
+02054500  0 ROANOKE RIVER AT LAFAYETTE, VA
+02054500  1 Records were provided by the Virginia Water
+02054500  2 Control Board.
+02054500  3 Records are unsuitable for analysis at less
+02054500  4 than monthly analysis due to occasional diurnal
+02054500  5 fluctuations induced by upstream plant.
+02055000  0 ROANOKE RIVER AT ROANOKE, VA
+02055000  1 Records prior to 1949 are unsuitable for
+02055000  2 analysis at less than monthly resolution
+02055000  3 due to diurnal fluctuations at low flow
+02055000  4 induced by upstream power plants.
+02059500  0 GOOSE CREEK NEAR HUDDLESTON, VA
+02059500  1 Records were provided by the Virginia Water
+02059500  2 Control Board.
+02061500  0 BIG OTTER RIVER NEAR EVINGTON, VA
+02061500  1 Records were provided by the Virginia Water
+02061500  2 Control Board.
+02064000  0 FALLING RIVER NEAR NARUNA, VA
+02064000  1 Records were provided by the Virginia Water
+02064000  2 Control Board.
+02064000  3 Records are unsuitable for analysis at less
+02064000  4 than monthly resolution due to diurnal
+02064000  5 fluctuations induced by upstream mill.
+02070000  0 NORTH MAYO RIVER NEAR SPENCER, VA
+02070000  1 Records were provided by the Virginia Water
+02070000  2 Control Board.
+02070500  0 MAYO RIVER NEAR PRICE, N. C.
+02070500  1 Records are unsuitable for analysis at less than
+02070500  2 monthly resolution due to minor regulation at
+02070500  3 low flow by small mills above station.
+02074500  0 SANDY RIVER NEAR DANVILLE, VA
+02074500  1 Records were provided by the Virginia Water
+02074500  2 Control Board.
+02083000  0 FISHING CREEK NEAR ENFIELD, N. C.
+02083000  1 Records are unsuitable for analysis at less than
+02083000  2 monthly resolution due to diurnal fluctuation
+02083000  3 and minor regulation at low flow by mills
+02083000  4 upstream from station.  Some low flow records
+02083000  5 published between 1923 and 1928 were found to
+02083000  6 be unreliable and should not be used.
+02083500  0 TAR RIVER AT TARBORO, N. C.
+02083500  1 Records are unsuitable for analysis at less than
+02083500  2 monthly resolution due to minor diversion
+02083500  3 upstream for municipal supply and to slight
+02083500  4 diurnal fluctuation at low flow caused by mills
+02083500  5 above station.
+02085500  0 FLAT RIVER AT BAHAMA, N. C.
+02085500  1 Records prior to 1962 are unsuitable for
+02085500  2 analysis at less than monthly resolution
+02085500  3 due to infrequent regulation at low flow
+02085500  4 by small mill above station.
+02091500  0 CONTENTNEA CREEK AT HOOKERTON, N. C.
+02091500  1 Low flow regulation since 1976 caused by
+02091500  2 Municiple reservoir in the upper part of the
+02091500  3 basin.
+02101000  0 BEAR CREEK AT ROBBINS, N. C.
+02101000  1 Minor diversion upstream for municipal supply,
+02101000  2 but record should be suitable for analyses at
+02101000  3 monthly time interval.
+02102000  0 DEEP RIVER AT MONCURE, N.C.
+02102000  1 Records are unsuitable for analysis at less than
+02102000  2 monthly resolution due to diurnal fluctuation
+02102000  3 and minor regulation at low flow by small
+02102000  4 powerplants upstream from station.
+02103500  0 LITTLE RIVER AT LINDEN, N. C.
+02103500  1 Records are unsuitable for analysis at less than
+02103500  2 monthly resolution due to diurnal fluctuation at
+02103500  3 low flow caused by upstream gravel washing
+02103500  4 operation.
+02105500  0 CAPE FEAR R AT WILM O HUSKE LOCK NR TARHEEL N C
+02105500  1 Regulation at high flows 1972-1981 and
+02105500  2 complete regulation since September 1981
+02105500  3 by B. Everett Jordan Reservoir.
+02111500  0 REDDIES RIVER AT NORTH WILKESBORO, N. C.
+02111500  1 Records are unsuitable for anlaysis at less than
+02111500  2 monthly resolution due to diurnal fluctuation at
+02111500  3 low flow during growing season.
+02115500  0 FORBUSH CREEK NEAR YADKINVILLE, N. C.
+02115500  1 Records are unsuitable for analysis at less than
+02115500  2 monthly resolution due to diurnal fluctuation at
+02115500  3 low flow during growing season.
+02116500  0 YADKIN RIVER AT YADKIN COLLEGE N C
+02116500  1 Subject to regulation since 1962 by upstream
+02116500  2 W. Kerr Scott Reservoir.
+02117500  0 ROCKY CREEK AT TURNERSBURG, N.C.
+02117500  1 Records are unsuitable for analysis at less than
+02117500  2 monthly resolution due to diurnal fluctuation
+02117500  3 at low flow caused by mill above station.
+02118000  0 SOUTH YADKIN RIVER NEAR MOCKSVILLE N C
+02118000  1 Diversions for municipal supply above station.
+02131000  0 PEE DEE RIVER AT PEEDEE, SC
+02131000  1 Station is affected by regulation at low and
+02131000  2 medium stages by power plants upstream in North
+02131000  3 Carolina, although the size of the drainage area
+02131000  4 serves to dampen their influence.
+02135000  0 LITTLE PEE DEE R. AT GALIVANTS FERRY, S.C.
+02135000  1 Records may not be suitable for analysis at
+02135000  2 less than monthly resolution prior to August,
+02135000  3 1967: daily values were based on twice-daily
+02135000  4 gage readings plus crest-stage gage.
+02147500  0 ROCKY CREEK AT GREAT FALLS, S. C.
+02147500  1 No record in water years 1982-1986.
+02154500  0 NORTH PACOLET RIVER AT FINGERVILLE, S. C.
+02154500  1 Record is unsuitable for analysis at less
+02154500  2 than monthly resolution due to notable
+02154500  3 diurnal fluctuation at low and medium flow
+02154500  4 induced by mill above station.
+02156500  0 BROAD RIVER NEAR CARLISLE, S. C.
+02156500  1 Record is unsuitable for analysis at less
+02156500  2 than monthly resolution due to some regulation
+02156500  3 at medium and low flow by powerplants above
+02156500  4 gage.
+02164000  0 REEDY RIVER NEAR GREENVILLE, S. C.
+02164000  1 No record from October 1971 to May 1987.
+02165000  0 REEDY RIVER NEAR WARE SHOALS,S.C.
+02165000  1 Record is unsuitable for analysis at less
+02165000  2 than monthly resolution due to some regulation
+02165000  3 at medium and low flow by powerplants
+02165000  4 gage.  Gage was moved downstream in 1978.
+02169630  0 BIG BEAVER CREEK NEAR ST. MATTHEWS,S.C.
+02169630  1 Record included for geographic coverage;
+02169630  2 however, records for several years have only
+02169630  3 a "fair" rating.
+02173500  0 NORTH FORK EDISTO RIVER AT ORANGEBURG,S.C.
+02173500  1 There is a minor diversion of 9 cfs above gage.
+02176500  0 COOSAWHATCHIE RIVER NR HAMPTON S.C.
+02176500  1 Record is not affected by either regulation or
+02176500  2 diversion, but does show some no (zero) flow
+02176500  3 days in 1951, 1954, 1956, 1957, 1968, 1969,
+02176500  4 1980, 1981, 1982, 1986, and 1988.
+02192000  0 BROAD RIVER NEAR BELL, GA.
+02192000  1 Records prior to August 1, 1937 do not meet
+02192000  2 the specified standards of accuracy.
+02196000  0 STEVENS CREEK NEAR MODOC, SC
+02196000  1 No record from October 1978 to October 1983.
+02206500  0 YELLOW RIVER NEAR SNELLVILLE, GA.
+02206500  1 Major urban development in basin starting
+02206500  2 with water year 1963.
+02213500  0 TOBESOFKEE CREEK NEAR MACON, GA.
+02213500  1 Records affected  by reservoir upstream
+02213500  2 starting with water year 1968.
+02217500  0 MIDDLE OCONEE RIVER NEAR ATHENS, GA.
+02217500  1 Records are unsuitable for analysis at less
+02217500  2 than monthly resolution due to power plant
+02217500  3 regulation at low flow.  Records prior to
+02217500  4 May 1, 1937 do not meet the specified
+02217500  5 standards of accuracy. Withdrawal for
+02217500  6 water supply initiated in water year 1984.
+02218500  0 OCONEE RIVER NEAR GREENSBORO, GA.
+02218500  1 Records are unsuitable for analysis at less
+02218500  2 than monthly resolution due to power plant
+02218500  3 regulation at low flow.  Records prior to
+02218500  4 April 1, 1937 do not meet the specified
+02218500  5 standards of accuracy.
+02219500  0 APALACHEE RIVER NEAR BUCKHEAD, GA.
+02219500  1 Records prior to April 1, 1937 do not meet
+02219500  2 the specified standards of accuracy.
+02225500  0 OHOOPEE RIVER NEAR REIDSVILLE, GA.
+02225500  1 Records prior to May 25, 1937 do not meet
+02225500  2 the specified standards of accuracy.
+02228000  0 SATILLA RIVER AT ATKINSON, GA.
+02228000  1 Records prior to October 1, 1931 do not meet
+02228000  2 the specified standards of accuracy.
+02273000  0 KISSIMMEE R AT S-65E NR OKEECHOBEE, FLA.
+02273000  1 Since 1962, flow regulated by control
+02273000  2 structure and diversions from Lake Istokpoga.
+02317500  0 ALAPAHA RIVER AT STATENVILLE, GA.
+02317500  1 Records prior to December 10, 1931 do not meet
+02317500  2 the specified standards of accuracy.
+02331600  0 CHATTAHOOCHEE RIVER NEAR CORNELIA, GA.
+02331600  1 Records are unsuitable for analysis at less than
+02331600  2 monthly resolution due to power plant regulation
+02331600  3 at low flow.
+02337000  0 SWEETWATER CREEK NEAR AUSTELL, GA.
+02337000  1 Records prior to March 24, 1937 do not meet
+02337000  2 the specified standards of accuracy.
+02339500  0 CHATTAHOOCHEE RIVER AT WEST POINT, GA.
+02339500  1 Records prior to October 1, 1925 do not meet
+02339500  2 the specified standards of accuracy. Records
+02339500  3 affected by reservoir upstream starting with
+02339500  4 water year 1956.
+02347500  0 FLINT RIVER NEAR CULLODEN, GA.
+02347500  1 Records prior to July 21, 1928 do not meet
+02347500  2 the specified standards of accuracy.
+02349500  0 FLINT RIVER AT MONTEZUMA, GA.
+02349500  1 Records prior to July 1, 1930 do not meet the
+02349500  2 specified standards of accuracy.
+02353500  0 ICHAWAYNOCHAWAY CREEK AT MILFORD, GA.
+02353500  1 Records prior to October 1, 1939 do not meet
+02353500  2 the specified standards of accuracy. Records
+02353500  3 affected by major ground water pumpage for
+02353500  4 irrigation starting with water year 1976.
+02356000  0 FLINT RIVER AT BAINBRIDGE, GA.
+02356000  1 Records prior to October 1, 1928 do not meet
+02356000  2 the specified standards of accuracy. Records
+02356000  3 affected by reservoir upstream starting with
+02356000  4 water year 1955.
+02357000  0 SPRING CREEK NEAR IRON CITY, GA.
+02357000  1 Records affected by major ground water pumpage
+02357000  2 for irrigation starting with May 1, 1971.
+02383500  0 COOSAWATTEE RIVER NEAR PINE CHAPEL, GA.
+02383500  1 Records affected by reservoir upstream
+02383500  2 starting with water year 1975.
+02387500  0 OOSTANAULA RIVER AT RESACA, GA.
+02387500  1 Records affected by reservoir upstream
+02387500  2 starting with water year 1975.
+02392000  0 ETOWAH RIVER AT CANTON, GA.
+02392000  1 Records prior to October 1, 1936 do not meet
+02392000  2 the specified standards of accuracy.
+02414500  0 TALLAPOOSA RIVER AT WADLEY AL
+02414500  1 Flow has been regulated since 1983 by reservoir.
+02424000  0 CAHABA RIVER AT CENTREVILLE AL
+02424000  1 Headwater is in large metropolitan area and
+02424000  2 diversions and losses can be significant.
+02430000  0 MACKEYS CREEK NR DENNIS, MS
+02430000  1 Records prior to February 1, 1938 do not meet
+02430000  2 the HCDN criteria.  Records between October 1
+02430000  3 and December 31, 1943, were estimated values
+02430000  4 and do not meet HCDN criteria.
+02431000  0 TOMBIGBEE RIVER NR FULTON, MS
+02431000  1 Station regulated since 1984.
+02433000  0 BULL MOUNTAIN CREEK NR SMITHVILLE, MS
+02433000  1 Backwater effects starting 1984.
+02434000  0 TOWN CREEK AT TUPELO, MS
+02434000  1 Records prior to February 1, 1944, do not meet
+02434000  2 the HCDN criteria.
+02436500  0 TOWN CREEK NR NETTLETON, MS
+02436500  1 Records prior to December 1, 1939, do not meet
+02436500  2 the HCDN criteria.
+02437000  0 TOMBIGBEE RIVER NR AMORY, MS
+02437000  1 Records prior to October 1, 1939, do not
+02437000  2 meet the HCDN criteria.
+02437000  3 Backwater effects starting 1984.
+02441000  0 TIBBEE CREEK NR TIBBEE, MS
+02441000  1 Records prior to November 1, 1939, do not meet
+02441000  2 the HCDN criteria.
+02441000  3 Backwater effects starting 1981.
+02441500  0 TOMBIGBEE RIVER AT COLUMBUS, MS
+02441500  1 The period of October 1, 1903 to September 30,
+02441500  2 1905 does not meet HCDN criteria.
+02441500  3 Station partially regulated since 1980.
+02474500  0 TALLAHALA CREEK NR RUNNELSTOWN, MS
+02474500  1 The period of October 1, 1982 to September 30,
+02474500  2 1984 does not meet HCDN criteria.
+02484500  0 YOCKANOOKANY RIVER NR OFAHOMA, MS
+02484500  1 Records prior to January 1, 1944, do no meet
+02484500  2 the HCDN criteria.
+02486000  0 PEARL RIVER AT JACKSON, MS
+02486000  1 The constant flow in November, 1903 occurred
+02486000  2 during a period of extremely low water.
+02486000  3 Slight regulation of high and low flows after
+02486000  4 1960.
+02487500  0 STRONG RIVER AT D`LO, MS
+02487500  1 Records prior to August 1, 1930, do not meet
+02487500  2 the HCDN criteria.
+03024000  0 FRENCH CREEK AT UTICA, PA.
+03024000  1 Records affected by flow regulation
+03024000  2 starting with water year 1972.
+03042000  0 BLACKLICK CREEK AT JOSEPHINE, PA.
+03042000  1 Records are unsuitable for analysis at less
+03042000  2 than monthly resolution due to minor regulation
+03042000  3 at low flow.
+03049500  0 ALLEGHENY RIVER AT NATRONA, PA.
+03049500  1 Although the record begins in 1938, regulation
+03049500  2 beginning at least as early as water year 1952
+03049500  3 makes it unsuitable for analysis by the HCDN
+03049500  4 criteria for long periods of suitable record.
+03069500  0 CHEAT RIVER NEAR PARSONS, WV
+03069500  1 A few months in 1914 and 1916 with constant
+03069500  2 flow may have estimated discharge values.
+03074500  0 REDSTONE CREEK AT WALTERSBURG, PA.
+03074500  1 Records are not suitable for analysis at less
+03074500  2 than monthly resolution due to low flow
+03074500  3 regulation by mine pumpage.
+03079000  0 CASSELMAN RIVER AT MARKLETON, PA.
+03079000  1 Records are not suitable for analysis at less
+03079000  2 than monthly resolution due to minor diversion
+03079000  3 upstream for municipal water supply.
+03085000  0 MONONGAHELA RIVER AT BRADDOCK, PA.
+03085000  1 Regulation by locks and reservoirs since
+03085000  2 beginning of record in 1938.
+03106000  0 CONNOQUENESSING CREEK NR ZELIENOPLE, PA.
+03106000  1 Records are unsuitable for analysis at less
+03106000  2 than monthly resolution due to minor
+03106000  3 regulation by mills upstream.
+03109500  0 L BEAVER C NR EAST LIVERPOOL OH
+03109500  1 There were several months in the 1920's
+03109500  2 where the monthly flows are constant,
+03109500  3 indicative of estimated dishcarge values
+03109500  4 for that month.
+03114500  0 MIDDLE ISLAND CREEK AT LITTLE, WV
+03114500  1 Constant flow months in 1930 accurately
+03114500  2 represent extreme low flow conditions.
+03118500  0 NIMISHILLEN C AT NORTH INDUSTRY OH
+03118500  1 Records are unsuitable for analysis at less
+03118500  2 than monthly resolution due to diversion from
+03118500  3 Sugar Creek Wellfield at low flow (which may
+03118500  4 be upto 20% of the average daily flow).
+03144000  0 WAKATOMIKA C NR FRAZEYSBURG OH
+03144000  1 Constant daily flow values for a month
+03144000  2 in 1977 are indicative of estimated
+03144000  3 flow values for that month.
+03164000  0 NEW RIVER NEAR GALAX, VA
+03164000  1 Records are unsuitable for analysis at less
+03164000  2 than monthly resolution due to occasional
+03164000  3 fluctuations induced by low-head power dam.
+03167000  0 REED CREEK AT GRAHAMS FORGE, VA
+03167000  1 Records are unsuitable for analysis at less
+03167000  2 than monthly resolution due to occasional
+03167000  3 diurnal fluctuations induced by upstream mills.
+03183500  0 GREENBRIER RIVER AT ALDERSON, WV
+03183500  1 Months with constant flow in 1916 and 1917
+03183500  2 may have estimated discharge values.
+03186500  0 WILLIAMS RIVER AT DYER, WV
+03186500  1 Constant flow months in 1930 accurately
+03186500  2 represent extreme low flow conditions.
+03193000  0 KANAWHA RIVER AT KANAWHA FALLS, WV
+03193000  1 Although low and high flows are regulated
+03193000  2 by 3 upstream reservoirs, monthly averages
+03193000  3 should be relatively unaffected.
+03193000  4 Months with constant flow in 1916 may have
+03193000  5 estimated discharge values.
+03198500  0 BIG COAL RIVER AT ASHFORD, WV
+03198500  1 Months with constant flow in 1916 may have
+03198500  2 estimated discharge values.
+03234500  0 SCIOTO R AT HIGBY OH
+03234500  1 Records are unsuitable for analysis at less
+03234500  2 than monthly resolution due to affects of
+03234500  3 upstream reservoirs as well as GW pumpage around
+03234500  4 Columbus.  Several months in the 1930's have
+03234500  5 constant daily flow values indicative of
+03234500  6 estimated daily values for that month.
+03237280  0 UPPER TWIN C AT MCGAW OH
+03237280  1 Discharge record is of questionable quality
+03237280  2 due to high channel erosion.
+03252500  0 SF LICKING R AT CYNTHIANA KY
+03252500  1 Small diversion by Cynthiana municipal
+03252500  2 water plant, but monthly or longer time
+03252500  3 average statistics should be acceptable.
+03252500  4 However, interbasin transfer initiated
+03252500  5 in WY1989.
+03253500  0 LICKING RIVER AT CATAWBA, KY.
+03253500  1 Flow regulated since December 1973 by
+03253500  2 Cave Run Lake.
+03262000  0 LORAMIE C AT LOCKINGTON OH
+03262000  1 Records are unsuitable for analysis at less
+03262000  2 than monthly resolution due to regulation of
+03262000  3 flood flow by Lockington Retarding Basin
+03262000  4 since 1921.  Several months before 1920
+03262000  5 show constant flow values, indicative of
+03262000  6 an estimated value for the month.
+03266000  0 STILLWATER R AT ENGLEWOOD OH
+03266000  1 Records are unsuitable for analysis at less
+03266000  2 than monthly resolution due to regulation of
+03266000  3 flood flow by Englewood Retarding Basin.
+03269500  0 MAD R NR SPRINGFIELD OH
+03269500  1 Records affected by regulation on discharge
+03269500  2 by CJ Brown Reservoir starting with water year
+03269500  3 1973.  Constant daily flow values for a month
+03269500  4 in 1918 are indicative that flow was estimated
+03269500  5 for that month.
+03272000  0 TWIN C NR GERMANTOWN OH
+03272000  1 Records are unsuitable for analysis at less
+03272000  2 than monthly resolution due to regulation of
+03272000  3 flood flow by Germantown Retarding Basin.
+03272000  4 Constant daily flow values for a month in 1922
+03272000  5 are indicative that flow was estimated for that
+03272000  6 month.
+03274000  0 G MIAMI R AT HAMILTON OH
+03274000  1 Records are unsuitable for analysis at less
+03274000  2 than monthly resolution due to regulation of
+03274000  3 flood flow by retarding basins since 1920.
+03274000  4 Records prior to water year 1930 should not be
+03274000  5 used because of diversion by Miami and Erie
+03274000  6 Canal.
+03276700  0 SOUTH HOGAN CREEK NEAR DILLSBORO, IND.
+03276700  1 Poor quality discharge record.
+03294000  0 SILVER CREEK NEAR SELLERSBURG, IND
+03294000  1 During most years, there are periods of no flow.
+03294500  0 OHIO RIVER AT LOUISVILLE, KY.
+03294500  1 Flow regulated by Ohio River system of locks,
+03294500  2 dams and reserviors.
+03308500  0 GREEN RIVER AT MUNFORDVILLE, KY.
+03308500  1  Flow regulated by Green River Lake
+03308500  2  beginning February 1969.
+03326500  0 MISSISSINEWA RIVER AT MARION, IND.
+03326500  1 Records before 1931 do not meet HCDN criteria.
+03335500  0 WABASH RIVER AT LAFAYETTE IND
+03335500  1 Records prior to 1924 do not meet HCDN criteria.
+03362000  0 YOUNGS CREEK NEAR EDINBURGH IND
+03362000  1 Records prior to 1944 do not meet HCDN criteria.
+03362500  0 SUGAR CREEK NEAR EDINBURGH, IN
+03362500  1 Records prior to 1944 do not meet HCDN criteria.
+03373500  0 EAST FORK WHITE RIVER AT SHOALS, IND.
+03373500  1 Records prior to 1924 do not meet HCDN criteria.
+03374455  0 PATOKA RIVER NEAR HARDINSBURG, IND
+03374455  1 There have been periods of no flow during
+03374455  2 several years in the record.
+03380500  0 SKILLET FORK AT WAYNE CITY, IL
+03380500  1 Constant diversion of approximately 0.02 cfs
+03380500  2 for Wayne City water supply since beginning
+03380500  3 of record.
+03381500  0 LITTLE WABASH RIVER AT CARMI, IL
+03381500  1 During a few times of extremely high stage
+03381500  2 in the period of the record, flow has also
+03381500  3 been through McHenry Slough. However, this
+03381500  4 site can generally be used even for daily
+03381500  5 analysis.
+03448000  0 FRENCH BROAD RIVER AT BENT CREEK N C
+03448000  1 Records are unsuitable for analysis at less than
+03448000  2 monthly resolution due to diurnal fluctuations
+03448000  3 caused by powerplant above station.
+03451500  0 FRENCH BROAD RIVER AT ASHEVILLE, N. C.
+03451500  1 Records are unsuitable for analysis at less than
+03451500  2 monthly resolution due to diurnal fluctuation
+03451500  3 and occasional regulation caused by powerplant
+03451500  4 46 miles upstream as well as small reservoirs
+03451500  5 above station.  Minor diversion upstream for
+03451500  6 municipal supply has negligible affect on
+03451500  7 monthly statistics.
+03459000  0 JONATHAN CREEK NEAR COVE CREEK, N. C.
+03459000  1 Records prior to 1959 are unsuitable for
+03459000  2 analysis at less than monthly resolution due
+03459000  3 to diurnal fluctuation at low flow caused
+03459000  4 by small gristmill above station.
+03469000  0 FRENCH BROAD RIVER BELOW DOUGLAS DAM, TN
+03469000  1 Discontinued as a gaging station in 1974,
+03469000  2 but flow was regulated before 1974 as well.
+03473000  0 S F HOLSTON RIVER NEAR DAMASCUS, VA
+03473000  1 Records are unsuitable for analysis at less
+03473000  2 than monthly resolution due to occasional
+03473000  3 fluctuations induced by upstream powerplant
+03473000  4 and sewage treatment plant.
+03501000  0 CULLASAJA RIVER AT CULLASAJA, N. C.
+03501000  1 Records are unsuitable for analysis at less than
+03501000  2 monthly resolution due to minor regulation at
+03501000  3 low flow by Sequoyah Lake and mill on Buck
+03501000  4 Creek.
+03504000  0 NANTAHALA RIVER NEAR RAINBOW SPRINGS, N. C.
+03504000  1 Records are unsuitable for analysis at less
+03504000  2 than monthly resolution due to minor diurnal
+03504000  3 fluctuation at low flow caused by small ponds
+03504000  4 on tributaries above station.
+03518500  0 TELLICO RIVER AT TELLICO PLAINS, TENN.
+03518500  1 Discontinued as a gaging station in 1982.
+03524000  0 CLINCH RIVER AT CLEVELAND, VA
+03524000  1 Records are unsuitable for analysis at less
+03524000  2 than monthly resolution due to the possibility
+03524000  3 of occasional discharge impacts due to coal
+03524000  4 mining in the region.
+03532000  0 POWELL RIVER NEAR ARTHUR TN
+03532000  1 Discontinued as a gaging station in 1982.
+03603000  0 DUCK RIVER ABOVE HURRICANE MILLS, TENN.
+03603000  1 Normandy Dam completed in 1976.
+04001000  0 WASHINGTON CREEK AT WINDIGO, MICH.
+04001000  1 Winter records are unsuitable for analysis
+04001000  2 at less than monthly resolution due to ice
+04001000  3 affects.
+04010500  0 PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN
+04010500  1 Winter records may be ice affected.
+04014500  0 BAPTISM RIVER NEAR BEAVER BAY, MN
+04014500  1 Winter records may be ice affected.
+04025500  0 BOIS BRULE RIVER AT BRULE, WI
+04025500  1 Winter records may be ice affected.
+04027000  0 BAD RIVER NEAR ODANAH, WI
+04027000  1 Winter records may be ice affected.
+04033000  0 MIDDLE BR ONTONAGON RIVER NR PAULDING, MICH.   .
+04033000  1 Winter records are ice affected.
+04040500  0 STURGEON RIVER NEAR SIDNAW, MICH.
+04040500  1 Winter records are ice affected.
+04046000  0 BLACK RIVER NR GARNET, MICH.
+04046000  1 Station operated as crest stage gage starting
+04046000  2 with water year 1979.
+04056500  0 MANISTIQUE RIVER NR MANISTIQUE, MICH.          .
+04056500  1 Winter records are ice affected.
+04059500  0 FORD RIVER NR HYDE, MICH.
+04059500  1 Winter records are ice affected.
+04063700  0 POPPLE RIVER NEAR FENCE, WI
+04063700  1 Winter records may be ice affected.
+04069500  0 PESHTIGO RIVER AT PESHTIGO, WI
+04069500  1 Winter records may be ice affected.
+04071000  0 OCONTO RIVER NEAR GILLETT, WI
+04071000  1 Winter records may be ice affected.
+04073500  0 FOX RIVER AT BERLIN, WI
+04073500  1 Winter records may be ice affected.
+04078500  0 EMBARRASS RIVER NEAR EMBARRASS, WI
+04078500  1 Winter records may be ice affected.
+04079000  0 WOLF RIVER AT NEW LONDON, WI
+04079000  1 Winter records may be ice affected.
+04080000  0 LITTLE WOLF RIVER AT ROYALTON, WI
+04080000  1 Winter records may be ice affected.
+04081000  0 WAUPACA RIVER NEAR WAUPACA, WI
+04081000  1 Winter records may be ice affected.
+04084500  0 FOX R AT RAPIDE CROCHE DAM NEAR WRIGHTSTOWN, WI
+04084500  1 Records affected by reservoir upstream.
+04084500  2 Discharge furnished by Corps of Engineers based
+04084500  3 on power generation records, but no independent
+04084500  4 measurements 1947-1982.
+04085200  0 KEWAUNEE RIVER NEAR KEWAUNEE, WI
+04085200  1 Winter records may be ice affected.
+04086000  0 SHEBOYGAN RIVER AT SHEBOYGAN, WI
+04086000  1 Winter records may be ice affected.
+04087000  0 MILWAUKEE RIVER AT MILWAUKEE, WI
+04087000  1 Winter records may be ice affected.
+04093000  0 DEEP RIVER AT LAKE GEORGE OUTLET AT HOBART, IND.
+04093000  1 Records prior to 1956 do not meet HCDN criteria.
+04094000  0 LITTLE CALUMET RIVER AT PORTER, IND.
+04094000  1 Records prior to 1953 do not meet HCDN criteria.
+04105000  0 BATTLE CREEK AT BATTLE CREEK, MICH.            .
+04105000  1 Records prior to 1943 were subject to occasional
+04105000  2 but slight regulation.
+04112500  0 RED CEDAR RIVER AT EAST LANSING, MICH.         .
+04112500  1 Record does not meet HCDN criteria.
+04121500  0 MUSKEGON RIVER AT EVART, MICH.                 .
+04121500  1 Winter records may be ice affected.
+04128000  0 STURGEON RIVER NEAR WOLVERINE, MICH.           .
+04128000  1 Winter records are ice affected.
+04135500  0 AU SABLE RIVER AT GRAYLING, MICH.              .
+04135500  1 Records prior to 1952 are unsuitable for
+04135500  2 analysis at less than monthly resolution
+04135500  3 due to diurnal fluctuations caused by
+04135500  4 powerplant.
+04142000  0 RIFLE RIVER NEAR STERLING, MICH.
+04142000  1 Winter records are ice affected, notably
+04142000  2 in 1982 when a winter freeze occurred.
+04142000  3 Record prior to 1938 does not meet HCDN
+04142000  4 criteria.
+04173500  0 MILL CREEK NEAR DEXTER, MICH.                  .
+04173500  1 Winter records are ice affected, notably
+04173500  2 in 1959.
+04189000  0 BLANCHARD R NR FINDLAY OH
+04189000  1 Records are unsuitable for analysis at less
+04189000  2 than monthly resolution due to occasional
+04189000  3 diversions at low flow.  Record before 1925
+04189000  4 does not meet HCDN criteria.
+04191500  0 AUGLAIZE R NR DEFIANCE OH
+04191500  1 Records are unsuitable for analysis at less
+04191500  2 than monthly resolution due to minor diversion
+04191500  3 in the basin as well as minor flow regulation
+04191500  4 by dam at powerplant.
+04193500  0 MAUMEE R AT WATERVILLE OH
+04193500  1 There is diversion out from basin which affects
+04193500  2 discharge.
+04198000  0 SANDUSKY R NR FREMONT OH
+04198000  1 Record before 1925 does not meet HCDN criteria.
+04201500  0 ROCKY R NR BEREA OH
+04201500  1 Records are unsuitable for analysis at less
+04201500  2 than montlhly resolution due to minor low
+04201500  3 flow regulation in basin.
+04212000  0 GRAND R NR MADISON OH
+04212000  1 Constant daily flow values for a month
+04212000  2 in 1925 are indicative that flow was estimated
+04212000  3 for that month.
+04213000  0 CONNEAUT C AT CONNEAUT OH
+04213000  1 Constant daily flow values for a month in
+04213000  2 1925 are indicative that flow was estimated
+04213000  3 for that month.
+04221000  0 GENESEE RIVER AT WELLSVILLE NY
+04221000  1 Although record is just short of 20 years
+04221000  2 by 1988, this currently gaged site is
+04221000  3 included for geographic completeness.
+04221500  0 GENESEE RIVER AT SCIO, N. Y.
+04221500  1 In 1920, month with constant flow values is
+04221500  2 indicative of estimated average monthly
+04221500  3 discharge for that month.
+04223000  0 GENESEE RIVER AT PORTAGEVILLE NY
+04223000  1 Regulation began after 1927.
+04234000  0 FALL CREEK NEAR ITHACA NY
+04234000  1 Records are unsuitable for analysis at less
+04234000  2 than monthly resolution due to minor regulation
+04234000  3 during summer months for irrigation
+04243500  0 ONEIDA CREEK AT ONEIDA NY
+04243500  1 Records are unsuitable for analysis at less
+04243500  2 than monthly resolution due to occasional
+04243500  3 regulation by small upstream mills.
+04256000  0 INDEPENDENCE RIVER AT DONNATTSBURG NY
+04256000  1 Winter records are ice affected.
+04258500  0 DEER RIVER AT COPENHAGEN NY
+04258500  1 Records are unsuitable for analysis at less
+04258500  2 than monthly resolution due to occasional
+04258500  3 powerplant regulation.
+04262500  0 WEST BRANCH OSWEGATCHIE R NR HARRISVILLE NY
+04262500  1 Since June 1985, record is unsuitable for
+04262500  2 analysis at less than monthly resolution
+04262500  3 due to powerplant regulation of low flows.
+04264331  0 ST. LAWRENCE R AT CORNWALL ONT NR MASSENA NY
+04264331  1 Degree of regulation before 1958 is difficult
+04264331  2 to quantify.  Since July 1958, flow has been
+04264331  3 regulated by international joint agreement.
+04264331  4 Currently, there is no gage -- discharge is
+04264331  5 defined as the sum of discharge at several
+04264331  6 points of regulation.
+04265000  0 GRASS RIVER AT PYRITES NY
+04265000  1 Records are unsuitable for analysis at less
+04265000  2 than monthly resolution due to powerplant
+04265000  3 regulation of low flow.
+04269000  0 ST. REGIS RIVER AT BRASHER CENTER NY
+04269000  1 Records are unsuitable for analysis at less
+04269000  2 than monthly resolution due to diurnal
+04269000  3 regulation by upstream powerplant.
+04269000  4 Winter records are ice affected.
+04269000  5 In 1932, constant values during an entire
+04269000  6 month is indicative of an estimated
+04269000  7 average monthly discharge value.
+04274000  0 W BR AUSABLE R NR LAKE PLACID NY
+04274000  1 Records are unsuitable for analysis at less
+04274000  2 than monthly resolution due to diurnal
+04274000  3 fluctuation by upstream mill.  Records prior
+04274000  4 to 1921 do not meet HCDN criteria.
+04275000  0 E BR AUSABLE RIVER AT AU SABLE FORKS NY
+04275000  1 Records are unsuitable for analysis at less
+04275000  2 than monthly resolution due to occasional
+04275000  3 regulation of storage in upstream lakes.
+04275000  4 Winter records are ice affected.
+04276500  0 BOUQUET RIVER AT WILLSBORO NY
+04276500  1 Records prior to 1923 do not meet the specified
+04276500  2 standards of accuracy. Records are unsuitable
+04276500  3 for analysis at less than monthly resolution
+04276500  4 due to occasional regulation of storage by
+04276500  5 upstream powerplant and pond.
+04293500  0 MISSISQUOI RIVER NEAR EAST BERKSHIRE, VT
+04293500  1 Records prior to water year 1934 do not meet
+04293500  2 the specified standards of accuracy.
+05011500  0 WATERTON RIVER NEAR INTERNATIONAL BOUNDARY
+05011500  1 Operated full time only 10 years.
+05051600  0 WILD RICE RIVER NR RUTLAND, ND
+05051600  1 Operated seasonally since 1983.
+05053000  0 WILD RICE RIVER NR ABERCROMBIE, ND
+05053000  1 Lake Tewaukon provides some minor regulation
+05056100  0 MAUVAIS COULEE NR CANDO, ND
+05056100  1 Operated seasonally since 1983.
+05056200  0 EDMORE COULEE NR EDMORE, ND
+05056200  1 Operated seasonally since 1983.
+05057000  0 SHEYENNE RIVER NR COOPERSTOWN, ND
+05057000  1 Data prior to WY1946 are not of acceptable
+05057000  2 quality.
+05059600  0 MAPLE RIVER NR HOPE, ND
+05059600  1 Operated seasonally since 1983.
+05062000  0 BUFFALO RIVER NEAR DILWORTH, MN
+05062000  1 Winter records may be ice affected.
+05062500  0 WILD RICE RIVER AT TWIN VALLEY, MN
+05062500  1 Winter records may be ice affected.
+05064900  0 BEAVER CREEK NR FINLEY, ND
+05064900  1 Reservoir constructed two miles upstream of
+05064900  2 gage in 1987.
+05066500  0 GOOSE RIVER AT HILLSBORO, ND
+05066500  1 Data prior to WY1936 are not of acceptable
+05066500  2 quality.
+05069000  0 SAND HILL RIVER AT CLIMAX, MN
+05069000  1 Winter records may be ice affected.
+05078000  0 CLEARWATER RIVER AT PLUMMER, MN
+05078000  1 Winter records may be ice affected.
+05078000  2 Records affected by major diversions for
+05078000  3 irrigation of wild rice starting with
+05078000  4 water year 1968.
+05078500  0 CLEARWATER RIVER AT RED LAKE FALLS, MN
+05078500  1 Winter records may be ice affected.
+05078500  2 Records affected by major diversions for
+05078500  3 irrigation of wild rice starting with
+05078500  4 water year 1988.
+05082500  0 RED RIVER OF THE NORTH AT GRAND FORKS, ND
+05082500  1 Extensive regulation by dams.
+05099100  0 SNOWFLAKE CREEK NEAR SNOWFLAKE, MANITOBA
+05099100  1 International Station operated by Environment
+05099100  2 Canada, Water Resources Branch
+05099300  0 PEMBINA RIVER NEAR WINDYGATES, MANITOBA
+05099300  1 International Station operated by Environment
+05099300  2 Canada, Water Resources Branch
+05100000  0 PEMBINA RIVER AT NECHE, ND
+05100000  1 Data prior to WY1932 are not of acceptable
+05100000  2 quality.
+05107500  0 ROSEAU RIVER AT ROSS, MN
+05107500  1 Winter records may be ice affected.
+05112000  0 ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN
+05112000  1 Winter records may be ice affected.
+05113800  0 SHORT C BEL INTNL BDRY NR ROCHE PERCEE, SASK.
+05113800  1 International Station operated by Environment
+05113800  2 Canada, Water Resources Branch
+05123900  0 BOUNDARY CREEK NR LANDA, ND
+05123900  1 Operated seasonally since 1985.
+05124480  0 KAWISHIWI RIVER NEAR ELY, MN
+05124480  1 Winter records may be ice affected.
+05130500  0 STURGEON RIVER NEAR CHISHOLM, MN
+05130500  1 Winter records may be ice affected.
+05131500  0 LITTLE FORK RIVER AT LITTLEFORK, MN
+05131500  1 Winter records may be ice affected.
+05132000  0 BIG FORK RIVER AT BIG FALLS, MN
+05132000  1 Winter records may be ice affected.
+05132000  2 Records prior to water year 1971 are unsuitable
+05132000  3 for analysis at less than monthly resolution due
+05132000  4 to minor low flow regulation by upstream plant.
+05133500  0 RAINY RIVER AT MANITOU RAPIDS, MN
+05133500  1 River is highly regulated making its records
+05133500  2 unsuitable by the specified criteria.
+05134200  0 RAPID RIVER NEAR BAUDETTE, MN
+05134200  1 Winter records may be ice affected.
+05244000  0 CROW WING RIVER AT NIMROD, MN
+05244000  1 Winter records may be ice affected.
+05244000  2 Records affected significantly by withdrawals
+05244000  3 for irrigation starting with water year 1971.
+05275000  0 ELK RIVER NEAR BIG LAKE, MN
+05275000  1 Winter records may be ice affected.
+05275000  2 Records affected significantly by withdrawals
+05275000  3 for irrigation starting with water year 1965.
+05280000  0 CROW RIVER AT ROCKFORD, MN
+05280000  1 Winter records may be ice affected.
+05286000  0 RUM RIVER NEAR ST. FRANCIS, MN
+05286000  1 Winter records may be ice affected.
+05288500  0 MISSISSIPPI RIVER NEAR ANOKA, MN
+05288500  1 River is highly regulated making its records
+05288500  2 unsuitable by the specified criteria.
+05290000  0 LITTLE MINNESOTA RIVER NEAR PEEVER, SD
+05290000  1 Winter records may be ice affected.
+05291000  0 WHETSTONE RIVER NEAR BIG STONE CITY, SD
+05291000  1 Winter records may be ice affected.
+05293000  0 YELLOW BANK RIVER NEAR ODESSA, MN
+05293000  1 Winter records may be ice affected.
+05300000  0 LAC QUI PARLE RIVER NEAR LAC QUI PARLE, MN
+05300000  1 Winter records may be ice affected.
+05304500  0 CHIPPEWA RIVER NEAR MILAN, MN
+05304500  1 Winter records may be ice affected.
+05313500  0 YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN
+05313500  1 Winter records may be ice affected.
+05316500  0 REDWOOD RIVER NEAR REDWOOD FALLS, MN
+05316500  1 Winter records may be ice affected.
+05317000  0 COTTONWOOD RIVER NEAR NEW ULM, MN
+05317000  1 Winter records may be ice affected.
+05320500  0 LE SUEUR RIVER NEAR RAPIDAN, MN
+05320500  1 Winter records may be ice affected.
+05330000  0 MINNESOTA RIVER NEAR JORDAN, MN
+05330000  1 River is highly regulated making its records
+05330000  2 unsuitable by the specified criteria.
+05331000  0 MISSISSIPPI RIVER AT ST. PAUL, MN
+05331000  1 River is highly regulated making its records
+05331000  2 unsuitable by the specified criteria.
+05333500  0 ST. CROIX RIVER NEAR DANBURY, WI
+05333500  1 Winter records may be ice affected.
+05336700  0 KETTLE RIVER BELOW SANDSTONE, MN
+05336700  1 Winter records may be ice affected.
+05338500  0 SNAKE RIVER NEAR PINE CITY, MN
+05338500  1 Winter records may be ice affected.
+05338500  2 Fixed crest conservation dam a short distance
+05338500  3 upstream from gage has had consistent
+05338500  4 invariant effect over the period of record.
+05340500  0 ST. CROIX RIVER AT ST. CROIX FALLS, WI
+05340500  1 Winter records may be ice affected.
+05353800  0 STRAIGHT RIVER NEAR FARIBAULT, MN
+05353800  1 Winter records may be ice affected.
+05362000  0 JUMP RIVER AT SHELDON, WI
+05362000  1 Winter records may be ice affected.
+05365500  0 CHIPPEWA RIVER AT CHIPPEWA FALLS, WI
+05365500  1 Records affected by reservoir upstream.
+05368000  0 HAY RIVER AT WHEELER, WI
+05368000  1 Winter records may be ice affected.
+05374000  0 ZUMBRO RIVER AT ZUMBRO FALLS, MN
+05374000  1 Winter records may be ice affected.
+05374000  2 Daily average discharge values are affected
+05374000  3 by small hydro plant just upstream; however,
+05374000  4 monthly averages should be unaffected.
+05376000  0 NORTH FORK WHITEWATER RIVER NEAR ELBA, MN
+05376000  1 Winter records may be ice affected.
+05376000  2 The recorder has been moved since the station
+05376000  3 was established but the affect on record is
+05376000  4 negligible.
+05379500  0 TREMPEALEAU RIVER AT DODGE, WI
+05379500  1 Winter records may be ice affected.
+05381000  0 BLACK RIVER AT NEILLSVILLE, WI
+05381000  1 Winter records may be ice affected.
+05383000  0 LA CROSSE RIVER NEAR WEST SALEM, WI
+05383000  1 Winter records may be ice affected.
+05384000  0 ROOT RIVER NEAR LANESBORO, MN
+05384000  1 Winter records may be ice affected.
+05385000  0 ROOT RIVER NEAR HOUSTON, MN
+05385000  1 Winter records may be ice affected.
+05393500  0 SPIRIT RIVER AT SPIRIT FALLS, WI
+05393500  1 Winter records may be ice affected.
+05394500  0 PRAIRIE RIVER NEAR MERRILL, WI
+05394500  1 Winter records may be ice affected.
+05397500  0 EAU CLAIRE RIVER AT KELLY, WI
+05397500  1 Winter records may be ice affected.
+05399500  0 BIG EAU PLEINE RIVER NEAR STRATFORD, WI
+05399500  1 Winter records may be ice affected.
+05405000  0 BARABOO RIVER NEAR BARABOO, WI
+05405000  1 Winter records may be ice affected.
+05407000  0 WISCONSIN RIVER AT MUSCODA, WI
+05407000  1 Records affected by reservoir upstream.
+05408000  0 KICKAPOO RIVER AT LA FARGE, WI
+05408000  1 Winter records may be ice affected.
+05410490  0 KICKAPOO RIVER AT STEUBEN, WI
+05410490  1 Winter records may be ice affected.
+05410490  2 Oct. 20, 1938 - Sept. 30, 1982 records at
+05410490  3 a site 1.2 mi downstream, with 690 sq. mi.
+05410490  4 Station number was 05410500.
+05410490  5 Records are probably equivalent
+05412500  0 TURKEY RIVER AT GARBER, IA
+05412500  1 Record prior to WY1932 is fragmented and of
+05412500  2 low quality.
+05413500  0 GRANT RIVER AT BURTON, WI
+05413500  1 Winter records may be ice affected.
+05414000  0 PLATTE RIVER NEAR ROCKVILLE, WI
+05414000  1 Winter records may be ice affected.
+05415000  0 GALENA RIVER AT BUNCOMBE, WI
+05415000  1 Winter records may be ice affected.
+05418500  0 MAQUOKETA RIVER NEAR MAQUOKETA, IA
+05418500  1 Only monthly discharges should be used prior to
+05418500  2 September 1930 due to rough estimates of flow
+05418500  3 for missing or ice-affected record.
+05418500  4 Diurnal flucuation caused by powerplant
+05418500  5 4 miles upstream.
+05419000  0 APPLE RIVER NEAR HANOVER, IL
+05419000  1 Occasional regulation during low flow periods
+05419000  2 by dam at Hanover: records should not be used
+05419000  3 for analysis at less than monthly resolution.
+05420500  0 MISSISSIPPI RIVER AT CLINTON, IA
+05420500  1 Prior to October 1932, discharges are from
+05420500  2 the reports of the Iowa State Planning Board.
+05420500  3 Prior to October 1939 (published as "at Le
+05420500  4 Claire"), discharges include flow from
+05420500  5 Wapsipinicon River.  Minor flow regulation
+05420500  6 by navigation dams since about 1938 - should not
+05420500  7 significantly affect monthly discharges and
+05420500  8 should have only minor affect on daily
+05420500  9 discharges.
+05421000  0 WAPSIPINICON RIVER AT INDEPENDENCE, IA
+05421000  1 Diurnal flucuation at low flow, prior to about
+05421000  2 1950, caused by powerplant 1800 feet upstream.
+05426000  0 CRAWFISH RIVER AT MILFORD, WI
+05426000  1 Winter records may be ice affected.
+05430500  0 ROCK RIVER AT AFTON, WI
+05430500  1 Winter records may be ice affected.
+05431486  0 TURTLE CREEK AT CARVERS ROCK ROAD NR CLINTON, WI
+05431486  1 Winter records may be ice affected.
+05431486  2 Station was relocated in December 1979, at which
+05431486  3 time drainage area changed from 202 to 199
+05431486  4 square miles.
+05432500  0 PECATONICA RIVER AT DARLINGTON, WI
+05432500  1 Winter records may be ice affected.
+05433000  0 EAST BR PECATONICA R NR BLANCHARDVILLE, WI
+05433000  1 Winter records may be ice affected.
+05434500  0 PECATONICA RIVER AT MARTINTOWN, WI
+05434500  1 Winter records may be ice affected.
+05436500  0 SUGAR RIVER NEAR BRODHEAD, WI
+05436500  1 Winter records may be ice affected.
+05446500  0 ROCK RIVER NEAR JOSLIN, IL
+05446500  1 Some diurnal fluctuation caused by upstream
+05446500  2 powerplants: record should not be used for
+05446500  3 analysis at less than monthly resolution.
+05451500  0 IOWA RIVER AT MARSHALLTOWN, IA
+05451500  1 Only monthly discharges should be used prior
+05451500  2 to October 1932 due to rough estimates of flow
+05451500  3 for missing or ice-affected record.
+05454500  0 IOWA RIVER AT IOWA CITY, IA
+05454500  1 Discharges from October 1906 to September 1913
+05454500  2 from the reports of the Iowa State Planning
+05454500  3 Board.
+05454500  4 Only monthly discharges should be used prior
+05454500  5 to October 1923 due to rough estimates of flow
+05454500  6 for missing or ice-affected record.
+05454500  7 Diurnal flucuation at low flow, for most if not
+05454500  8 all of the unregulated period of record, caused
+05454500  9 by powerplants at Iowa City and Coralville.
+05454500 10 Flow regulated by Coralville Lake, 9.1 miles
+05454500 11 upstream, since Sept. 17, 1958.
+05457000  0 CEDAR RIVER NEAR AUSTIN, MN
+05457000  1 Winter records may be ice affected.
+05457700  0 CEDAR RIVER AT CHARLES CITY, IA
+05457700  1 Occasional minor regulation by dam 0.2 miles
+05457700  2 upstream.
+05458500  0 CEDAR RIVER AT JANESVILLE, IA
+05458500  1 Only monthly discharges should be used prior
+05458500  2 to October 1934 due to rough estimates of flow
+05458500  3 for missing or ice-affected record.
+05458500  4 Diurnal flucuation during low flow caused by
+05458500  5 powerplant at Waverly, 10 miles upstream.
+05459500  0 WINNEBAGO RIVER AT MASON CITY, IA
+05459500  1 Only monthly discharges should be used prior
+05459500  2 to December 1932 due to rough estimates of flow
+05459500  3 for missing record.
+05462000  0 SHELL ROCK RIVER AT SHELL ROCK, IA
+05462000  1 Diurnal flucuation at low flow, prior to about
+05462000  2 1964, caused by powerplant upstream at Greene.
+05464000  0 CEDAR RIVER AT WATERLOO, IA
+05464000  1 Only monthly discharges should be used prior
+05464000  2 to April 1941 due to rough estimates of flow
+05464000  3 for missing record.
+05464000  4 Slight diurnal flucuation during low flow
+05464000  5 caused by dams or powerplants upstream.
+05464500  0 CEDAR RIVER AT CEDAR RAPIDS, IA
+05464500  1 Only monthly discharges should be used prior
+05464500  2 to October 1930 due to rough estimates of flow
+05464500  3 for missing or ice-affected record.
+05464500  4 Diurnal flucuation at low flow, prior to about
+05464500  5 1950-60, and minor regulation, after June 1979,
+05464500  6 (which may occasionally affect daily discharges)
+05464500  7 caused by dams about 0.5 miles upstream.
+05465500  0 IOWA RIVER AT WAPELLO, IA
+05465500  1 Only monthly discharges should be used prior
+05465500  2 to October 1932 due to rough estimates of flow
+05465500  3 for missing or ice-affected record.
+05465500  4 Diurnal flucuation at low flow, for most if not
+05465500  5 all of the unregulated period of record, caused
+05465500  6 by powerplants upstream.
+05465500  7 Flow regulated by Coralville Lake, 67.3 miles
+05465500  8 upstream, since Sept. 17, 1958.
+05470000  0 SOUTH SKUNK RIVER NEAR AMES, IA
+05470000  1 Only monthly discharges should be used prior
+05470000  2 to October 1934 due to rough estimates of flow
+05470000  3 for missing or ice-affected record.
+05470500  0 SQUAW CREEK AT AMES, IA
+05470500  1 Only monthly discharges should be used prior
+05470500  2 to October 1927 due to rough estimates of flow
+05470500  3 for missing or ice-affected record.
+05474000  0 SKUNK RIVER AT AUGUSTA, IA
+05474000  1 Only monthly discharges should be used prior
+05474000  2 to October 1933 due to rough estimates of flow
+05474000  3 for missing or ice-affected record.
+05474000  4 Diurnal flucuation at low flow, for about the
+05474000  5 first half of the record, caused by a powerplant
+05474000  6 25 miles upstream.
+05474500  0 MISSISSIPPI RIVER AT KEOKUK, IOWA
+05474500  1 Prior to October 1932, discharges are from the
+05474500  2 reports of the Iowa State Planning Board.
+05474500  3 Since 1913, discharge is computed from records
+05474500  4 of the operation of turbines in powerplant and
+05474500  5 spillway gates in dam by Union Electric Power
+05474500  6 Company (formerly Mississippi River Power
+05474500  7 Company). Records for the period May 1913 to
+05474500  8 September 1937 are adjusted for change in
+05474500  9 contents in Keokuk Reservoir.  Those after
+05474500 10 September 1937 are unadjusted.  Minor flow
+05474500 11 regulation by powerplant since 1913, and by
+05474500 12 navigation dams since about 1939.
+05476000  0 DES MOINES RIVER AT JACKSON, MN
+05476000  1 Winter records may be ice affected.
+05476500  0 DES MOINES RIVER AT ESTHERVILLE, IA
+05476500  1 Only monthly discharges should be used prior
+05476500  2 to December 1951 due to rough estimates of flow
+05476500  3 for missing record.
+05480500  0 DES MOINES RIVER AT FORT DODGE, IA
+05480500  1 Only monthly discharges should be used prior
+05480500  2 to October 1950 due to rough estimates of flow
+05480500  3 for missing or ice-affected record.
+05480500  4 Diurnal flucuation at low flow, from 1918 to
+05480500  5 1971, and occasional minor regulation since
+05480500  6 1971, caused by dam 0.8 miles upstream.
+05480500  7 Published as "at Kalo" 1914-27.
+05481300  0 DES MOINES RIVER NEAR STRATFORD, IA
+05481300  1 Only monthly discharges should be used prior
+05481300  2 to October 1933 due to rough estimates of flow
+05481300  3 for missing or ice-affected record.
+05481300  4 Diurnal flucuation at low flow, from 1918 to
+05481300  5 1971, and occasional minor regulation since
+05481300  6 1971, caused by dam at Fort Dodge.
+05481300  7 Published as "at Boone" 1920-67.
+05484000  0 SOUTH RACCOON RIVER AT REDFIELD, IA
+05484000  1 Some diurnal flucuation at low flow, during
+05484000  2 early period of record, caused by powerplant
+05484000  3 upstream at Panora.
+05484500  0 RACCOON RIVER AT VAN METER, IA
+05484500  1 Only monthly discharges should be used prior
+05484500  2 to October 1934 due to rough estimates of flow
+05484500  3 for missing or ice-affected record.
+05484500  4 Diurnal flucuation at low flow, during early
+05484500  5 period of record caused by powerplant at Adel,
+05484500  6 10 miles upstream.
+05490500  0 DES MOINES RIVER AT KEOSAUQUA, IA
+05490500  1 Only monthly discharges should be used prior
+05490500  2 to October 1930 due to rough estimates of flow
+05490500  3 for missing or ice-affected record.
+05490500  4 Some diurnal flucuation at medium and low flows,
+05490500  5 prior to January 1959 and since November 1960,
+05490500  6 caused by power plant at Ottumwa.
+05490500  7 Flow regulated by Lake Red Rock, 91 miles
+05490500  8 upstream since March 12, 1969.
+05527500  0 KANKAKEE RIVER NEAR WILMINGTON, IL
+05527500  1 Slight diurnal fluctuations at low flow caused
+05527500  2 by upstream powerplants: records should not be
+05527500  3 used for analysis at less than monthly
+05527500  4 resolution.
+05528000  0 DES PLAINES RIVER NEAR GURNEE, IL
+05528000  1 A sewage treatment plant constructed upstream
+05528000  2 from gage in 1976 introduces significant
+05528000  3 amount of flow to the river.
+05546500  0 FOX RIVER AT WILMOT, WI
+05546500  1 Winter records may be ice affected.
+05555300  0 VERMILION RIVER NEAR LEONORE, IL
+05555300  1 Prior to 1972 water year this gage was
+05555300  2 located at Lowell (05555500).  Records are
+05555300  3 considered equivalent.  (The peak flow data
+05555300  4 for Lowell were merged with this station's
+05555300  5 records.)
+05555500  0 VERMILION RIVER AT LOWELL, IL
+05555500  1 After 1971 water year, this gage was moved
+05555500  2 to Leonore (05555300).  Records are considered
+05555500  3 equivalent.
+05592500  0 KASKASKIA RIVER AT VANDALIA, IL
+05592500  1 Flow regulated by Shelby Reservoir since 1969.
+05593000  0 KASKASKIA RIVER AT CARLYLE, IL
+05593000  1 Flow regulated by Carlyle Reservoir since 1967.
+05595000  0 KASKASKIA RIVER AT NEW ATHENS, IL
+05595000  1 Flow regulated by Carlyle Reservoir since 1967.
+05596000  0 BIG MUDDY RIVER NEAR BENTON, IL
+05596000  1 Below 10 cfs, records are rated poor.
+05597000  0 BIG MUDDY RIVER AT PLUMFIELD, IL
+05597000  1 Rend Lake reservoir developed in 1970.
+06099500  0 MARIAS RIVER NEAR SHELBY, MT.
+06099500  1 Affected by upstream withdrawals and regulation.
+06214500  0 YELLOWSTONE RIVER AT BILLINGS MT
+06214500  1 Affected by irrigation withdrawals.
+06233000  0 LITTLE POPO AGIE RIVER NEAR LANDER, WYO.
+06233000  1 Switched to seasonal (approx. April through
+06233000  2 September) operation starting in 1972.
+06271000  0 TENSLEEP CREEK NEAR TENSLEEP, WYO.
+06271000  1 Switched to seasonal (approx. April through
+06271000  2 September) operation starting in 1972.
+06288200  0 BEAUVAIS CREEK NEAR ST. XAVIER, MT.
+06288200  1 Only eleven years of record.  Discontinued in
+06288200  2 1977 due to the poor quality of the record.
+06297000  0 SOUTH TONGUE RIVER NEAR DAYTON, WYOMING
+06297000  1 Switched to seasonal (approx. April through
+06297000  2 September) operation starting in 1972.
+06298000  0 TONGUE RIVER NR DAYTON WYO
+06298000  1 Significant diversions for irrigation during
+06298000  2 the summer months, but the practice has
+06298000  3 remained substantially unchanged over the
+06298000  4 period of record.
+06299500  0 WOLF CREEK AT WOLF,WYO.
+06299500  1 Switched to seasonal (approx. April through
+06299500  2 September) operation starting in 1972.
+06318500  0 CLEAR CREEK NEAR BUFFALO, WYO.
+06318500  1 Water supply diversion of up to 12 cfs started
+06318500  2 in 1988.
+06331000  0 LITTLE MUDDY RIVER BL COW CREEK NR WILLISTON, ND
+06331000  1 Operated seasonally since 1984.
+06339500  0 KNIFE RIVER NR GOLDEN VALLEY, ND
+06339500  1 Data prior to WY1934 are not of acceptable
+06339500  2 quality.
+06340500  0 KNIFE RIVER AT HAZEN, ND
+06340500  1 Slight regulation by Lake Ilo 81 mi. upstream.
+06340500  2 Data prior to WY1934 are not of acceptable
+06340500  3 quality.
+06426500  0 BELLE FOURCHE RIVER BELOW MOORCROFT, WYO.
+06426500  1 Many small water-supply ponds and generally fair
+06426500  2 records; however, this is the most suitable
+06426500  3 station to represent the geographic and
+06426500  4 climatic region of the Plains area of
+06426500  5 north-east Wyoming.
+06606600  0 LITTLE SIOUX RIVER AT CORRECTIONVILLE, IA
+06606600  1 Only monthly discharges should be used prior
+06606600  2 to October 1936 due to rough estimates of flow
+06606600  3 for missing or ice-affected record.
+06620000  0 NORTH PLATTE RIVER NEAR NORTHGATE, CO
+06620000  1 Significant diversions for irrigation during
+06620000  2 the summer months, but the practice has
+06620000  3 remained substantially unchanged over the
+06620000  4 period of record.
+06630000  0 N PLATTE R AB SEMINOE RES NR SINCLAIR WYO
+06630000  1 Significant diversions for irrigation during
+06630000  2 the summer months, but the practice has
+06630000  3 remained substantially unchanged over the
+06630000  4 period of record.
+06635000  0 MEDICINE BOW R AB SEMINOE RESERVOIR, NR HANNA, W
+06635000  1 Moderate regulation and diversions, but the
+06635000  2 practice has remained substantially unchanged
+06635000  3 over the period of record.  Although some of the
+06635000  4 flow is from mountainous areas, this is the most
+06635000  5 suitable station to represent the plains area
+06635000  6 of south-east Wyoming.
+06658500  0 LARAMIE RIVER NEAR JELM, WYO.
+06658500  1 Significant diversions for irrigation during
+06658500  2 the summer months, but the practice has
+06658500  3 remained substantially unchanged over the
+06658500  4 period of record.
+06677500  0 HORSE CREEK NEAR LYMAN, NE
+06677500  1 Minor effects from irrigation development
+06677500  2 in Wyoming and Nebraska substantially unchanged
+06677500  3 over the period of record.
+06725500  0 MIDDLE BOULDER CREEK AT NEDERLAND, CO.
+06725500  1 Tributary flow not included for all or parts
+06725500  2 of water years 1907-8, 1911-17.
+06791500  0 CEDAR RIVER NEAR SPALDING, NE
+06791500  1 Minor affects due to pumping during periods
+06791500  2 of low flow.
+06809500  0 EAST NISHNABOTNA RIVER NEAR RED OAK, IA
+06809500  1 Only monthly discharges should be used prior
+06809500  2 to October 1936 due to rough estimates of flow
+06809500  3 for missing or ice-affected record.
+06813000  0 TARKIO RIVER AT FAIRFAX MO
+06813000  1 Discharge is rated fair at best
+06813000  2 due to geographical conditions.
+06817500  0 NODAWAY RIVER NEAR BURLINGTON JCT, MO
+06817500  1 Upper third of the basin in Missouri is
+06817500  2 channelized.
+06864500  0 SMOKY HILL R AT ELLSWORTH, KS
+06864500  1 Regulated flow after 1950 WY.
+06867000  0 SALINE R NR RUSSELL, KS
+06867000  1 Affected by ground-water pumping and changes in
+06867000  2 farming practices.
+06869500  0 SALINE R AT TESCOTT, KS
+06869500  1 Regulated after 1964 WY.
+06876900  0 SOLOMON R AT NILES, KS
+06876900  1 Regulated after 1955 WY.
+06879650  0 KINGS C NR MANHATTAN, KS
+06879650  1 Short record.
+06884400  0 L BLUE R NR BARNES, KS
+06884400  1 Established April 29, 1958 as a replacement
+06884400  2 for Waterville (06884500); however, the
+06884400  3 discharges are not equivalent even though the
+06884400  4 data continued to be published under the
+06884400  5 Waterville label through 1962.
+06884500  0 L BLUE R AT WATERVILLE, KS
+06884500  1 Station discontinued April 28,1958 and moved
+06884500  2 11.5 miles upstream to Barnes (06884400). Even
+06884500  3 though the discharges are not equivalent, the
+06884500  4 data for the relocated station were published
+06884500  5 under this station's name through Sept. 1962
+06884500  6 The quality of the record at this station does
+06884500  7 not support using it at a time scale shorter
+06884500  8 than monthly.
+06885500  0 BLACK VERMILLION R NR FRANKFORT, KS
+06885500  1 The record for WY1954 does not meet the
+06885500  2 requirements in the text for periods of constant
+06885500  3 flow as there was no gage-height record for the
+06885500  4 first three months of WY1954.
+06885500  5 The quality of the record at this station does
+06885500  6 not support using it at a time scale shorter
+06885500  7 than monthly.
+06890500  0 DELAWARE R AT VALLEY FALLS, KS
+06890500  1 The record for WY1929 does not meet the
+06890500  2 requirements in the text for periods of constant
+06890500  3 flow as there was no gage-height record for
+06890500  4 April 1 - June 9 of WY1929.
+06891500  0 WAKARUSA R NR LAWRENCE, KS
+06891500  1 Regulated after 1977 WY.
+06891500  2 The quality of the record at this station does
+06891500  3 not support using it at a time scale shorter
+06891500  4 than monthly.
+06897500  0 GRAND RIVER NEAR GALLATIN MO
+06897500  1 Discharge is rated fair at best
+06897500  2 due to geographical conditions.
+06898000  0 THOMPSON RIVER AT DAVIS CITY, IA
+06898000  1 Only monthly discharges should be used prior
+06898000  2 to October 1941 due to rough estimates of flow
+06898000  3 for missing or ice-affected record.
+06899500  0 THOMPSON RIVER AT TRENTON MO
+06899500  1 Discharge is rated fair at best
+06899500  2 due to geographical conditions.
+06907000  0 LAMINE RIVER AT CLIFTON CITY, MO.
+06907000  1 Discharge is rated fair at best
+06907000  2 due to geographical conditions.
+06908000  0 BLACKWATER RIVER AT BLUE LICK, MISSOURI
+06908000  1 Discharge is rated fair at best
+06908000  2 due to geographical conditions.
+06913500  0 MARAIS DES CYGNES R NR OTTAWA, KS
+06913500  1 Regulated after 1963 WY.
+06934500  0 MISSOURI RIVER AT HERMANN, MO
+06934500  1 Significant effect from upstream reservoirs.
+07032000  0 MISSISSIPPI RIVER AT MEMPHIS, TENN.
+07032000  1 Subject to the sorts of anthropogenic effects
+07032000  2 that are to be expected in very large drainage
+07032000  3 basins.
+07071500  0 ELEVEN POINT RIVER NEAR BARDLEY, MO
+07071500  1 Some timber conversion to pasture in last 20
+07071500  2 years.
+07096000  0 ARKANSAS RIVER AT CANON CITY, CO.
+07096000  1 Much inter-mountain transfer and irrigation.
+07141200  0 PAWNEE R NR LARNED, KS
+07141200  1 Flow affected by ground-water pumping and
+07141200  2 changes in farming practices after 1965 WY.
+07141200  3 The record for WY1925 does not meet the
+07141200  4 requirements in the text for periods of constant
+07141200  5 flow as there was no gage-height record for most
+07141200  6 of October - February of WY1925.
+07144200  0 L ARKANSAS R AT VALLEY CENTER, KS
+07144200  1 Since 1939, a large well field taps the aquifer
+07144200  2 which is hydraulically connected with the river.
+07144200  3 This should have been affecting flow, but the
+07144200  4 effect has not been seen in the flow record.
+07145200  0 SF NINNESCAH R NR MURDOCK, KS
+07145200  1 The quality of the record at this station does
+07145200  2 not support using it at a time scale shorter
+07145200  3 than monthly.
+07146500  0 ARKANSAS R AT ARKANSAS CITY, KS
+07146500  1 Affected by ground-water pumping, changes in
+07146500  2 farming practices, divesions, and return flows.
+07147800  0 WALNUT R AT WINFIELD, KS
+07147800  1 Regulated after 1980 WY.
+07157500  0 CROOKED C NR NYE, KS
+07157500  1 Flow characteristics changed in the early
+07157500  2 1980's due to ground-water depletion. This is
+07157500  3 the only suitable station in this hydrologic
+07157500  4 region within the boundaries of Kansas.
+07176000  0 VERDIGRIS RIVER NEAR CLAREMORE, OK
+07176000  1 Affected by a reservoir starting in 1961.
+07180500  0 CEDAR C NR CEDAR POINT, KS
+07180500  1 The record for WY1939 does not meet the
+07180500  2 requirements in the text for periods of constant
+07180500  3 flow as there was no gage-height record for most
+07180500  4 of October & November of WY1939.
+07183000  0 NEOSHO R NR IOLA, KS
+07183000  1 Regulated after 1962 WY.
+07211500  0 CANADIAN R NR TAYLOR SPRINGS, NM
+07211500  1 Some upstream diversions.
+07216500  0 MORA RIVER NEAR GOLONDRINAS N. MEX.
+07216500  1 Upstream diversions.
+07218000  0 COYOTE CREEK NEAR GOLONDRINAS, N. MEX.
+07218000  1 Upstream diversions.
+07221000  0 MORA RIVER NR SHOEMAKER N MEX.
+07221000  1 Upstream diversions.
+07222500  0 CONCHAS RIVER AT VARIADERO, N. MEX.
+07222500  1 Records only fair.  Upstream diversions.
+07232500  0 BEAVER RIVER NEAR GUYMON, OK
+07232500  1 Heavy pumping starting in 1958.
+07234000  0 BEAVER RIVER AT BEAVER, OK
+07234000  1 Heavy pumping starting in 1959.
+07247000  0 POTEAU RIVER AT CAUTHRON, ARK.
+07247000  1 After 1974, flow controlled by 16 small
+07247000  2 reservoirs.
+07263000  0 SO FOURCHE LA FAVE RIV NR HOLLIS, ARK.
+07263000  1 Watershed was under stable conditions through
+07263000  2 1974 after which time  extensive clearcutting
+07263000  3 activity began. However, effects of clearcutting
+07263000  4 on discharge are not well known and may not be
+07263000  5 extremely large.
+07265450  0 MISSISSIPPI RIV NR ARKANSAS CITY, ARK.
+07265450  1 Subject to the sorts of anthropogenic effects
+07265450  2 that are to be expected in very large drainage
+07265450  3 basins.
+07289000  0 MISSISSIPPI RIVER AT VICKSBURG, MS
+07289000  1 Data furnished by Army Corps of Engineers.
+07314500  0 LITTLE WICHITA RIVER NR ARCHER CITY, TX
+07314500  1 Regulated (57%) by Lake Kickapoo since 1945.
+07331000  0 WASHITA RIVER NEAR DICKSON, OK
+07331000  1 Controlled by several small flood-detention
+07331000  2 (unregulated) reservoirs.
+07339000  0 MOUNTAIN FORK NEAR EAGLETOWN, OK
+07339000  1 Affected by a reservoir starting in 1966.
+07339500  0 ROLLING FORK NR. DE QUEEN, ARK
+07339500  1 After 1977, flow regulated by DeQueen Lake.
+07340000  0 LITTLE RIVER NEAR HORATIO, ARK.
+07340000  1 After 1968, flow regulated.
+07340500  0 COSSATOT RIVER NEAR DEQUEEN, ARK.
+07340500  1 After 1975, flow regulated.
+07349500  0 BODCAU BAYOU NEAR SAREPTA, LA
+07349500  1 There is some diversion and regulation by
+07349500  2 Lake Erling, 15 miles upstream from
+07349500  3 gage, which may impact on daily flow
+07349500  4 estimates but will not significantly
+07349500  5 alter the monthly average measurement.
+07369500  0 TENSAS RIVER AT TENDAL, LA
+07369500  1 Period of good record is from 1955 to present.
+07369500  2 There is small diversion upstream for irrigation
+07369500  3 and the system of interconnected bayous and
+07369500  4 drainage ditches produces interchange of
+07369500  5 streamflow under various conditions.
+07369500  6 Monthly average discharge measurements
+07369500  7 should not be significantly altered.
+08010000  0 BAYOU DES CANNES NEAR EUNICE, LA
+08010000  1 Usable period of record is 1940 to present.
+08010000  2 Small diversion upstream from gage should not
+08010000  3 affect monthly average values.
+08030500  0 SABINE RIVER NR RULIFF, TX
+08030500  1 Regulated (77%) by Toledo Bend Reservoir
+08030500  2 since 1966.
+08033500  0 NECHES RIVER NEAR ROCKLAND, TEX.
+08033500  1 Regulated (25%) by Lake Athens, Lake
+08033500  2 Palestine, and Lake Jacksonville since 1961.
+08041000  0 NECHES RIVER AT EVADALE, TEX.
+08041000  1 Regulated (95%) by B.A. Steinhagen and by Sam
+08041000  2 Rayburn Reservoir since 1964.
+08055500  0 ELM FORK TRINITY RIVER NR CARROLLTON, TX
+08055500  1 Almost completely regulated (96%) by Lewisville
+08055500  2 Lake and by Grapevine Lake since 1954.
+08082000  0 SALT FK BRAZOS R NR ASPERMONT, TX
+08082000  1 Regulated (15%) by White River Reservoir
+08082000  2 since 1962.
+08126500  0 COLORADO RIVER AT BALLINGER, TX
+08126500  1 Regulated (92%) by E.V. Spence and by
+08126500  2 Oak Creek Reservoir since 1952.
+08158000  0 COLORADO RIVER AT AUSTIN, TX
+08158000  1 Since 1937 at least 99% of drainage basin has
+08158000  2 been regulated by Lake Travis.
+08176500  0 GUADALUPE RIVER AT VICTORIA, TX
+08176500  1 Regulated since 1962 by Canyon Lake and by
+08176500  2 many other smaller lakes.
+08177500  0 COLETO CREEK NR VICTORIA, TX
+08177500  1 Since 1980, flow completely regulated by
+08177500  2 Coleto Creek Reservoir 1.6 miles upstream.
+08210000  0 NUECES RIVER NR THREE RIVERS, TX
+08210000  1 Regulated (36%) since 1983 by Choke Canyon Lake
+08210000  2 on the Frio River, a tributary to the Nueces R.
+08267000  0 RED RIVER AT MOUTH, NEAR QUESTA, N. MEX.
+08267000  1 Upstream diversions.
+08276500  0 RIO GRANDE BELOW TAOS JUNCTION BRIDGE NR TAOS,NM
+08276500  1 This station is marginal for climate analysis
+08276500  2 purposes.  It is subject to the effects of
+08276500  3 de-watering projects, trans-mountain diversions,
+08276500  4 ground-water withdrawals, and diversions for
+08276500  5 irrigation.  It is included because it is the
+08276500  6 best available station on the Rio Grande.
+08279000  0 EMBUDO CREEK AT DIXON, NM
+08279000  1 Upstream diversions.
+08283500  0 RIO CHAMA AT PARK VIEW, N. MEX.
+08283500  1 Upstream diversions.
+08289000  0 RIO OJO CALIENTE AT LA MADERA, NM
+08289000  1 Upstream diversions.
+08291000  0 SANTA CRUZ RIVER NEAR CUNDIYO, N. MEX.
+08291000  1 Upstream diversions.
+08405500  0 BLACK RIVER ABOVE MALAGA, N. MEX.
+08405500  1 Upstream diversions.
+08449400  0 DEVILS RIVER AT PAFFORD CROSSING NR COMSTOCK, TX
+08449400  1 This station is operated by the International
+08449400  2 Boundary and Water Commission, and their
+08449400  3 data is not stored in WATSTORE.
+09085000  0 ROARING FORK RIVER AT GLENWOOD SPRINGS, CO.
+09085000  1 Constructed record.
+09110000  0 TAYLOR RIVER AT ALMONT, CO.
+09110000  1 Affected by storage in Taylor Park
+09110000  2 Reservoir since 9/6/37.
+09112500  0 EAST RIVER AT ALMONT CO.
+09112500  1 Water year 1922 has periods of constant
+09112500  2 estimated flow that fall short of the criteria
+09112500  3 for estimated flow discussed in the text.
+09115500  0 TOMICHI CREEK AT SARGENTS, CO.
+09115500  1 Water years 1917 and 1938 have periods of
+09115500  2 constant estimated flow that fall short of the
+09115500  3 criteria for estimated flow discussed in the
+09115500  4 text.
+09119000  0 TOMICHI CREEK AT GUNNISON, CO.
+09119000  1 Water year 1938 has periods of
+09119000  2 constant estimated flow that fall short of the
+09119000  3 criteria for estimated flow discussed in the
+09119000  4 text.
+09124500  0 LAKE FORK AT GATEVIEW, CO.
+09124500  1 Water year 1938 has periods of
+09124500  2 constant estimated flow that fall short of the
+09124500  3 criteria for estimated flow discussed in the
+09124500  4 text.
+09125000  0 CURECANTI CREEK NEAR SAPINERO, CO.
+09125000  1 Water year 1946 has periods of
+09125000  2 constant estimated flow that fall short of the
+09125000  3 criteria for estimated flow discussed in the
+09125000  4 text.
+09127998  0 GUNNISON RIVER ABOVE GUNNISON TUNNEL, CO.
+09127998  1 Records for water years 1916-37 are a
+09127998  2 summation of flow through Gunnison Tunnel
+09127998  3 and flow at the gage below Gunnison Tunnel.
+09127998  4 Affected by storage in Taylor Park
+09127998  5 Reservoir since 9/6/37.
+09128500  0 SMITH FORK NEAR CRAWFORD, CO.
+09128500  1 Water years 1936, 1940, 1941, 1944, and 1945
+09128500  2 have periods of constant estimated flow that
+09128500  3 fall short of the criteria for estimated flow
+09128500  4 discussed in the text.
+09132500  0 NORTH FORK GUNNISON RIVER NEAR SOMERSET, CO.
+09132500  1 Affected by storage in Paonia Res. since 2/61.
+09132500  2 Water year 1934 has periods of
+09132500  3 constant estimated flow that fall short of the
+09132500  4 criteria for estimated flow discussed in the
+09132500  5 text.
+09147500  0 UNCOMPAHGRE RIVER AT COLONA, CO.
+09147500  1 Flow affected by Ridgway Reservoir since 1986.
+09147500  2 Water year 1913 has periods of
+09147500  3 constant estimated flow that fall short of the
+09147500  4 criteria for estimated flow discussed in the
+09147500  5 text.
+09180500  0 COLORADO RIVER NEAR CISCO UTAH
+09180500  1 Regulation by reservoir starting in 1938.
+09205500  0 NORTH PINEY CREEK NEAR MASON, WYO.
+09205500  1 Switched to seasonal (approx. April through
+09205500  2 September) operation starting in 1972.
+09212500  0 BIG SANDY R AT LECKIE RANCH, NR BIG SANDY, WY
+09212500  1 Switched to seasonal (approx. April through
+09212500  2 September) operation starting in 1972.
+09220000  0 EAST FORK OF SMITH FORK NR ROBERTSON, WYO.
+09220000  1 Switched to seasonal (approx. April through
+09220000  2 September) operation starting in 1972.
+09239500  0 YAMPA RIVER AT STEAMBOAT SPRINGS, CO.
+09239500  1 Increasing reservoir construction and operation
+09239500  2 after water year 1987.
+09241000  0 ELK RIVER AT CLARK, CO.
+09241000  1 Water years 1911 and 1912 have periods of
+09241000  2 constant estimated flow that fall short of the
+09241000  3 criteria for estimated flow discussed in the
+09241000  4 text.
+09251000  0 YAMPA RIVER NEAR MAYBELL, CO.
+09251000  1 Increasing reservoir construction and operation
+09251000  2 after water year 1987.
+09304500  0 WHITE RIVER NEAR MEEKER, CO.
+09304500  1 Water years 1902 and 1910 have periods of
+09304500  2 constant estimated flow that fall short of the
+09304500  3 criteria for estimated flow discussed in the
+09304500  4 text.
+09315000  0 GREEN RIVER AT GREEN RIVER, UTAH
+09315000  1 Regulation by Flaming Gorge starting in 1962.
+09350500  0 SAN JUAN RIVER AT ROSA, N. MEX.
+09350500  1 Upstream diversions.
+09378700  0 COTTONWOOD WASH NR BLANDING UTAH
+09378700  1 Ephemeral stream.
+09379500  0 SAN JUAN RIVER NEAR BLUFF, UTAH
+09379500  1 Regulation by reservoir starting in 1941.
+09384000  0 LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, A
+09384000  1 Affected somewhat by urbanization (ski resorts).
+09419610  0 LEE CANYON NR CHARLESTON PARK, NV
+09419610  1 An ephemeral stream.
+09431500  0 GILA RIVER NEAR REDROCK, NM
+09431500  1 Irrigation withdrawals consistent over the
+09431500  2 period of record.
+09448500  0 GILA R AT HEAD OF SAFFORD VALLEY NR SOLOMON ARIZ
+09448500  1 Several diversions upstream.
+09480000  0 SANTA CRUZ RIVER NEAR LOCHIEL, ARIZ.
+09480000  1 Unusual basin in that it has no electricity.
+10258000  0 TAHQUITZ CR NR PALM SPRINGS CA
+10258000  1 Ephemeral stream.
+10258500  0 PALM CANYON CREEK NR PALM SPRINGS CALIF
+10258500  1 Ephemeral stream.  Accuracy of many years
+10258500  2 rated fair.
+10259000  0 ANDREAS CREEK NEAR PALM SPRINGS, CALIF.
+10259000  1 One small diversion for domestic use.
+10263500  0 BIG ROCK CREEK NEAR VALYERMO,CALIF.
+10263500  1 Part of record provided under the general
+10263500  2 supervision of USGS.  Accuracy of many
+10263500  3 years rated fair.
+10296000  0 W WALKER R BL L WALKER R NR COLEVILLE, CA
+10296000  1 Minor regulation by small reservoir (capacity
+10296000  2 1200 acre-feet, drainage area 2.69 mi2) for
+10296000  3 entire period.  A few small ranch ditch
+10296000  4 diversions.
+10296500  0 W WALKER R NR COLEVILLE, CA
+10296500  1 Flow slightly regulated by small reservoir
+10296500  2 (capacity 1200 acre-feet, drainage area 2.69
+10296500  3 mi2) for entire period.  A few small ranch ditch
+10296500  4 diversions.
+10301500  0 WALKER R NR WABUSKA, NV
+10301500  1 Down stream from some storage control.
+10301500  2 Diversions for irrigation substantially
+10301500  3 constant over the past 60-80 years.
+10301500  4 Inflow to Walker Lake.
+10308200  0 E F CARSON R BL MARKLEEVILLE C NR MARKLEEVILLECA
+10308200  1 Minor regulation by several small reservoirs
+10308200  2 (total capacity about 5,000 acre-feet) for
+10308200  3 entire period.  A few small diversions for
+10308200  4 irrigation.
+10310000  0 W F CARSON R AT WOODFORDS, CA
+10310000  1 Minor regulation by several small reservoirs,
+10310000  2 (total capacity about 2,600 AF, DA=3.7;
+10310000  3 unchanged since WY1938).  One small diversion
+10310000  4 for irrigation.
+10312000  0 CARSON R NR FORT CHURCHILL, NV
+10312000  1 Diversions for irrigation substantially
+10312000  2 constant over the past 60-80 years.
+10312000  3 Inflow to Lake Lahanton.
+10336660  0 BLACKWOOD CREEK NR TAHOE CITY CALIF
+10336660  1 Part of record provided under general
+10336660  2 supervision of USGS.
+10336780  0 TROUT CREEK NR TAHOE VALLEY CALIF
+10336780  1 Minor diversions for local water supply.
+10353500  0 QUINN R NR MC DERMITT, NV
+10353500  1 Flows to the Black Rock Desert.
+10371500  0 DEEP CREEK ABOVE ADEL,OREG.
+10371500  1 Irrigation diversions which have
+10371500  2 remained substantially unchanged for the
+10371500  3 period of record.
+10384000  0 CHEWAUCAN RIVER NEAR PAISLEY,OREG.
+10384000  1 Irrigation diversions which have
+10384000  2 remained substantially unchanged
+10384000  3 for the period of record.
+10393500  0 SILVIES RIVER NEAR BURNS,OREG.
+10393500  1 Diversions upstream for irrigation only
+10393500  2 during high flow for period of record.
+11025500  0 SANTA YSABEL CREEK NEAR RAMONA, CALIF.
+11025500  1 Some small diversions.  Major regulation by dam
+11025500  2 beginning, 7/54.
+11042400  0 TEMECULA CREEK NEAR AGUANGA, CALIF.
+11042400  1 Pumping for irrigation of less than 1000 acres.
+11058500  0 EAST TWIN CREEK NEAR ARROWHEAD SPRINGS, CALIF.
+11058500  1 One small diversion for domestic use.
+11075800  0 SANTIAGO C A MODJESKA CA
+11075800  1 Minor regulation by one small reservoir.
+11075800  2 Accuracy of many years rated fair.
+11098000  0 ARROYO SECO NR PASADENA CALIF
+11098000  1 Minor regulation by a debris dam during part of
+11098000  2 record.
+11111500  0 SESPE CREEK NR WHEELER SPRINGS CALIF
+11111500  1 Part of record provided under general
+11111500  2 supervision of USGS.
+11113001  0 SESPE C + FILLMORE IRR CO CA NR FILLMORE CA
+11113001  1 Part of record provided under
+11113001  2 general supervision of USGS.
+11117800  0 SANTA ANA CREEK NEAR OAK VIEW CA
+11117800  1 Minor regulation by one small reservoir.  Some
+11117800  2 small diversions.  Ephemeral stream.
+11132500  0 SALSIPUEDES CR NR LOMPOC CA
+11132500  1 Small diversions for irrigation.
+11132500  2 Accuracy of some years rated fair.
+11138500  0 SISQUOC RIVER NEAR SISQUOC, CALIF.
+11138500  1 Records for WY1930-33 not equivalent due to
+11138500  2 upstream diversion.
+11138500  3 Accuracy of many years rated fair.
+11141280  0 LOPEZ C NR ARROYO GRANDE CA
+11141280  1 Small diversions for domestic use.  Accuracy
+11141280  2 of many years rated fair.
+11147070  0 SANTA RITA C NR TEMPLETON CALIF
+11147070  1 Minor regulation by stockponds.  Small
+11147070  2 diversions by irrigation pumps.
+11149900  0 SAN ANTONIO RIVER NEAR LOCKWOOD CALIF
+11149900  1 Some pumping upstream of station.
+11149900  2 Ephemeral stream.
+11151300  0 SAN LORENZO C BL BITTERWATER C NR KING CITY CAL
+11151300  1 Small diversions by ranches and
+11151300  2 sand-processing plant.
+11152540  0 EL TORO CREEK NR SPRECKELS, CA.
+11152540  1 Minor regulation from small stock ponds.  Low
+11152540  2 flow at times affected by irrigation runoff from
+11152540  3 golf course.  Ephemeral stream.
+11152540  4 Accuracy of many years rated fair.
+11160000  0 SOQUEL CR AT SOQUEL CALIF
+11160000  1 Small diversions for irrigation.
+11160000  2 Accuracy of many years rated fair.
+11160020  0 SAN LORENZO RIVER NEAR BOULDER CREEK, CALIF.
+11160020  1 Accuracy of many years rated fair.
+11160300  0 ZAYANTE CREEK AT ZAYANTE CALIF
+11160300  1 Small diversions for domestic use.
+11160300  2 Accuracy of many years rated fair.
+11160500  0 SAN LORENZO R AT BIG TREES CALIF
+11160500  1 Minor regulation by reservoir (capacity 8820 AF,
+11160500  2 DA. 8.1) and seasonal recreation dam 500 ft
+11160500  3 upstream.  Many small diversions for domestic
+11160500  4 supply.
+11162500  0 PESCADERO CREEK NEAR PESCADERO CALIF
+11162500  1 Minor regulation due to swimming pools in
+11162500  2 parks during summer.  Small pump diversions.
+11162500  3 Accuracy of many years rated fair.
+11182500  0 SAN RAMON CREEK AT SAN RAMON, CALIF.
+11182500  1 Ephemeral stream.
+11186001  0 COMBINED FLOW OF KERN R AND KERN R NO 3 CA
+11186001  1 Since WY1921, includes water diverted into
+11186001  2 canal 100 ft upstream from station.  Part of
+11186001  3 record provided under general supervision
+11186001  4 of USGS and not rated.
+11187000  0 KERN RIVER AT KERNVILLE CALIF
+11187000  1 Slightly regulated by operation of powerplant.
+11187000  2 A few small diversions for irrigation.
+11187000  3 Part of record provided under general
+11187000  4 supervision of USGS.
+11189500  0 SF KERN R NR ONYX CALIF
+11189500  1 Diversions for irrigation of 160 acres
+11189500  2 downstream of station.  Maximum diversion of
+11189500  3 7 cfs.
+11202001  0 NF OF MF TULE R NR SPRINGVILLE CALIF (TOTAL FLOW
+11202001  1 Prior to 10/82, diversion measured by conduit
+11202001  2 gage. From 10/82 to present, diversion measured
+11202001  3 at powerplant.  Part of record provided under
+11202001  4 general supervision of USGS and not rated.
+11206501  0 MF KAWEAH R NR POTWISHA CAMP CALIF (TOTAL FLOW)
+11206501  1 Part of record provided under general
+11206501  2 supervision of USGS and not rated.
+11208001  0 MARBLE FK KAWEAH AT POTWISHA CP CALIF TOTAL FLOW
+11208001  1 Part of record provided under general
+11208001  2 supervision of USGS and not rated.
+11209900  0 KAWEAH RIVER AT THREE RIVERS CALIF
+11209900  1 Minor regulation from power development.
+11209900  2 Diversions for irrigation of about 200 acres.
+11210100  0 SOUTH FORK KAWEAH RIVER AT THREE RIVERS, CALIF.
+11210100  1 Several small diversions above station for
+11210100  2 irrigation.
+11210500  0 KAWEAH R NR THREE RIVERS CALIF
+11210500  1 Minor diversion for irrigation.  Slight
+11210500  2 regulation by power development.
+11215000  0 NF KINGS R NR CLIFF CAMP CALIF
+11215000  1 Temporary storage and regulation beginning 8/55
+11215000  2 as part of dam construction.  Regulated by major
+11215000  3 reservoir beginning 12/5/57.  Part of record
+11215000  4 provided under general supervision of USGS.
+11221700  0 MILL CREEK NEAR PIEDRA CALIF
+11221700  1 Some small diversions for irrigation.
+11221700  2 Ephemeral stream.  Part of record
+11221700  3 provided under general supervision of USGS.
+11222000  0 KINGS R AT PIEDRA CALIF
+11222000  1 Minor regulation and diversions prior
+11222000  2 to WY1952.  Flow regulated by major reservoir
+11222000  3 beginning 12/51.
+11224500  0 LOS GATOS CREEK AB NUNEZ CANYON NR COALINGA CAL
+11224500  1 Minor diversion for irrigation and stock ponds.
+11224500  2 Ephemeral stream.
+11226500  0 SAN JOAQUIN R AT MILLER CROSSING CALIF
+11226500  1 Part of record provided under general
+11226500  2 supervision of USGS and not rated.
+11230500  0 BEAR CR NR LAKE T.A.EDISON CALIF
+11230500  1 Part of record provided under general
+11230500  2 supervision of USGS and not rated.
+11237500  0 PITMAN C BL TAMARACK CREEK CALIF
+11237500  1 Part of record provided under general
+11237500  2 supervision of USGS and not rated.
+11253310  0 CANTUA CREEK NR CANTUA CREEK CALIF
+11253310  1 Minor regulation by stock dams.
+11253310  2 Ephemeral stream.
+11264500  0 MERCED R AT HAPPY ISLES BRIDGE NR YOSEMITE CALIF
+11264500  1 Small water-supply diversion above
+11264500  2 station (maximum of 5 cfs).
+11266500  0 MERCED RIVER AT POHONO BRIDGE NEAR YOSEMITE, CAL
+11266500  1 Small water supply diversion above station.
+11274500  0 ORESTIMBA CREEK NR NEWMAN CALIF
+11274500  1 Minor regulation from stock ponds.  Ephemeral
+11274500  2 stream.  Accuracy of many years rated fair.
+11281000  0 SF TUOLUMNE RIVER NR OAKLAND RECREATION CAMP CAL
+11281000  1 Minor regulation from small recreation lake
+11281000  2 3.5 mi upstream.  Part of record provided
+11281000  3 under general supervision of USGS.
+11282000  0 MIDDLE TUOLUMNE R AT OAKLAND RECREATION CAMP CAL
+11282000  1 Small diversions for irrigation.  Part of
+11282000  2 record provided under general supervision
+11282000  3 of USGS.
+11293500  0 NF STANISLAUS R BL SILVER CREEK CALIF
+11293500  1 Minor regulation by  3 small reservoirs
+11293500  2 (combined usable capacity 9,580 AF).  Part of
+11293500  3 record provided under general supervision of
+11293500  4 USGS and not rated.
+11294000  0 HIGHLAND C BL SPICER MEADOWS RES CALIF
+11294000  1 Minor regulation by reservoir (capacity 4,060
+11294000  2 AF) 0.3 mi upstream.  Accuracy of many years
+11294000  3 rated fair.  Part of record provided under
+11294000  4 general supervision of USGS and not rated.
+11315000  0 COLE C NR SALT SPRINGS DAM CALIF
+11315000  1 Minor diversions for domestic use beginning
+11315000  2 9/61.  Part of record provided under general
+11315000  3 supervision of USGS and not rated.
+11316800  0 FOREST CREEK NEAR WILSEYVILLE, CALIF.
+11316800  1 Minor diversions for irrigation and
+11316800  2 domestic use.
+11342000  0 SACRAMENTO RIVER AT DELTA CALIF
+11342000  1 Minor diversion for irrigation.  Minor
+11342000  2 regulation by Lake Siskiyou (capacity 26,100;
+11342000  3 drainage area 126 mi2) beginning 12/68.
+11355500  0 HAT CREEK NEAR HAT CREEK CALIF
+11355500  1 Diversions for irrigation of 260 acres.
+11355500  2 Hydrologic drainage boundary uncertain owing to
+11355500  3 ground water exchange.  Volcanic terrain
+11355500  4 produces high base flow and anomalous patterns
+11355500  5 in runoff.
+11367500  0 MCCLOUD RIVER NR MCCLOUD CALIF
+11367500  1 Small diversions for irrigation and municipal
+11367500  2 supply (town of McCloud).  Part of record
+11367500  3 provided under general supervision of USGS
+11367500  4 and not rated.
+11368000  0 MCCLOUD RIVER AB SHASTA LAKE CALIF
+11368000  1 Small diversion for irrigation and domestic use.
+11368000  2 Major regulation and diversions beginning 11/65.
+11368000  3 Part of record provided under general
+11368000  4 supervision of USGS and not rated.
+11372000  0 CLEAR CREEK NR IGO CALIF
+11372000  1 Small diversions.  Major regulation and
+11372000  2 diversion beginning 4/63.
+11382000  0 THOMES C AT PASKENTA CALIF
+11382000  1 No storage or large diversion.  Prior to 7/42,
+11382000  2 nonrecording gage and water stage recorder at
+11382000  3 several sites 1.5 mi upstream.  From 7/42 to
+11382000  4 10/74, gage 1.4 miles upstream.  Monthly
+11382000  5 discharge only for some periods.  Accuracy of
+11382000  6 many years rated fair or poor.
+11400000  0 BUTT C AB ALM-BUT C TU NR PRATV CAL
+11400000  1 Small diversions for irrigation outside of
+11400000  2 basin.  Part of record provided under
+11400000  3 general supervision of USGS.
+11401500  0 INDIAN CREEK NR CRESCENT MILLS CALIF
+11401500  1 Minor regulation (total capacity about 5,000 AF,
+11401500  2 DA 10 mi2, prior to 11/63, 28,000 AF, DA 81 mi2
+11401500  3 beginning 11/63).  Diversions for irrigation of
+11401500  4 11,800 acres.
+11402000  0 SPANISH CREEK ABOVE BLACKHAWK CREEK AT KEDDIE, C
+11402000  1 Minor regulations by five small reservoirs
+11402000  2 (combined capacity 800 AF).  Minor diversions
+11402000  3 for municipal supply (City of Quincy) and
+11402000  4 irrigation of 4600 acre.
+11402500  0 SPANISH C AT KEDDIE CALIF
+11402500  1 Minor regulation for several small reservoirs.
+11402500  2 Minor diversions for municipal supply and
+11402500  3 irrigation.
+11403000  0 EAST BRANCH OF NF FEATHER R NR RICH BAR CALIF
+11403000  1 Minor regulation and diversions (as described
+11403000  2 for 11402000).  Part of record provided under
+11403000  3 general supervision of USGS and not rated.
+11413000  0 NORTH YUBA RIVER BELOW GOODYEARS BAR, CALIF.
+11413000  1 Several small diversions for irrigation and
+11413000  2 mining.
+11414000  0 SOUTH YUBA RIVER NEAR CISCO, CALIF.
+11414000  1 Minor regulation by several small reservoirs.
+11425500  0 SACRAMENTO RIVER AT VERONA, CALIF.
+11425500  1 Heavy regulation and many diversions.
+11427000  0 NF AMERICAN R AT NORTH FORK DAM CALIF
+11427000  1 Minor regulation by debris lake formed by North
+11427000  2 Fork dam and other reservoirs with a combined
+11427000  3 capacity of 10,300 AF.  Small diversion out of
+11427000  4 basin.
+11427700  0 DUNCAN CREEK NR FRENCH MEADOWS CALIF
+11427700  1 Part of record provided to USGS and not rated.
+11441500  0 S.F. SILVER CREEK NEAR ICE HOUSE, CALIF
+11441500  1 Regulation by Ice House Reservoir starting
+11441500  2 in WY1960.
+11449500  0 KELSEY CREEK NEAR KELSEYVILLE, CALIF.
+11449500  1 Minor diversions above station.
+11456000  0 NAPA RIVER NEAR ST. HELENA CALIF
+11456000  1 Minor regulation by reservoirs (capacity 2530
+11456000  2 AF, DA 5.53 mi2 since WY1959 and combined
+11456000  3 capacity 2870 AF, combined DA 8.97 mi2 since
+11456000  4 WY1939).  Small diversions for irrigation of
+11456000  5 about 1500 acres.
+11461000  0 RUSSIAN RIVER NEAR UKIAH, CALIF.
+11461000  1 Diversions for irrigation of about 1000 acres.
+11465200  0 DRY CREEK NR GEYSERVILLE CALIF
+11465200  1 Small diversions for irrigation of about 1200
+11465200  2 acres.  No regulation prior to WY1980.  Minor
+11465200  3 regulation by coffer dams from WY1980 thru
+11465200  4 WY1983. Regulated by major reservoir beginning
+11465200  5 10/83.
+11469000  0 MATTOLE RIVER NR PETROLIA CALIF
+11469000  1 Diversion for irrigation of about 350 acres.
+11475560  0 ELDER CREEK NEAR BRANSCOMB CALIF
+11475560  1 Small diversion for domestic use.
+11476500  0 SF EEL RIVER NR MIRANDA CALIF
+11476500  1 Occasional storage and release during
+11476500  2 summer for recreational lake 16 mi
+11476500  3 upstream.
+11476600  0 BULL CREEK NEAR WEOTT, CALIF.
+11476600  1 Minor diversions for domestic and recreational
+11476600  2 use.  Minor regulation by log pond during some
+11476600  3 periods.  Part of record provided under
+11476600  4 general supervision of USGS.
+11476600  5 Accuracy of many years rated fair.
+11477000  0 EEL RIVER AT SCOTIA CALIF
+11477000  1 For entire period, diversion (average
+11477000  2 200 cfs) 127 miles upstream (DA=349).
+11477000  3 Beginning 12/21, slightly regulated by Lake
+11477000  4 Pillsbury (usable capacity 80,556 AF DA = 289)
+11477000  5 138 mi upstream.
+11481500  0 REDWOOD C NR BLUE LAKE CALIF
+11481500  1 Accuracy of many years rated fair.
+11482500  0 REDWOOD CREEK AT ORICK CALIF
+11482500  1 Accuracy of many years rated fair.
+11492200  0 CRATER LAKE NEAR CRATER LAKE,OREG.
+11492200  1 This is lake level only.
+11497500  0 SPRAGUE RIVER NEAR BEATTY,OREG.
+11497500  1 Irrigation diversions which
+11497500  2 have remained substantially
+11497500  3 unchanged for the period of record.
+11501000  0 SPRAGUE RIVER NEAR CHILOQUIN,OREG.
+11501000  1 Minor regulation from irrigation diversions
+11501000  2 which have remained substantially unchanged
+11501000  3 for the period of record.
+11519500  0 SCOTT RIVER NEAR FORT JONES, CALIF.
+11519500  1 Diversions for irrigation of about 30,000 acres.
+11521500  0 INDIAN CREEK NEAR HAPPY CAMP, CALIF.
+11521500  1 Small diversions for irrigation.
+11523200  0 TRINITY R AB COFFEE C NR TRINITY CTR CA
+11523200  1 Accuracy of some years rated fair.
+11525500  0 TRINITY RIVER AT LEWISTON CALIF
+11525500  1 Minor diversions for irrigation, mining, and
+11525500  2 power development.  Regulation by major
+11525500  3 reservoir beginning 11/60.
+11530000  0 TRINITY R AT HOOPA CALIF
+11530000  1 Small diversions for mining and irrigation.
+11530000  2 Regulation by major reservoir beginning 11/60.
+12039300  0 NORTH FORK QUINAULT R NEAR AMANDA PARK, WASH.
+12039300  1 Poor rating curve.
+12056500  0 NF SKOKOMISH R BLW STRCSE RPDS NR HDSPRT, WASH.
+12056500  1 Records are good despite control problems.
+12303000  0 KOOTENAI RIVER AT LIBBY, MT.
+12303000  1 Regulated by large dam starting water year 1971.
+12306500  0 MOYIE RIVER AT EASTPORT, IDAHO
+12306500  1 There is a large lake upstream that the
+12306500  2 river flows through.
+12318500  0 KOOTENAI RIVER NR COPELAND ID
+12318500  1 Regulated since 1972 by Libby Dam.
+12322000  0 KOOTENAI RIVER AT PORTHILL IDAHO
+12322000  1 Regulated since 1972 by Libby Dam.
+12354500  0 CLARK FORK AT ST. REGIS, MT.
+12354500  1 Affected by reservoir and irrigation witdrawals.
+12359800  0 S F FLATHEAD R AB TWIN C, NR HUNGRY HORSE, MT.
+12359800  1 Full record through water year 1982, then no
+12359800  2 winter record.
+12393500  0 PRIEST R @ OUTLET OF PRIEST LK NR COOLIN ID
+12393500  1 Natural regulation of flow by lake.
+12409000  0 COLVILLE RIVER AT KETTLE FALLS, WASH.
+12409000  1 Regulation by low head hydro immediately up
+12409000  2 stream affects daily values but does not affect
+12409000  3 monthly or annual values.
+12422500  0 SPOKANE RIVER AT SPOKANE, WASH.
+12422500  1 Regulated at Coeur d'Alene.
+13037500  0 SNAKE RIVER NR HEISE,ID
+13037500  1 Regulated by Jackson Lake and Palisades dam.
+13073000  0 PORTNEUF RIVER AT TOPAZ ID
+13073000  1 Minor regulation and diversions.
+13075000  0 MARSH CREEK NR MCCAMMON ID
+13075000  1 Some diversions but most returns.
+13082500  0 GOOSE CREEK AB TRAPPER CREEK NR OAKLEY ID
+13082500  1 Minor diversions.
+13113000  0 BEAVER CREEK AT SPENCER ID    12N-36E-23A
+13113000  1 Records are good except during the winter when
+13113000  2 the well freezes and flows are estimated from
+13113000  3 discharge measurements.
+13120500  0 BIG LOST RIVER AT HOWELL RANCH NR CHILLY ID
+13120500  1 Records are good except during the winter when
+13120500  2 the well freezes and flows are estimated from
+13120500  3 discharge measurements.
+13169500  0 BIG JACKS CREEK NR BRUNEAU ID
+13169500  1 An ephemeral stream.
+13214000  0 MALHEUR RIVER NEAR DREWSEY,OREG.
+13214000  1 Slight regulation from small reservoirs.
+13214000  2 Irrigation diversions which have remained
+13214000  3 substantially unchanged for the period
+13214000  4 of record.
+13240000  0 LAKE FORK PAYETTE RIVER AB JUMBO CR NR MCCALL ID
+13240000  1 Some regulation by a reservoir with a capacity
+13240000  2 of 1,230 acre-feet.
+13269000  0 SNAKE RIVER AT WEISER ID
+13269000  1 Regulated by many dams and diversion.
+13296500  0 SALMON RIVER BL YANKEE FORK NR CLAYTON ID
+13296500  1 Some pasture irrigation but most returns.
+13319000  0 GRANDE RONDE R AT LA GRANDE, OREG.
+13319000  1 Slight regulation from small reservoir
+13319000  2 (900 ac-ft) for the period of record.
+13319000  3 Irrigation diversions which have
+13319000  4 remained substantially unchanged
+13319000  5 for the period of record.
+13342500  0 CLEARWATER RIVER AT SPALDING, ID
+13342500  1 Regulated since 1972 by Dworshak Dam.
+14034500  0 WILLOW CREEK AT HEPPNER, OREG.
+14034500  1 Many irrigation diversions which have
+14034500  2 remained substantially unchanged for the
+14034500  3 period of record.  Regulation by dam starting
+14034500  4 in 1983.
+14042500  0 CAMAS CREEK NEAR UKIAH, OREG.
+14042500  1 Irrigation diversions which have
+14042500  2 remained substantially unchanged for the
+14042500  3 period of record.
+14044000  0 M FK JOHN DAY R AT RITTER, OREG.
+14044000  1 Irrigation diversions which have
+14044000  2 remained substantially unchanged for the
+14044000  3 period of record.
+14046500  0 JOHN DAY RIVER AT SERVICE CREEK, OREG.
+14046500  1 Slight regulation by several small
+14046500  2 reservoirs.  Many small irrigation
+14046500  3 diversions  which have remained
+14046500  4 substantially unchanged for the
+14046500  5 period of record.
+14048000  0 JOHN DAY R AT MCDONALD FERRY,OREG.
+14048000  1 Many irrigation diversions which have
+14048000  2 remained substantially unchanged for the
+14048000  3 period of record.
+14080500  0 CROOKED R NR PRINEVILLE, OREG.
+14080500  1 Regulation by dam starting in 1960.
+14080500  2 Irrigation diversions which have remained
+14080500  3 substantially unchanged for the period
+14080500  4 of record.
+14101500  0 WHITE RIVER BELOW TYGH VALLEY,OREG.
+14101500  1 Irrigation diversions which have
+14101500  2 remained substantially unchanged
+14101500  3 for the period of record.
+14105700  0 COLUMBIA RIVER AT THE DALLES,OREG.
+14105700  1 Regulated by many large dams.  Many
+14105700  2 irrigation diversions which have remained
+14105700  3 substantially unchanged for the period
+14105700  4 of record.
+14154500  0 ROW RIVER ABOVE PITCHER CREEK NEAR, DORENA, OREG
+14154500  1 Slight regulation caused by upstream log
+14154500  2 ponds.
+14159000  0 MCKENZIE R AT MCKENZIE BRIDGE, OREG.
+14159000  1 Regulation by dam starting in 1963.
+14188800  0 THOMAS CREEK NEAR SCIO,OREG.
+14188800  1 Some small diversions for irrigation
+14188800  2 which have remained substantially
+14188800  3 unchanged for the period of record.
+14190500  0 LUCKIAMUTE RIVER NEAR SUVER, OREG.
+14190500  1 Some diurnal fluctuation during low flow
+14190500  2 caused by mill pond. A few small
+14190500  3 irrigation diversions which have
+14190500  4 remained substantially unchanged
+14190500  5 for the period of record.
+14191000  0 WILLAMETTE RIVER AT SALEM,OREG.
+14191000  1 Much regulation after 1941.  Many small
+14191000  2 diversions for irrigation which are
+14191000  3 substantially unchanged for the period
+14191000  4 of record.
+14201000  0 PUDDING RIVER NEAR MOUNT ANGEL, OREG.
+14201000  1 Many irrigation diversions which have
+14201000  2 remained substantially unchanged for
+14201000  3 the period of record.
+14301000  0 NEHALEM RIVER NEAR FOSS, OREG.
+14301000  1 Several small irrigation diversions and
+14301000  2 domestic diversions which are substantially
+14301000  3 unchanged for the period of record.
+14301500  0 WILSON RIVER NEAR TILLAMOOK, OREG.
+14301500  1 Small diversions for domestic use which are
+14301500  2 substantially unchanged for the period
+14301500  3 of record.
+14303600  0 NESTUCCA R NR BEAVER OREG
+14303600  1 Several small diversions for irrigation
+14303600  2 which are substantially unchanged for
+14303600  3 the period of record.
+14306500  0 ALSEA RIVER NEAR TIDEWATER, OREG.
+14306500  1 Irrigation diversions which are substantially
+14306500  2 unchanged for the period of record.
+14308000  0 SOUTH UMPQUA RIVER AT TILLER, OREG.
+14308000  1 Small irrigation diversions which are
+14308000  2 substantially unchanged for the period
+14308000  3 of record.
+14318000  0 LITTLE RIVER AT PEEL, OREG.
+14318000  1 Small diversions for irrigation and rural
+14318000  2 domestic use which are substantially
+14318000  3 unchanged for the period of record.
+14321000  0 UMPQUA RIVER NEAR ELKTON, OREG.
+14321000  1 Regulation by powerplants on North Umpqua
+14321000  2 normally does not effect this station.
+14321000  3 Irrigation diversions which are substantially
+14321000  4 unchanged for the period of record.
+14325000  0 SOUTH FORK COQUILLE RIVER AT POWERS, OREG.
+14325000  1 Small irrigation diversions which are
+14325000  2 substantially unchanged for the period
+14325000  3 of record.
+14338000  0 ELK CREEK NEAR TRAIL, OREG.
+14338000  1 Diversions for irrigation which are
+14338000  2 substantially unchanged for the period
+14338000  3 of record.
+14359000  0 ROGUE RIVER AT RAYGOLD NR CENTRAL PT,OREG.
+14359000  1 Regulation by dam starting in 1977.
+14359000  2 Many irrigation diversions which are
+14359000  3 substantially unchanged for the period
+14359000  4 of record.
+14362000  0 APPLEGATE RIVER NEAR COPPER, OREG.
+14362000  1 Regulation by dam starting in 1980.
+14362000  2 Diversions for irrigation which are
+14362000  3 substantially unchanged for the period
+14362000  4 of record.
+14377000  0 ILLINOIS RIVER AT KERBY, OREG.
+14377000  1 Irrigation diversions which are
+14377000  2 unchanged for the period of record.
+14377100  0 ILLINOIS RIVER NEAR KERBY, OREG
+14377100  1 Irrigation diversions which are
+14377100  2 substantially unchanged for the
+14377100  3 period of record.
+15022000  0 HARDING R NR WRANGELL AK
+15022000  1 On mainland of Southeast Alaska.
+15024800  0 STIKINE R NR WRANGELL AK
+15024800  1 International Gaging Station with drainage
+15024800  2 mostly in Canada.
+15052500  0 MENDENHALL R NR AUKE BAY AK
+15052500  1 Two-thirds of drainage is covered by glaciers.
+15072000  0 FISH C NR KETCHIKAN AK
+15072000  1 On Revillagigedo Island in Southeast Alaska.
+15098000  0 BARANOF R AT BARANOF AK
+15098000  1 On Baranof Island in Southeast Alaska.
+15106980  0 TONALITE C NR TENAKEE AK
+15106980  1 On Chichagof Island in Southeast Alaska.
+15208000  0 TONSINA R AT TONSINA AK
+15208000  1 Representative station of upper Copper River
+15208000  2 basin.
+15216000  0 POWER C NR CORDOVA AK
+15216000  1 This station has a large percentage of glacier
+15216000  2 (27%) in its head waters and is the only
+15216000  3 long-term station listed within the maritime
+15216000  4 climate zone in its Accounting Unit.
+15258000  0 KENAI R AT COOPER LANDING AK
+15258000  1 The daily vales of discharge in the data
+15258000  2 file include some added inflow from a hydro
+15258000  3 plant of about 3% of total flow, beginning in
+15258000  4 1961.  Since that time, the yearly inflow has
+15258000  5 been published in the annual report and yearly
+15258000  6 totals can be corrected for inflow.  Monthly
+15258000  7 corrected totals have been published since 1971.
+15258000  8 Monthly inflows prior to 1971 are available for
+15258000  9 some years.  Subject to glacier-dam outbursts
+15258000 10 in some years.
+15266300  0 KENAI R AT SOLDOTNA AK
+15266300  1 Subject to glacier-dam outbursts in some years.
+15290000  0 L SUSITNA R NR PALMER AK
+15290000  1 Low-flow winter records prior to 1962 not
+15290000  2 equivalent because of change in measuring site.
+15294350  0 SUSITNA R AT SUSITNA STATION AK
+15294350  1 Outflow from a major basin in Southcentral
+15294350  2 Alaska.
+15296000  0 UGANIK R NR KODIAK AK
+15296000  1 On Kodiak Island.
+15302500  0 NUSHAGAK R AT EKWOK AK
+15302500  1 Outflow from a major basin in Southwest
+15302500  2 Alaska.
+15304000  0 KUSKOKWIM R AT CROOKED CREEK AK
+15304000  1 This is the only currently active long-term
+15304000  2 station that has its headwaters in the extremely
+15304000  3 high mountains within McKinley National Park in
+15304000  4 the Alaskan Range.
+15356000  0 YUKON R AT EAGLE AK
+15356000  1 International Gaging Station, drainage mostly
+15356000  2 from Canada.
+15476000  0 TANANA R NR TANACROSS AK
+15476000  1 Very good indicator of runoff from high-altitude
+15476000  2 snowmelt and glaciers.
+15514000  0 CHENA R AT FAIRBANKS AK
+15514000  1 A flood-detention reservoir built upstream in
+15514000  2 1981 affects the peaks and the high-flow daily
+15514000  3 discharges.  During extremely high-flow, some of
+15514000  4 the water can be diverted into the Tanana River
+15514000  5 upstream from the station on the Chena R. at
+15514000  6 Fairbanks.  The reservoir has little effect on
+15514000  7 monthly flows because the flood storage is
+15514000  8 temporary.
+15564900  0 KOYUKUK R AT HUGHES AK
+15564900  1 Representative of flow from Brooks Range.
+15565447  0 YUKON R AT PILOT STATION AK
+15565447  1 Outflow station for Yukon River basin.
+15565447  2 Records often only poor or fair during much of
+15565447  3 open-water season.
+15744500  0 KOBUK R NR KIANA AK
+15744500  1 Outflow from major basin in Northwest Alaska.
+15798700  0 NUNAVAK C NR BARROW AK
+15798700  1 This is a small coastal stream the records of
+15798700  2 which are often poor.  It is included because it
+15798700  3 is the northern-most gage in Alaska.  Most of
+15798700  4 the flow occurs in a short 10-15 day June
+15798700  5 snowmelt period.  The records might not be
+15798700  6 representative of anything else than the
+15798700  7 immediate coastal area.
+15798700  8 No flow during winter months.
+15896000  0 KUPARUK R NR DEADHORSE AK
+15896000  1 Representative of the Artic Coastal Plain.
+15896000  2 No flow during most winter months.
+16201000  0 RB OF NF KAUKONAHUA STR NR WAHIAWA,OAHU,HI
+16201000  1 Converted to low-flow, partial record
+16201000  2 station in 1952.
+16226000  0 NORTH HALAWA STREAM NR AIEA, OAHU, HI
+16226000  1 Major highway construction began in 1987.
+16229000  0 KALIHI STREAM NR HONOLULU, OAHU, HI
+16229000  1 Major highway constructed in basin in 1953.
+16229000  2 Some diversion in the basin.
+16400000  0 HALAWA STREAM NR HALAWA, MOLOKAI, HI
+16400000  1 Rating fair, but only representative station
+16400000  2 in the area.
+16405000  0 LANIPUNI STREAM NEAR PELEKUNU, MOLOKAI, HI
+16405000  1 Rating fair, but only representative station
+16405000  2 in the area.
+16700000  0 WAIAKEA STREAM NR MOUNTAIN VIEW, HAWAII, HI
+16700000  1 Does not give a true picture of peak flows.
+16890600  0 DIONGRADID RIVER, BABELTHUAP, PALAU ISLANDS
+16890600  1 Short record, but only station in the area.
+16897900  0 LEWI RIVER, PONAPE
+16897900  1 Short record, but only station in the area.
+50252000  0 BONNE RESOLUTION GUT AT BONNE RESOLUTION ST. TH.
+50252000  1 Record is short, but it is the only appropriate
+50252000  2 one available in this area.
+50295000  0 GUINEA GUT AT BETHANY, ST. JOHN, V.I.
+50295000  1 Record is short, but it is the only appropriate
+50295000  2 one available in this area.
+50345000  0 JOLLY HILL GUT AT JOLLY HILL, ST. CROIX, V.I.
+50345000  1 Record is short, but it is the only appropriate
+50345000  2 one available in this area.

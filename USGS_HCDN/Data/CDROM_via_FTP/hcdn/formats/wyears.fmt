@@ -1,0 +1,31 @@
+Contents of the WYEARS.DAT file
+Version 1.0, 1 Sep 92
+            No record after WY1988 has been examined for inclusion
+                       in the HCDN and none is provided.
+
+                 There is one record (line) for each station.
+
+              The file is sorted on station number (columns 1-8).
+
+Columns  Format  Contents
+
+  1-8     I8     Station number - the 8 digit station number uniquely
+                    identifying the station.
+   9      1X     Blank.
+ 10-12    I3     Number of complete water years of record for this station.
+   13     1X     Blank.
+ 14-128   115A1  Indicator for whether there is data for a particular water
+                    year.  The character * (asterisk) indicates that the water
+                    year is complete and so can be found in the data files for
+                    the station.  The character . (period) indicates that the
+                    water year is not complete or is not suitable and so no
+                    data is supplied.  Column 14 corresponds to water year
+                    1874, column n to water year 1860+n, and column 128
+                    corresponds to water year 1988.
+
+
+Format descriptions:
+
+   In    an integer field n columns wide.
+   A1    a character field 1 column wide.
+   1X    a single blank column.

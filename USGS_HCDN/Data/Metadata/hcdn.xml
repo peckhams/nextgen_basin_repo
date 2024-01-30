@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fgdc_classic.xsl"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://water.usgs.gov/GIS/metadata/usgswrd/fgdc-std-001-1998.xsd">
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>J.R. Slack</origin>
+        <origin>Alan M. Lumb</origin>
+        <origin>Jurate Maciunas Landwehr</origin>
+        <pubdate>19941230</pubdate>
+        <title>Hydro-Climatic Data Network (HCDN) -- A USGS Streamflow Data Set for the U.S. for the Study of Climate Fluctuations</title>
+        <edition>1.0</edition>
+        <geoform>map</geoform>
+        <serinfo>
+          <sername>USGS Water Resources Investigations Report</sername>
+          <issue>93-4076</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia, USA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9HP0WFJ</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>A streamflow data set, which is specifically suitable for the study of
+surface-water conditions throughout the United States under fluctuations
+in the prevailing climatic conditions, has been developed.  This data set,
+called the Hydro-Climatic Data Network, or HCDN, consists of streamflow
+records for 1,659 sites throughout United States and its Territories.</abstract>
+      <purpose>The potential consequences of climate change to continental water
+resources are of great concern in the management of those resources.
+Critically important to society is what effect fluctuations in the
+prevailing climate may have on hydrologic conditions, such as the
+occurrence and magnitude of floods or droughts and the seasonal
+distribution of water supplies within a region.
+		
+Records of streamflow that are unaffected by artificial diversions,
+storage, or other works of man in or on the natural stream channels or
+in the watershed can provide an account of hydrologic responses to
+fluctuations in climate.  By examining such records given known past
+meteorologic conditions, we can better understand hydrologic responses
+to those conditions and anticipate the effects of postulated changes in
+current climate regimes.  Furthermore, patterns in streamflow records
+can indicate when a change in the prevailing climate regime may have
+occurred in the past, even in the absence of concurrent meteorologic
+records.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1874</begdate>
+          <enddate>1988</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>1988</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Completed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-125.0000</westbc>
+        <eastbc>-66.0000</eastbc>
+        <northbc>50.0000</northbc>
+        <southbc>24.0000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>hydrologic</themekey>
+        <themekey>climate</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:276e7053-2437-48de-81ac-1d099f76558e</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Conterminous United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>Integrated Modeling &amp;Prediction Division</cntper>
+        </cntorgp>
+        <cntemail>gs-w-model-data-management@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/631405c3d34e36012efa3152?name=hcdn.gif</browsen>
+      <browsed>illustration of dataset</browsed>
+      <browset>.jpg</browset>
+    </browse>
+    <native>CD or on-line data sets</native>
+  </idinfo>
+  <dataqual>
+    <logic>See the full report for more information.</logic>
+    <complete>See the full report for more information.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Records for the HCDN were obtained through a comprehensive search of the
+extensive surface-water data holdings of the U.S. Geological Survey (USGS)
+which are contained in the USGS National Water Storage and Retrieval
+System (WATSTORE).  All streamflow discharge records in WATSTORE through
+September 30, 1988, were examined for inclusion in the HCDN in accordance
+with strictly defined criteria of measurement accuracy and natural
+conditions.  No reconstructed records of "natural flow" were permitted,
+nor was any record extended or had missing values "filled in" using
+computational algorithms.  If the streamflow at a station was judged to
+be free of controls for only a part of the entire period of record that
+is available for the station, then only that part was included in the HCDN,
+but only if it was of sufficient length (generally 20 years) to warrant
+inclusion.
+		
+In addition to the daily mean discharge values, complete station
+identification information and basin characteristics were retrieved from
+WATSTORE for inclusion in the HCDN.  Statistical characteristics,
+including the monthly mean discharge, as well as the annual mean, minimum
+and maximum discharge values, were derived for the records in the HCDN
+data set.
+		
+The HCDN includes data values for discharge measured at 1,659 streamflow
+gaging stations.  Records cumulatively span the period 1874 through 1988,
+inclusive, and represent a total of 73,231 water years of information.
+		
+See the full report for more information.</procdesc>
+        <procdate>19940101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Point</sdtstype>
+        <ptvctcnt>4092</ptvctcnt>
+      </sdtsterm>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>9547</ptvctcnt>
+      </sdtsterm>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>4093</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96</longcm>
+            <latprjo>23</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>1.0</absres>
+            <ordres>1.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>n/a</enttypl>
+        <enttypd>n/a</enttypd>
+        <enttypds>n/a</enttypds>
+      </enttyp>
+    </detailed>
+    <overview>
+      <eaover>See detailed report for more information.</eaover>
+      <eadetcit>See detailed report for more information.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Although this data set has been used by the U.S. Geological
+Survey, U.S. Department of the Interior, no warranty expressed or
+implied is made by the U.S. Geological Survey as to the accuracy
+of the data and related materials. The act of distribution shall not 
+constitute any such warranty, and no responsibility is assumed by 
+the U.S. Geological Survey in the use of this data, software, or 
+related materials.
+		
+Any use of trade, product, or firm names is for descriptive
+purposes only and does not imply endorsement by the U.S.
+Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9HP0WFJ</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20201117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>Water Mission Area</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>12201 Sunrise Valley Dr</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+        </cntaddr>
+        <cntemail>GS-W-model-data@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
