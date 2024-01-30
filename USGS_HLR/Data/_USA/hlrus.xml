@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fgdc_classic.xsl"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://water.usgs.gov/GIS/metadata/usgswrd/fgdc-std-001-1998.xsd">
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>David Wolock</origin>
+        <pubdate>20030101</pubdate>
+        <title>Hydrologic landscape regions of the United States</title>
+        <geoform>raster digital data</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Open-File Report</sername>
+          <issue>03-145</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9UIFPKW</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Hydrologic landscape regions (HLRs) in the United States were delineated by 
+using geographic information system (GIS) tools and statistical methods 
+including principal components and cluster analyses. The GIS and statistical 
+analyses were applied to land-surface form, geologic texture (permeability of 
+the soil and bedrock), and climate variables that describe the physical and 
+climatic setting of 43,931 small (roughly 200 square kilometers) watersheds 
+in the United States. The analyses then grouped the watersheds into 20 
+noncontiguous regions (the HLRs) on the basis of similarities in land-surface 
+form, geologic texture, and climate characteristics.
+		
+This hydrologic landscape regions dataset contains for each of the 43,931 
+watersheds the (1) watershed identification number, (2) land-surface form, 
+geologic texture, and climate characteristics for each watershed, and (3) 
+hydrologic landscape region number for each watershed.</abstract>
+      <purpose>The purpose of defining hydrologic landscape regions was 
+to group watersheds in the United States according to their similarity in 
+landscape and climate characteristics. The selected landscape and climate 
+characteristics represent factors assumed to affect hydrologic processes in 
+the environment. The hydrologic landscape regions grid was used to help 
+design the sampling network in the U.S. Geological Survey's National 
+Water-Quality Assessment (NAWQA) Program.</purpose>
+      <supplinf>The U.S. Geological Survey (USGS) initiated the National Water-Quality 
+Assessment (NAWQA) Program in 1991 to accomplish two primary objectives. 
+The first objective was to assess the status and trends in the quality of the 
+Nation's ground-water and surface-water resources, and the second 
+objective was to link the status and trends with an understanding of the natural 
+and human factors that affect water quality (Gilliom and others, 1995).
+		
+The original NAWQA implementation plan was based on assessing water quality 
+in 60 study areas located throughout the United States. The extensive geographic 
+coverage of the 60 study areas was considered adequate to sample the diversity 
+of hydrologic settings throughout the Nation. The characteristics of hydrologic-cycle 
+components, such as precipitation, evapotranspiration, infiltration, ground-water flow, 
+and overland flow, were used to define the hydrologic setting of each study area. 
+Adequate coverage of the diversity in hydrologic settings is crucial in understanding 
+how natural and human factors affect water quality.
+		
+The second decade of the NAWQA Program is well underway. One significant 
+constraint on refining the design of the program is budget; the current funding 
+outlook for 2002-11 can support only about 40 of the original 60 study areas. 
+The need to maintain a wide and representative sample of the hydrologic 
+settings throughout the United States remains imperative. The challenge, 
+then, was to carefully select study areas and specific data-collection sites 
+that represent the entire range of hydrologic settings.
+		
+Selecting a group of study areas to represent the range of hydrologic settings 
+in the United States required a digital map of the factors expected to affect 
+these hydrologic settings. The ideal map needed was one that divided the 
+United States into regions, where areas in the same region have similar 
+hydrologic conditions and areas in different regions have different hydrologic 
+conditions. A region would not necessarily be spatially contiguous; areas 
+similar to each other can be located in different parts of the United States. 
+The grouping of areas into regions on the basis of similarities in landscape 
+and climate characteristics is referred to in this documentation as a 
+"regional framework."
+		
+Regional frameworks related to hydrologic characteristics have been used 
+in many water-resource and water-quality applications. Most significantly, 
+ecoregions (Omernik, 1987) have been used to define areas where conditions 
+affecting stream chemistry are expected to be similar (Omernik and Griffith, 
+1991). Ecoregions, however, were not specifically designed to identify areas 
+throughout the United States with similar hydrologic characteristics. Rather, 
+ecoregions were developed to identify patterns in biotic and abiotic factors 
+thought to generally affect ecological processes at a relatively broad scale.
+		
+For the purpose of selecting areas to be studied in the second decade of 
+NAWQA, a map of hydrologic landscape regions (HLRs) based on the 
+hydrologic landscapes concept of Winter (2001) was produced. The 
+hydrologic landscapes concept reflects fundamental hydrologic processes 
+that are known to affect water quality and other environmental characteristics.  
+A map of HLRs was generated using readily available spatial data layers, 
+geographic information system (GIS) tools, and statistical analyses to 
+produce a consistent and reproducible hydrologic characterization of the 
+United States.
+		
+The regions in this dataset were derived specifically to select study areas 
+for the NAWQA Program. If the application were for a different purpose, 
+covered a different spatial extent, or was based on a different dataset, 
+then the final product (that is, the regions) would be different.
+		
+The hydrologic landscapes concept:
+		
+The characteristics of the Earth and its climate that affect the location, 
+movement, and chemistry of water are extremely complex. With respect 
+to the movement of water, however, many seemingly diverse landscapes 
+have some features in common.  It is these commonalties that need to 
+be identified in developing a conceptual framework.  Only by evaluating 
+landscapes from a common conceptual hydrologic framework can 
+processes common to some or all landscapes be distinguished from 
+processes unique to particular landscapes.
+		
+The concept of hydrologic landscapes is based on the idea that a single 
+physical feature is the basic building block of all landscapes. This feature 
+is termed a fundamental hydrologic landscape unit and is defined as an 
+upland adjacent to a lowland separated by a valley side. The hydrologic 
+system of a fundamental hydrologic landscape unit consists of (1) the 
+movement of surface water, which is controlled by the slopes and 
+permeability of the landscape; (2) the movement of ground water, which 
+is controlled by the hydraulic characteristics of the geologic framework; 
+and (3) atmospheric-water exchange, which is controlled by climate 
+(Winter, 2001).
+		
+All hydrologic landscapes can be conceived of as variations and multiples 
+of fundamental hydrologic landscape units, and these can be used to define 
+general landscape types that describe major physiographic features of the 
+Earth.  Some examples are: (1) a landscape consisting of narrow lowlands 
+and uplands separated by high and steep valley sides, characteristic of 
+mountainous terrain; (2) a landscape with wide lowlands separated from 
+much narrower uplands by steep valley sides, characteristic of 
+basin-and-range physiography and basins of interior drainages; and 
+(3) a landscape having narrow lowlands separated from very broad uplands 
+by valley sides of various slopes and heights, characteristic of plateaus 
+and high plains.
+		
+The movement of water over the surface and through the subsurface of 
+generalized landscapes is controlled by common physical principles 
+regardless of the geographic location of the landscapes.  For example, 
+in a landscape with low permeability soils, surface runoff will be extensive, 
+and recharge to ground water will be limited.  In contrast, in a landscape 
+with highly permeable soils and steep slopes, surface runoff will be limited, 
+and ground-water recharge will be significant.  Moreover, in landscapes 
+that have a shallow water table, transpiration directly from ground water 
+may have a substantial effect on the volume of ground water and on the 
+movement of ground water to and from surface water.
+		
+-----------------------------------------------------------------------
+		
+Cited references
+		
+Gilliom, R.G., Alley, W.M., and Gurtz, M.E., 1995, Design of the National 
+Water-Quality Assessment Program--occurrence and distribution of 
+water-quality conditions: U.S. Geological Survey Circular 1112, 33 p.
+		
+Omernik, J.M., 1987, Ecoregions of the conterminous United States: 
+Annals of the Association of American Geographers, v. 77, p. 118-125.
+		
+Omernik, J.M., and Griffith, G.E., 1991, Ecological regions versus hydrologic 
+units--frameworks for managing water quality:  Journal of Soil and Water 
+Conservation, v. 46, p. 334-340.
+			
+Winter, T.C., 2001, The concept of hydrologic landscapes: Journal of the 
+American Water Resources Association, v. 37, p. 335-349.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>unknown</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180</westbc>
+        <eastbc>-60</eastbc>
+        <northbc>75</northbc>
+        <southbc>25</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Hydrologic landscapes</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:b8b21593-8b79-48d8-aeab-e704f78ea2c6</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Conterminous United States</placekey>
+      </place>
+    </keywords>
+    <accconst>NONE</accconst>
+    <useconst>The HLRs derived in this study are specific to several choices made in the 
+analysis: (1) the particular set of variables used, (2) details in the statistical 
+analyses, and (3) details in the GIS analyses. Using a different set of watershed 
+characteristics would have affected the derived HLR map. In addition, averaging 
+the variables over smaller areas would have produced a map with finer spatial 
+detail. Changing any of these factors likely would lead to other regional maps 
+that could be equally valid and useful.
+			
+The methods used to define HLRs are expected to be sensitive to the spatial 
+scale of the analysis. In the study described herein, the spatial extent of the 
+analysis covered all 50 States; this was the appropriate spatial scale for the 
+purpose of identifying HLRs to help design a national water-quality assessment. 
+Satisfying a different objective may require a different spatial scale of analysis 
+and might result in a different set of regions.
+			
+The concept of hydrologic landscapes proposed by Winter (2001) represents the 
+natural landscape and climate factors expected to affect hydrologic processes. 
+There are important water-resources management activities, such as reservoir 
+and canal construction, irrigation, and subsurface drainage, that have a significant 
+effect on hydrologic processes. These water-resources management activities were 
+not included as factors in defining the HLRs.
+			
+Cited references:
+			
+Winter, T.C., 2001, The concept of hydrologic landscapes: Journal of the American 
+Water Resources Association, v. 37, p. 335-349.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>David Wolock</cntper>
+          <cntorg>USGS</cntorg>
+        </cntperp>
+        <cntpos>Research Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>USGS</address>
+          <address>4821 Quail Crest Place</address>
+          <city>Lawrence</city>
+          <state>KS</state>
+          <postal>66049</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>785-832-3528</cntvoice>
+        <cntfax>785-832-3500</cntfax>
+        <cntemail>dwolock@usgs.gov</cntemail>
+        <hours>8:00AM-4:30PM</hours>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.2.0.700</native>
+  </idinfo>
+  <dataqual>
+    <logic>none</logic>
+    <complete>none</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Delineation of hydrologic landscape regions
+
+The overall approach for delineation of HLRs for the United States involved three steps:
+(1) Delineate a set of watersheds that covers all 50 States.
+(2) Determine metrics to quantify the land-surface form, geologic texture (herein defined as 
+the permeability of the soil and bedrock), and climate characteristics that define hydrologic 
+landscapes, and then average the metrics for each watershed.
+(3) Use cluster analysis to assign the watersheds to groups according to their similarity in 
+land-surface form, geologic texture, and climate characteristics. Each group of similar 
+watersheds comprises an HLR.
+			
+ARC/INFO GIS (Environmental Systems Research Institute, Inc., 1991) was used in the first 
+two steps just listed. (The use of firm, trade, and brand names in this document is for 
+identification purposes only and does not constitute endorsement by the U.S. Geological 
+Survey.) All the GIS data were analyzed at 1-km resolution in the Lambert Azimuthal Equal 
+Area projection system (central meridian, -100 deg; latitude of origin, 45 deg; sphere of 
+influence radius, 6,370,997 m).
+			
+Delineation of watersheds
+			
+A set of small watersheds (each about 200 square kilometers in area) completely covering 
+the 50 States was derived from 1-kilometer resolution digital elevation model (DEM) data 
+(Verdin and Greenlee, 1996). This watershed size was selected because it is compatible 
+with the spatial resolution of nationally available datasets on land-surface form, geologic 
+texture, and climate characteristics (see the next section). This watershed size is large 
+enough to include lowlands and uplands, but small enough to provide spatial detail among 
+watersheds.
+			
+First, a synthetic stream network was extracted from the DEM by specifying a minimum 
+drainage area of 100 square kilometers to initiate a stream channel. Each stream segment 
+in the network was assigned a unique identifier value, and the entire set of stream segments 
+then was used to delineate the watersheds from the DEM. The result was a set of 43,931 
+watersheds with an average area of 212 square kilometers. It is important to note that 
+DEM-based watershed delineation is impossible in completely flat areas. Therefore, each 
+spatially contiguous flat area (that is, adjacent DEM grid cells with the same elevation) 
+became a single, possibly large, watershed.
+			
+Quantification of land-surface form, geologic texture, and climate characteristics
+			
+The critical features used to describe Winter's hydrologic landscapes are: (1) land-surface 
+form, to quantify the effects of gravity on the movement of water through the landscape; (2) geologic 
+texture, to estimate permeability of soil and bedrock materials that affect surface runoff, infiltration, 
+and ground-water flow; and (3) climate characteristics, to approximate water available to surface- 
+and ground-water systems.
+			
+Land-surface form is described by terrain characteristics that are computed from 1-km resolution 
+DEM data for the small watersheds. The characteristics are: relief (maximum elevation minus 
+minimum elevation in the watershed); total percentage of flatland (areas with less than 1-percent 
+slope) in the watershed; the percentage of flatland located in upland areas of the watershed 
+(flat areas with elevation greater than the midpoint elevation); and the percentage of flatland in 
+lowland areas of the watershed (flat areas with elevation less than or equal to the midpoint elevation).  
+These terrain characteristics are similar to those in Hammond (1964) and presented in the USGS 
+National Atlas of the United States  "Classes of Land-Surface Form" map (U.S. 
+Geological Survey, 2001). The land-surface form characteristics were computed for each of the 
+delineated watersheds.
+			
+Geologic texture is described by two measures of permeability--one for soil and one for bedrock 
+material. Soil permeability is estimated as the percentage of sand in the soil listed in the U.S. 
+Department of Agriculture's STATSGO database (U.S. Department of Agriculture, 1994). 
+The percentage of sand in the soil is directly related to permeability; that is, permeability 
+increases as percentage of sand in the soil increases.
+			
+Bedrock permeability is quantified by assigning permeability classes to the general lithologic 
+groups (table 1) in the USGS National Atlas map of principal aquifer groups (U.S. Geological 
+Survey, 2001). These bedrock texture divisions are consistent with the primary lithologies 
+used to develop regions for the USGS Ground-Water Resources Program (U.S. Geological 
+Survey, 1998).  Some of the bedrock texture groups have permeability values ranging over 
+several orders of magnitude, such as basalt and volcanic rocks, but "typical" 
+permeability is the basis for the relative permeability class.
+--------------------------------------------------------
+Table 1. Lithologic groups of principal aquifers and bedrock permeability classes [1 is the 
+lowest permeability and 7 is the highest]
+			
+Lithologic group (bedrock permeability class)
+			
+Not a principal aquifer (1)
+Sandstone (2)
+Semiconsolidated sand (3)
+Basalt and other volcanic rocks (4)
+Sandstone and carbonate rocks (5)
+Unconsolidated sand and gravel (6)
+Carbonate rock (7)
+-----------------------------------------------------------
+			
+The digital maps representing geologic texture were intersected with the delineated 
+watersheds to compute average percentage of sand in the soil and average bedrock 
+permeability class for each of the 43,931 watersheds.
+			
+Climate characteristics are described by mean annual precipitation minus potential 
+evapotranspiration (PET). PET was estimated from mean monthly temperature and 
+latitude using the Hamon equation (Hamon, 1961). Mean monthly temperature and 
+precipitation data from first-order meteorological station data for 1961-90 (Owensby 
+and Ezell, 1992) were used to compute the mean annual precipitation and PET 
+estimates. The station data were interpolated to a 1-km resolution grid using the 
+ARC/INFO inverse-distance weighting method. The mean value of precipitation-PET 
+was computed for each of the 43,931 watersheds by intersecting the digital 
+precipitation-PET data with the delineated watersheds.
+			
+Identification of hydrologic landscape regions by grouping the watersheds
+			
+The land-surface form, geologic texture, and climate characteristics were used to assign 
+the watersheds to similar groups that define the HLRs for the 50 States. First, a principal 
+components analysis of the land-surface form, geologic texture, and climate characteristics 
+for the 43,931 watersheds was used to remove co-dependence among the variables, and 
+then a Fortran-language clustering program was used to assign each watershed to 1 of 20 
+groups. The 20 groups were selected on the basis of low within-cluster variance and good 
+separation among the clusters. The hierarchical method in the clustering program uses a 
+minimum variance criterion and the nearest neighbor chain algorithm (Murtagh, 1985).
+			
+The GIS and statistical analyses resulted in a grid of 20 HLRs. Statistics (such as mean 
+and standard deviation) of the landscape characteristics can be computed using zonal 
+statistics functions in a GIS. The numbers and associated colors assigned to the HLRs 
+were chosen according to the overall similarity in hydrologic-landscape characteristics 
+(land-surface form, geologic texture, and climate characteristics) among regions. For 
+example, HLR 1 and HLR 2 are similar in their average hydrologic-landscape characteristics 
+except for bedrock permeability class. In contrast, HLR 1 and HLR 20 are very different in 
+all characteristics except precipitation-PET.
+			
+An important attribute of HLRs is that the same region can occur in different parts of the 
+United States. A notable example of this feature is HLR 1, which is located in the Southeast, 
+the western Great Lakes area, and the Sand Hills of Nebraska. This indicates that the 
+hydrologic-landscape characteristics of watersheds in these geographically disparate 
+sections of the United States are similar. The Sand Hills of Nebraska has lower 
+precipitation-PET than the Southeast and western Great Lakes area. However, the overall 
+similarity in the three regions is greater than their differences.
+			
+The particular combination of land-surface form, geologic texture, and climate characteristics 
+can be used to qualitatively describe a given hydrologic landscape (Table 2).
+			
+--------------------------------------------------------------------
+Table 2.  Hydrologic landscape region (HLR) descriptions
+			
+(HLR number)   Description
+			
+(1)   Subhumid plains with permeable soils and bedrock
+(2)   Humid plains with permeable soils and bedrock
+(3)   Subhumid plains with impermeable soils and permeable bedrock
+(4)   Humid plains with permeable soils and bedrock
+(5)   Arid plains with permeable soils and bedrock
+(6)   Subhumid plains with impermeable soils and bedrock
+(7)   Humid plains with permeable soils and impermeable bedrock
+(8)   Semiarid plains with impermeable soils and bedrock
+(9)   Humid plateaus with impermeable soils and permeable bedrock
+(10)  Arid plateaus with impermeable soils and permeable bedrock
+(11)  Humid plateaus with impermeable soils and bedrock
+(12)  Semiarid plateaus with permeable soils and impermeable bedrock
+(13)  Semiarid plateaus with impermeable soils and bedrock
+(14)  Arid playas with permeable soils and bedrock
+(15)  Semiarid mountains with impermeable soils and permeable bedrock
+(16)  Humid mountains with permeable soils and impermeable bedrock
+(17)  Semiarid mountains with impermeable soils and bedrock
+(18)  Semiarid mountains with permeable soils and impermeable bedrock
+(19)  Very humid mountains with permeable soils and impermeable bedrock
+(20)  Humid mountains with permeable soils and impermeable bedrock
+-----------------------------------------------------------------------
+			
+Cited references
+			
+Environmental Systems Research Institute, Inc., 1991, Understanding GIS--the 
+ARC/INFO method: Redlands, California, various pagination.
+			
+Hammond, E.H., 1964, Classes of land-surface form in the 48 states, USA: 
+Annals of the Association of American Geographers, v. 54, no. 1964, map 
+supplement no. 4, 1:5,000,000 scale.
+			
+Hamon, W.R., 1961, Estimating potential evapotranspiration: Journal of the 
+Hydraulics Division, Proceedings of the American Society of Civil Engineers, 
+v. 87, p. 107-120.
+			
+Murtagh, F., 1985, Multidimensional clustering algorithms: Vienna, Physica-Verlag.
+			
+Owensby, J.R., and Ezell, D.S., 1992, Climatography of the United States, 
+No. 81--monthly station normals of temperature, precipitation, and heating and 
+cooling degree days, 1961-90:  Ashville, North Carolina, U.S. Department of 
+Commerce, National Oceanic and Atmospheric Administration, National Climatic Data Center.
+			
+U.S. Department of Agriculture, 1994, State Soil Geographic STATSGO data base--data 
+use information: Miscellaneous Publication Number 1492, 35 p.
+			
+U.S. Geological Survey, 1998, Strategic directions for the U.S. Geological Survey 
+Ground-Water Resources Program--a report to Congress, November 30, 1998: 
+Information available on the World Wide Web, accessed March 24, 2003, at 
+URL http://water.usgs.gov/ogw/gwrp/stratdir/stratdir.html
+			
+U.S. Geological Survey, 2001, National atlas of the United States maps: U.S. Geological 
+Survey Fact Sheet 086-01, information available on the World Wide Web, accessed 
+March 24, 2003, at URL http://mac.usgs.gov/mac/isb/pubs/factsheets/fs08601.html
+			
+Verdin, K.L., and Greenlee, S.K., 1996, Development of continental scale digital 
+elevation models and extraction of hydrographic features, In Proceedings, 
+Third International Conference/Workshop on Integrating GIS and Environmental 
+Modeling, Santa Fe, New Mexico, January 21-26, 1996: Santa Barbara, California, 
+National Center for Geographic Information and Analysis.</procdesc>
+        <procdate>Unknown</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>6855</rowcount>
+      <colcount>9106</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Azimuthal Equal Area</mapprojn>
+          <lamberta>
+            <longpc>-100.000000</longpc>
+            <latprjc>45.000000</latprjc>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </lamberta>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>1000.000000</absres>
+            <ordres>1000.000000</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D_Sphere_ARC_INFO</horizdn>
+        <ellips>Sphere_ARC_INFO</ellips>
+        <semiaxis>6370997.000000</semiaxis>
+        <denflat>infinity</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>hlrus</enttypl>
+        <enttypd>Hydrologic landscape regions</enttypd>
+        <enttypds>Wolock</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>ObjectID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>Watershed ID</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>44594</rdommax>
+          </rdom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>Count</attrlabl>
+        <attrdef>Watershed area in square kilometers</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>31</rdommin>
+            <rdommax>23476</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Aqpermnew</attrlabl>
+        <attrdef>Aquifer permeability class (1-7, lowest-highest)</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>7</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Slope</attrlabl>
+        <attrdef>Slope in percent rise</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>35</rdommax>
+            <attrunit>Percent rise</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Tave</attrlabl>
+        <attrdef>Mean annual temperature in degrees Fahrenheit</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>18.7</rdommin>
+            <rdommax>75.0</rdommax>
+            <attrunit>degrees Fahrenheit</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ppt</attrlabl>
+        <attrdef>Mean annual precipitation in inches per year</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.2</rdommin>
+            <rdommax>136.8</rdommax>
+            <attrunit>inches per year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PET</attrlabl>
+        <attrdef>Mean annual potential evapotranspiration in inches per year</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12.8</rdommin>
+            <rdommax>52.7</rdommax>
+            <attrunit>inches per year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sand</attrlabl>
+        <attrdef>Percent sand in soil</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.5</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PMPE</attrlabl>
+        <attrdef>Mean annual precipitation minus potential evapotranspiration in inches per year</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-48.6</rdommin>
+            <rdommax>99.7</rdommax>
+            <attrunit>inches per year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Minele</attrlabl>
+        <attrdef>Minimum elevation in watershed in meters</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-79</rdommin>
+            <rdommax>3169</rdommax>
+            <attrunit>meters above sea level</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Relief</attrlabl>
+        <attrdef>Maximum elevation in watershed minus minimum elevation in watershed in meters</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5618</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pflattot</attrlabl>
+        <attrdef>Total percent flat land (slope less than 1 percent) in watershed</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pflatlow</attrlabl>
+        <attrdef>Percent flat land (slope less than 1 percent) in watershed lowland (elevation less than midpoint between minimum and maximum elevation)</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pflatup</attrlabl>
+        <attrdef>Percent flat land (slope less than 1 percent) in watershed upland (elevation greater than or equal to midpoint between minimum and maximum elevation)</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percent</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hlr</attrlabl>
+        <attrdef>Hydrologic landscape region identification number</attrdef>
+        <attrdefs>Wolock</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>20</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>The attributes give climate, soils, terrain, and geologic characteristics for each of the defined watersheds. The hydrologic landscape regions numbers indicate similar watersheds; watersheds with the same hydrologic landscape region number are most similar to each other. Watersheds with very different HLR numbers (for example, 1 and 20) are very different from each other in their landscape characteristics.</eaover>
+      <eadetcit>Wolock, Winter, and McMahon paper submitted to the Journal of Environmental Management</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Although this data set has been used by the U.S. Geological
+Survey, U.S. Department of the Interior, no warranty expressed or
+implied is made by the U.S. Geological Survey as to the accuracy
+of the data and related materials. The act of distribution shall not 
+constitute any such warranty, and no responsibility is assumed by 
+the U.S. Geological Survey in the use of this data, software, or 
+related materials.
+		
+Any use of trade, product, or firm names is for descriptive
+purposes only and does not imply endorsement by the U.S.
+Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9UIFPKW</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20201117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>Water Mission Area</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>12201 Sunrise Valley Dr</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+        </cntaddr>
+        <cntemail>GS-W-model-data@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
