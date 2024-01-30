@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Amy M. Russell</origin>
+        <origin>Thomas M. Over</origin>
+        <origin>William H. Farmer</origin>
+        <pubdate>2018</pubdate>
+        <title>Selected basin characteristics for all GAGES-II CONUS reference gages</title>
+        <geoform>Excel spreadsheets</geoform>
+        <pubinfo>
+          <pubplace>Urbana, IL</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F70G3JC4</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Thomas M. Over</origin>
+            <origin>William H. Farmer</origin>
+            <origin>Amy M. Russell</origin>
+            <pubdate>2018</pubdate>
+            <title>Refinement of a Regression-Based Method for Prediction of Flow-Duration Curves of Daily Streamflow in the Conterminous United States</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>http://doi.org/10.3133/sir20185072</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains selected basin characteristics from the GAGES-II dataset (https://water.usgs.gov/lookup/getspatial?gagesII_Sept2011) that were considered for use in regression equations for predicting flow-duration curves as well as additional variables that were constructed or derived from these basin characteristics.  Descriptions of basin characteristics used in regression equations are provided (BCdescriptions.xlsx). Additional processing of the selected basin characteristics was done on a region-by-region basis, including deletion of variables with a large (greater than 50%) fraction of the same value (usually zero).  A table indicating the basin characteristics considered for use in regression equations for each study region is provided (BCs_byRegion.xlsx).  After transformation to reduce skewness and to convert to a similar range of values, these basin characteristics were used to fit regression equations for predicting FDCs.  Basin characteristic selection and transformation were performed separately for each study region using all the USGS streamgages that were identified as being of “reference” quality in the GAGES-II dataset.  Of the reference quality streamgages, only those having at least 10 complete water years (WYs) during the study period from WY1981 through WY2013 were used in regression model building; these are identified in the dataset.  The basin characteristics are presented in their original units (unstransfBCs.new.xlsx) and as transformed (transfBCs.new.xlsx); a table specifying the transformations is provided (tranfBC_info.new.xlsx). Methods are fully described by Over and others (in review).</abstract>
+      <purpose>Datasets were used to investigate refinements of a regression-based method for prediction of flow-duration curves for selected streamgages in the conterminous United States.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1980</begdate>
+          <enddate>2013</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-125.59570312358</westbc>
+        <eastbc>-65.478515625979</eastbc>
+        <northbc>49.353470715064</northbc>
+        <southbc>24.166402900476</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>streamflow</themekey>
+        <themekey>flow-duration curves</themekey>
+        <themekey>regression analysis</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5a4e9bcbe4b0d05ee8c6643f</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Conterminous United States</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Amy M Russell</cntper>
+          <cntorg>MIDWEST REGION</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>405 N. Goodwin Avenue</address>
+          <city>Urbana</city>
+          <state>IL</state>
+          <postal>61801</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>217-328-9773</cntvoice>
+        <cntemail>arussell@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The process used to create the final dataset is fully described in the accompanying report (Over and others, 2018).</procdesc>
+        <procdate>2017</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BCdescriptions.xlsx - Worksheet 'BC_descriptions'</enttypl>
+        <enttypd>Descriptions of basin characteristics used in regression equations</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Variable_Name</attrlabl>
+        <attrdef>Variable names used in regression equations</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Variable names used in regression equations</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Description</attrlabl>
+        <attrdef>A description of the basin characteristic used in the regression equations with data source identified if applicable.  References for all cited data sources are provided on the second worksheet, BC_references.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>A description of the basin characteristic used in the regression equations with data source identified if applicable.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Variable_Use</attrlabl>
+        <attrdef>An identifier that specifies how the basin characteristic was used in regression equations</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>direct</edomv>
+            <edomvd>basin characteristic used directly in regression equations</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>indirect</edomv>
+            <edomvd>basin characteristic not used directly in regression equations but in constructed variables</edomvd>
+            <edomvds>producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>constructed</edomv>
+            <edomvd>basin characteristic constructed from other GAGES-II basin characteristics</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>BCdescriptions.xlsx - Worksheet 'BC_references'</enttypl>
+        <enttypd>References for all data sources cited in the descriptions of basin characteristics used in regression equations. References obtained from GAGES-II dataset (https://water.usgs.gov/lookup/getspatial?gagesII_Sept2011).</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Citation</attrlabl>
+        <attrdef>Citation included in the descriptions of basin characteristics used in regression equations, found in the first worksheet, BC_descriptions.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Citation included in the descriptions of basin characteristics used in regression equations</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Reference</attrlabl>
+        <attrdef>References for cited data sources as obtained from the GAGES-II dataset</attrdef>
+        <attrdefs>References obtained from gagesII_sept30_2011-report.docx distributed within basinchar_and_report_sept_2011.zip at (https://water.usgs.gov/lookup/getspatial?gagesII_Sept2011)</attrdefs>
+        <attrdomv>
+          <udom>References for cited data sources as obtained from the GAGES-II dataset</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>BCs_byRegion.xlsx</enttypl>
+        <enttypd>A table indicating the basin characteristics considered for use in regression equations for each study region</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Basin Characteristic</attrlabl>
+        <attrdef>Basin characteristics used in regression equations</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>A description of the basin characteristic used in the regression equations with data source identified if applicable.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Beginning with column 2: Headings correspond to study region</attrlabl>
+        <attrdef>An indication whether the specified basin characteristic was used in regression equations in the corresponding study region</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>X</edomv>
+            <edomvd>True</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>untransfBCs.new.xlsx - contains a separate worksheet for each study region</enttypl>
+        <enttypd>Basin characteristics provided in their original units. Worksheets are named according to the GAGES-II HUC02 study region.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>StnID</attrlabl>
+        <attrdef>Unique USGS streamgage identification number</attrdef>
+        <attrdefs>U.S. Geological Survey - National Water Information System</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>U.S. Geological Survey Site Number</codesetn>
+            <codesets>National Water Information System (NWIS) database</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Reference/non-reference class:  REF = reference (least-disturbed hydrologic condition); NON-REF = not reference</attrdef>
+        <attrdefs>Reference or non-reference designation according to GAGES-II dataset</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>REF</edomv>
+            <edomvd>REF = reference (least-disturbed hydrologic condition)</edomvd>
+            <edomvds>GAGES-II dataset</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UsedInFDCStudy</attrlabl>
+        <attrdef>A logical expression indicating whether the specified streamgage and its associated basin characteristics were used in this study</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>TRUE</edomv>
+            <edomvd>True</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>FALSE</edomv>
+            <edomvd>False</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>All remaining columns correspond to basin characteristics described in BCdescriptions.xlsx</attrlabl>
+        <attrdef>Basin characteristic values for the specified streamgage in their original units</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-9999</rdommin>
+            <rdommax>25791</rdommax>
+            <attrunit>as specified in column headings</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>transfBC_info.new.xlsx - contains a separate worksheet for each study region</enttypl>
+        <enttypd>A table specifying transformations made to basin characteristics prior to use in regression equations</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>BC</attrlabl>
+        <attrdef>Basin characteristic</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>BC variable names used in regression equations</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>transfBCs.added</attrlabl>
+        <attrdef>First step: constant added to basin characteristics prior to transformation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-871.7</rdommin>
+            <rdommax>9999</rdommax>
+            <attrunit>not applicable</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>transfBCs.tran</attrlabl>
+        <attrdef>Second step: transformation applied to basin characteristics</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>center</edomv>
+            <edomvd>variable not transformed</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3over2</edomv>
+            <edomvd>variable transformed by raising it to the power of (3/2)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2over3</edomv>
+            <edomvd>variable transformed by raising it to the power of (2/3)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1over2</edomv>
+            <edomvd>variable transformed by raising it to the power of (1/2)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1over3</edomv>
+            <edomvd>variable transformed by raising it to the power of (1/3)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1over5</edomv>
+            <edomvd>variable transformed by raising it to the power of (1/5)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1over10</edomv>
+            <edomvd>variable transformed by raising it to the power of (1/10)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>log10</edomv>
+            <edomvd>variable transformed using common logarithm (base10)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>power2</edomv>
+            <edomvd>variable transformed by raising it to the power of (2)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>power10</edomv>
+            <edomvd>variable transformed by raising it to the power of (10)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>power3</edomv>
+            <edomvd>variable transformed by raising it to the power of (3)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>power5</edomv>
+            <edomvd>variable transformed by raising it to the power of (5)</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>exp10</edomv>
+            <edomvd>variable transformed by using variable as exponent of 10</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>post.transfBCs.added</attrlabl>
+        <attrdef>Third step: constant added to variables after transformation</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-94.99744297</rdommin>
+            <rdommax>1.030426933</rdommax>
+            <attrunit>not applicable</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>finalBCs.divisor</attrlabl>
+        <attrdef>Final step: constant which the variables are divided by</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.90E-06</rdommin>
+            <rdommax>1.00E+60</rdommax>
+            <attrunit>not applicable</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>transfBCs.new.xlsx - contains a separate worksheet for each study region</enttypl>
+        <enttypd>Basin characteristics provided in transformed units. Worksheets are named according to the GAGES-II HUC02 study region.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>StnID</attrlabl>
+        <attrdef>Unique USGS streamgage identification number</attrdef>
+        <attrdefs>U.S. Geological Survey - National Water Information System</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>U.S. Geological Survey Site Number</codesetn>
+            <codesets>National Water Information System (NWIS) database</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Reference/non-reference class:  REF = reference (least-disturbed hydrologic condition); NON-REF = not reference</attrdef>
+        <attrdefs>Reference or non-reference designation according to GAGES-II dataset</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>REF</edomv>
+            <edomvd>REF = reference (least-disturbed hydrologic condition)</edomvd>
+            <edomvds>GAGES-II dataset</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UsedInFDCStudy</attrlabl>
+        <attrdef>A logical expression indicating whether the specified streamgage and its associated basin characteristics were used in this study</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>TRUE</edomv>
+            <edomvd>True</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>FALSE</edomv>
+            <edomvd>False</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>All remaining columns correspond to basin characteristics described in BCdescriptions.xlsx</attrlabl>
+        <attrdef>Basin characteristic values for the specified streamgage in their transformed units</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1</rdommin>
+            <rdommax>1</rdommax>
+            <attrunit>as specified in column headings</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20200814</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Amy M Russell</cntper>
+          <cntorg>MIDWEST REGION</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>405 N. Goodwin Avenue</address>
+          <city>Urbana</city>
+          <state>IL</state>
+          <postal>61801</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>217-328-9773</cntvoice>
+        <cntemail>arussell@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

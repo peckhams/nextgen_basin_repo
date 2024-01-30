@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fgdc_classic.xsl"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://water.usgs.gov/GIS/metadata/usgswrd/fgdc-std-001-1998.xsd">
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>James Falcone</origin>
+        <pubdate>20111012</pubdate>
+        <title>GAGES-II: Geospatial Attributes of Gages for Evaluating Streamflow</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P96CPHOT</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset, termed "GAGES II", an acronym for Geospatial Attributes of Gages for 
+Evaluating Streamflow, version II, provides geospatial data and classifications for 9,322 
+stream gages maintained by the U.S. Geological Survey (USGS). It is an update to the 
+original GAGES, which was published as a Data Paper on the journal Ecology's website 
+(Falcone and others, 2010b) in 2010. The GAGES II dataset consists of gages which 
+have had either 20+ complete years (not necessarily continuous) of discharge record 
+since 1950, or are currently active, as of water year 2009, and whose watersheds lie 
+within the United States, including Alaska, Hawaii, and Puerto Rico. Reference gages 
+were identified based on indicators that they were the least-disturbed watersheds within 
+the framework of broad regions, based on 12 major ecoregions across the United States. 
+Of the 9,322 total sites, 2,057 are classified as reference, and 7,265 as non-reference. 
+Of the 2,057 reference sites, 1,633 have (through 2009) 20+ years of record since 1950. 
+Some sites have very long flow records: a number of gages have been in continuous 
+service since 1900 (at least), and have 110 years of complete record (1900-2009) to date.
+			  
+The geospatial data include several hundred watershed characteristics compiled from 
+national data sources, including environmental features (e.g. climate – including historical 
+precipitation, geology, soils, topography) and anthropogenic influences (e.g. land use, 
+road density, presence of dams, canals, or power plants). The dataset also includes 
+comments from local USGS Water Science Centers, based on Annual Data Reports, 
+pertinent to hydrologic modifications and influences. The data posted also include 
+watershed boundaries in GIS format. 
+			  
+This overall dataset is different in nature to the USGS Hydro-Climatic Data Network 
+(HCDN; Slack and Landwehr 1992), whose data evaluation ended with water year 1988. 
+The HCDN identifies stream gages which at some point in their history had periods which 
+represented natural flow, and the years in which those natural flows occurred were identified 
+(i.e. not all HCDN sites were in reference condition even in 1988, for example, 02353500). 
+The HCDN remains a valuable indication of historic natural streamflow data. However, the 
+goal of this dataset was to identify watersheds which currently have near-natural flow 
+conditions, and the 2,057 reference sites identified here were derived independently of the 
+HCDN. A subset, however, noted in the BasinID worksheet as “HCDN-2009”, has been 
+identified as an updated list of 743 sites for potential hydro-climatic study. The HCDN-2009 
+sites fulfill all of the following criteria: 
+	(a) have 20 years of complete and continuous flow record in the last 20 years 
+(water years 1990-2009), and were thus also currently active as of 2009, 
+	(b) are identified as being in current reference condition according to the GAGES-II classification, 
+	(c) have less than 5 percent imperviousness as measured from the NLCD 2006, and 
+	(d) were not eliminated by a review from participating state Water Science Center evaluators.
+			  
+The data posted here consist of the following items:- This point shapefile, with summary data 
+for the 9,322 gages.- A zip file containing basin characteristics, variable definitions, and a more 
+detailed report.- A zip file containing shapefiles of basin boundaries, organized by classification 
+and aggregated ecoregion.- A zip file containing mainstem stream lines (Arc line coverages) for 
+each gage.</abstract>
+      <purpose>This dataset has two purposes: 
+(1) to provide users with a comprehensive set of geospatial characteristics for a large number 
+of gaged watersheds, particularly for gages with long flow record, and 
+
+(2) to provide a determination of which of those watersheds represent hydrologic conditions 
+which are least disturbed by human influences ("reference gages"), compared to other watersheds 
+within 12 major ecoregions.  Identifying reference gages serves important research goals: for 
+example identifying conditions or goals for stream restoration, climate change studies, and more.</purpose>
+      <supplinf>The meaning of following phrases in the screening comments column in the file
+gagesII_sep30_2011_conterm with tab Bas_Classif:
+1. NEoA = No Evidence of hydrologic Alteration, based on examination of remote imagery.
+2. ROMO= Rocky Mountain National Park
+3. lt development = Light development. Minimal development.
+4. lt ag = Light agriculture. Meaning, widely scattered row crops or pasture. 
+5. hw =headwaters
+6. HBN = Hydrologic Benchmark Network station (relatively pristine site)
+7. RoR dams= run-of-river dams.  Dams that have no substantive storage.
+8. mod-hvy ag = Moderate-heavy agricultural footprint.  Meaning, A mix of row crops and pasture.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2011</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None Planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-180.000000</westbc>
+        <eastbc>180.000000</eastbc>
+        <northbc>90.000000</northbc>
+        <southbc>5.402082</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>inlandWaters</themekey>
+        <themekey>USGS gages</themekey>
+        <themekey>streamflow</themekey>
+        <themekey>HCDN</themekey>
+        <themekey>GAGES</themekey>
+        <themekey>reference watersheds</themekey>
+        <themekey>hydrologic condition</themekey>
+        <themekey>hydrologic modification</themekey>
+        <themekey>streamgage network</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:1d623649-ccb9-4238-8add-3174bc322fdf</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>United States</placekey>
+        <placekey>All 50 states</placekey>
+        <placekey>Alabama</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>District of Columbia</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Hawaii</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>The classification assigned in this project (reference or non-reference) was based on our 
+semi-quantitative evaluation of the criteria described in the report, which included both 
+quantitative and qualitative data. Our classification is intended as the best identification 
+of reference-quality sites that we could perform given the limitations of national-scale data, 
+and within the context of the regions we used. It was believed that the deficiencies of 
+national-scale GIS data, which do not capture small diversions, dams or groundwater 
+pumping particularly well, would be supplemented by an examination of ADR remarks 
+and visual examination of every watershed from high-resolution imagery. It is possible 
+that users with localized knowledge may be able to perform a better classification for 
+specific areas. Users of these data should be attentive to potential differences between 
+reference and non-reference gages - for example, watershed size (median size of reference 
+gages = 212 sq km; of non-reference gages = 587 sq km).  We also note that it would be 
+possible to use the data posted here to identify a different, but equally valid, set of 
+reference-quality stream gages for other purposes, based on other regions, or which place 
+greater emphasis on specific anthropogenic activities or variables (e.g., urbanization), and 
+that the classification presented here is not intended to be definitive.
+	   
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply 
+endorsement by the U.S. Government.
+		
+Although this Federal Geographic Data Committee-compliant metadata file is intended to 
+document the data set in nonproprietary form, as well as in ArcInfo format, this metadata file 
+may include some ArcInfo-specific terminology.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>Earth System Processes Division</cntper>
+        </cntorgp>
+        <cntemail>gs-w-model-data-management@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/631405bbd34e36012efa304a?name=gagesII.jpg</browsen>
+      <browsed>Illustration of the dataset</browsed>
+      <browset>jpg</browset>
+    </browse>
+    <datacred>The original conception and rationale for creating GAGES is from Daren Carlisle, David Wolock, and Michael Meador, of the USGS.  In its assembly, we gratefully recognize the tremendous work done by Lisa Weber, Kelly Ruhl, Chris Hill, and Michael Wieczorek, as well as the helpful colleague reviews provided by Al Rea, Ken Eng, Silvia Terziotti, and Kerie Hitt, all of the USGS, and of three journal reviewers from the journal Ecology for the original data. We also acknowledge the invaluable input from our colleagues at USGS Water Science Centers: Delwyn Oki in Hawaii, Jackie McIntire and David Meyer in Alaska, and Marilyn Santiago and Heriberto Torres-Sierra in Puerto Rico.  We also acknowledge the USGS EDNA program, for assistance and guidance on basin delineation methods, particularly Sandra Poppenga, Susan Greenlee, and Bruce Worstell.</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>None</sechandl>
+    </secinfo>
+    <native>Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.0.2414</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Source data was checked using standard USGS review procedures. Attributes were checked by plotting the coverage and reselecting for the different values.</attraccr>
+    </attracc>
+    <logic>data was reviewed throught the official USGS review process</logic>
+    <complete>complete</complete>
+    <lineage>
+      <procstep>
+        <procdesc>The geospatial data include several hundred watershed characteristics compiled from national data sources, including environmental features (e.g. climate – including historical precipitation, geology, soils, topography) and anthropogenic influences (e.g. land use, road density, presence of dams, canals, or power plants). The dataset also includes comments from local USGS Water Science Centers, based on Annual Data Reports, pertinent to hydrologic modifications and influences. The data posted also include watershed boundaries in GIS format.</procdesc>
+        <procdate>2011</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>9322</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 Albers</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.0000000037527980722984474</absres>
+            <ordres>0.0000000037527980722984474</ordres>
+          </coordrep>
+          <plandu>Meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>gagesII_9322_sept30_2011</enttypl>
+        <enttypd>Point attribute table</enttypd>
+        <enttypds>Automatically created</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STAID</attrlabl>
+        <attrdef>Station ID</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <udom>number</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STANAME</attrlabl>
+        <attrdef>Station Name</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <udom>48 states</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLASS</attrlabl>
+        <attrdef>Classification (Ref or Non-ref)</attrdef>
+        <attrdefs>classification</attrdefs>
+        <attrdomv>
+          <udom>Ref or Non-Ref</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AGGECOREGI</attrlabl>
+        <attrdef>Aggregated ecoregion</attrdef>
+        <attrdefs>ecoregion</attrdefs>
+        <attrdomv>
+          <udom>ecoregion value</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DRAIN_SQKM</attrlabl>
+        <attrdef>Drainage area, sq km</attrdef>
+        <attrdefs>drainage area</attrdefs>
+        <attrdomv>
+          <udom>square kilometers</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC02</attrlabl>
+        <attrdef>Hydrologic Unit Code, 2-digit</attrdef>
+        <attrdefs>HUC</attrdefs>
+        <attrdomv>
+          <udom>1-21 regions</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAT_GAGE</attrlabl>
+        <attrdef>Latitude, decimal degrees</attrdef>
+        <attrdefs>Latitude</attrdefs>
+        <attrdomv>
+          <udom>decimal degrees</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LNG_GAGE</attrlabl>
+        <attrdef>Longitude, decimal degrees</attrdef>
+        <attrdefs>Longitude</attrdefs>
+        <attrdomv>
+          <udom>decimal degrees</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State at gage location</attrdef>
+        <attrdefs>State</attrdefs>
+        <attrdomv>
+          <udom>48 state names</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HCDN_2009</attrlabl>
+        <attrdef>If gage is part of HCDN-2009</attrdef>
+        <attrdefs>HCDN</attrdefs>
+        <attrdomv>
+          <udom>HCDN</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ACTIVE09</attrlabl>
+        <attrdef>If gage active in water year 2009</attrdef>
+        <attrdefs>active</attrdefs>
+        <attrdomv>
+          <udom>2009</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FLYRS1900</attrlabl>
+        <attrdef>Number of complete years of flow data between 1900 and 2009</attrdef>
+        <attrdefs>complete years</attrdefs>
+        <attrdomv>
+          <udom>1900-2009</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FLYRS1950</attrlabl>
+        <attrdef>Number of complete years of flow data between 1950 and 2009</attrdef>
+        <attrdefs>complete years of flow data</attrdefs>
+        <attrdomv>
+          <udom>1950, 2009</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FLYRS1990</attrlabl>
+        <attrdef>Number of complete years of flow data between 1990 and 2009</attrdef>
+        <attrdefs>complete years of flow data</attrdefs>
+        <attrdomv>
+          <udom>1990, 2009</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data set has been used by the U.S. Geological
+Survey, U.S. Department of the Interior, no warranty expressed or
+implied is made by the U.S. Geological Survey as to the accuracy
+of the data and related materials. The act of distribution shall not 
+constitute any such warranty, and no responsibility is assumed by 
+the U.S. Geological Survey in the use of this data, software, or 
+related materials.
+			
+Any use of trade, product, or firm names is for descriptive
+purposes only and does not imply endorsement by the U.S.
+Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P96CPHOT</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20201117</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>Water Mission Area</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>12201 Sunrise Valley Dr</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+        </cntaddr>
+        <cntemail>GS-W-model-data@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
