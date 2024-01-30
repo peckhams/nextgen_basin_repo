@@ -1,0 +1,45 @@
+
+S.D. Peckham
+2023-11-22
+
+========================================
+How to Download NWIS Data via NWIS Web
+========================================
+1. Go to this URL:
+   https://www.waterqualitydata.us/#advanced=true
+
+2. Leave all defaults in "Select Location Paramters".
+
+3. In the "Filter Results" section, in "Parameter Code" dropbox,
+   type "00060".  Parameter Code "00060" is Discharge (ft3/s).
+   Only NWIS (not STEWARDS or STORET) allows characteristics
+   to be specified with a Parameter Code.
+
+4. In the "Download the Data" section, for "File Format", click
+   on "Tab-separated".  For "Data Profiles", click on "Site Data Only".
+
+5. Scroll to bottom and click on "Download" button.
+
+==========================================================
+How to Download NWIS Data via Water Quality Portal (WQP)
+==========================================================
+1. Go to this URL:
+   https://nwis.waterdata.usgs.gov/nwis/dv
+
+2. Click Submit (Site Type is chosen by default) to go to next page.
+
+3. Choose "Stream" from Site type droplist.
+
+4. Check nothing (to get everything) or:
+   check "Discharge, m3/s", "Discharge, instantaneous, m3/s",
+   or "Streamflow, gal/min" in Water Level/Flow Parameters section.
+
+5. Scroll down to "Choose Output Format" section.
+   Check "Site-description information displayed in:
+       "tab-separated format -- saved to file"
+
+6. Click the Submit button.
+
+
+
+
