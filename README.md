@@ -29,7 +29,7 @@ In order to address some of these issues, many of these data sets were acquired 
 a set of Python utilities were developed, one set for each data collection, to help with
 collating, cleaning, augmenting, and extracting information from them.  These Python
 utilities currently reside in a folder within the TopoFlow 3.6 repo, at: <br>
-&emsp; &emsp; &emsp; https://github.com/peckhams/topoflow36/tree/master/topoflow/utils/ngen <br>
+https://github.com/peckhams/topoflow36/tree/master/topoflow/utils/ngen <br>
 and make use of some of the TopoFlow utilities.  This ngen folder contains Python source
 code files with names like: <br> 
 <b>camels_utils.py</b>, <b>mopex_utils.py</b>, <b>gages2_utils.py</b>,
