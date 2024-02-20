@@ -9,7 +9,7 @@ the CZOs (Critical Zone Observatories), LTER (Long-Term Ecological Research) and
 (National Ecological Observatory Network).  Yet others, usually subsets of the federal
 agency collections, have been created to support other modeling objectives (e.g., MOPEX
 and CAMELS).  Sometimes a federal agency creates a new collection to supersede an existing
-collection.  Several of these collections are briefly summarized in the next section.
+collection.  Several of these collections are briefly summarized in a separate section below.
 As might be expected, each of these data collections provide a different set of basin
 attributes, usually in the form of CSV or TSV files (comma or tab separated values), and
 sometimes also with ESRI shapefiles for all the basins in the collection. 
@@ -83,6 +83,18 @@ In addition to the dataset folders, there are a few other folders such as: <br>
 Not all of the datasets with a folder in the repo have been merged into the final, collated
 TSV file, in the <b>__Collated</b> folder.  Some have only been included for reference, such
 as the <b>Caravan</b> and <b>HYSETS</b> dataset folders.
+
+### River Basin Data Collections
+
+* CAMELS (Catchment Attributes and Meteorology for Large-sample Studies). 671 CONUS basins with minimal human impact that span a wide range of hydroclimatic conditions.  52 basins also in MOPEX.
+* MOPEX (Model Parameter Estimation Experiment). 431 well-monitored, lower-impact basins with focus on parameter estimation for hydrologic models. 
+* NOAA RFC (River Forecast Center) Basins. US is divided into 13 RFCs that collaborate with USGS to monitor 9109 basin DCPs (Data Collection Platforms) via the geostationary GOES satellite.
+* USDA ARS (Agricultural Research Service) Experimental Watershed Network. 771 basins, many with long discharge records.  In STEWARDS.
+* USGS FPS (Federal Priority Streamgages). 4756 monitoring stations; "backbone" of the larger USGS stream gaging network.
+* USGS HDCN (Hydro-Climatic Data Network).  Data for 1639 USGS basins for the study of climate fluctuations.
+* USGS GAGES-II (Geospatial Attributes of Gages for Evaluating Streamflow v2).  2057 "reference" (least-disturbed) sites and 7265 "non-reference" basins (9322 total).  Most have discharge data for 20+ years. Has all but 7 MOPEX basins.  A subset of 1947 "selected basins" has many additional attributes & includes all CAMELS basins and 743 HCDN basins.   See Over et al. (2018).
+* USGS NWIS Basins w/ Discharge Data. 27890 stations, about 9665 active.
+* Also:   CZO, LTER, & NEON basin collections.
 
 ### What Information is Included in the Collated TSV File?
 
