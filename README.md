@@ -1,6 +1,6 @@
 ### Introduction
 
-<img align="right" height="250px" src="__Docs/__Station_Venn_Diagram_v2.png" />
+<img align="right" height="220px" src="__Docs/__Station_Venn_Diagram_v2.png" />
 
 There are many different river basin data collections that have been used for hydrologic
 monitoring or modeling studies. Many have been created by federal agencies like the USGS,
