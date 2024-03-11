@@ -100,12 +100,16 @@ as the <b>Caravan</b> and <b>HYSETS</b> dataset folders.
 
 Site_ID      = USGS site ID, 8 to 15 digits <br>
 NWS_Site_ID  = NOAA NWS location ID, 5 to 8 alphanumeric characters <br>
+GOES_ID      = DCP (Data Collection Platform) ID used by GOES satellite <br>
 RFC          = 5-letter abbrevation for a NOAA River Forecast Center <br>
+WFO/CWA      = 3-letter ID for Weather Forecast Center & County Warning Areas <br>
+HSA          = 3-letter ID for Hydrologic Service Area<br>
 Site_Name    = Original USGS site name, often with many abbrevations <br>
 Site_Type    = The USGS site type (e.g. Stream, Lake, Atmosphere, Well, etc.) <br>
 Stage_Data   = c for continuous, i for intermittent, followed by <br>
 &emsp; &emsp; &emsp; &emsp; &emsp;
 A for active, I for inactive, or N for never recorded <br>
+PEDTS_Obs    = PEDTS code for observations at this site<br>
 State_Code   = 2-letter US state code <br>
 Country_Code = country code <br>
 Lon          = longitude of basin/gage outlet <br>
@@ -125,9 +129,11 @@ Closest_Site_ID = the closest USGS site ID <br>
 Closest_Site_Dist = distance to the closest USGS site ID <br>
 Site_URL     = URL associated with the USGS site ID <br>
 HUC_URL      = URL associated with basin's Hydrologic Unit Code <br>
+NWS_URL      = URL associated with NOAA NWS Location ID<br>
 Status       = status of the gage (active or inactive), if known <br>
 Start_Date   = start date for data collection, if known <br>
 End_Date     = end date for data collection, if known <br>
+Eco_Region   = Aggregated Eco Region<br>
 HLR_Code     = USGS Hydrologic Landscape Region code (0 to 20) <br>
 SWB_Class    = Seasonal Water Balance class (of 10 classes), if computable <br>
 Hgraph_Type  = Hydrograph type from NWM 3 work, if known <br>
