@@ -173,6 +173,10 @@ a beta version of a new API, and one gets info from a USGS-HADS crosswalk for
 gages in the HADS/GOES network.  Some utilities in rfc_utils.py attempt to utilize
 these different datasets to fill in missing information.
 
+#### Multiple NWS Location IDs for Same USGS Site ID
+In the USGS-HADS crosswalk, there are 40 USGS Site IDs that occur 2 or more times, mapped to different NWS Location IDs.
+
+
 
 
 
