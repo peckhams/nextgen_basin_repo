@@ -104,7 +104,7 @@ GOES_ID      = DCP (Data Collection Platform) ID used by GOES satellite <br>
 RFC          = 5-letter abbrevation for a NOAA River Forecast Center <br>
 WFO/CWA      = 3-letter ID for Weather Forecast Center & County Warning Areas <br>
 HSA          = 3-letter ID for Hydrologic Service Area<br>
-Site_Name    = Original USGS site name, often with many abbrevations <br>
+Site_Name    = Original USGS site name, often with many abbreviations <br>
 Site_Type    = The USGS site type (e.g. Stream, Lake, Atmosphere, Well, etc.) <br>
 Stage_Data   = c for continuous, i for intermittent, followed by <br>
 &emsp; &emsp; &emsp; &emsp; &emsp;
