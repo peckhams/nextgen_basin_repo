@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://preview-api.water.noaa.gov/v1/docs/#/Gauges/Gauges_ListGauges</string>
+	<string>https://api.water.noaa.gov/nwps/v1/docs/</string>
 </dict>
 </plist>
