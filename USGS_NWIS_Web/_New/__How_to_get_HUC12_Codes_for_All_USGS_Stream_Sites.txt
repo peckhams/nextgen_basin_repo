@@ -1,0 +1,153 @@
+
+S.D. Peckham
+2024-03-22
+2024-04-25 (updated)
+
+==========================================================
+ How to Get a HUC12 Code for Every USGS NWIS Stream Site
+==========================================================
+The idea is to use "point in polygon" tools in QGIS.
+See:  https://www.qgistutorials.com/en/docs/points_in_polygon.html
+
+First, you must obtain a shapefile for the HUC12 polygons.
+The official home of the Watershed Boundary Dataset (WBD) is at:
+   https://apps.nationalmap.gov/downloader/
+In the left-side panel, Datasets tab, click on "Hydrography".
+Click on "Watershed Boundary Dataset" and click on "National".
+In the "File Formats" section, click on "All".
+
+Note: The National dataset is not available in Shapefile format,
+   but only in ESRI FileGDB and GeoPackage formats.
+Note: Zooming in on map then shows the HUC-12 polygon boundaries.
+
+After download, can open GDB dataset with QGIS as explained here:
+   https://mapscaping.com/working-with-esri-file-geodatabase-gdb-files-in-qgis-and-gdal/
+There are multiple layers in the GDB file; choose the HUC12 layer.
+Note: HUC14 and HUC16 layers are available, but not for entire US.
+
+Can then export to shapefile format by right-clicking on this layer
+in the Layers panel, then choose Export > Save Features As... and
+choose "ESRI Shapefile" format.
+
+Note: The progress indicator at the bottom in QGIS gets up to 95% and
+  then appears to hang.  Let it continue until you get a green "Success"
+  message at the top in QGIS.  The filesize of the resulting ".shp" file
+  will be: 2.35 GB (2346315444 bytes)
+
+---------------------------------------------------------------------------------
+Note: First tried using one from data.gov, from 2020-10-26.
+See:  https://www.sciencebase.gov/catalog/item/63d31e73d34e06fef1501265
+The shapefile was in a zip file called:  WBD_HUC12_CONUS_pulled10262020.zip
+and is called: WBD_HUC12_CONUS_pulled10262020.shp.
+However, this file apparently has polygons with bad geometry.
+
+Note: Also tried this one from HydroShare:
+   https://www.hydroshare.org/resource/3d761b5d1e1241d4b2b2ccdae66f56b7/
+but got QGIS error message: Invalid data source.
+
+---------------------------------------------------------------------------------
+Next, display the HUC12 shapefile by opening it with QGIS and
+selecting it in the Layers panel in the lower left. Zoom in until
+you see the individual HUC12 polygons.
+
+Next, perform the following steps:
+
+1.  In QGIS, from the Layer dropdown, choose:
+    Add Layer > Add Delimited Text Layer...
+
+2.  Click on the "..." on right side of the File name section and choose:
+    combined_river_basin_repo/USGS_NWIS_Web/Data/NWIS_All_Stream_Site_Data.tsv
+
+3.  In the "File Format" panel, choose "Custom delimiters", then select "Tab".
+
+4.  In the "Record and Fields Options" panel, check the boxes for:
+    "First record has field names" and "Detect field types".
+
+5.  In the "Geometry Definition" panel, select "Point coordinates".
+    In the "X field" droplist, choose "dec_long_va".
+    In the "Y field" droplist, choose "dec_lat_va".
+    In the "Geometry CRS" droplist, choose "Default CRS: EPSG:4326 - WGS 84".
+
+5B. In the "Layer Settings" panel, click on "Use spatial index" ?
+
+6.  Click on the "Add" button in the lower right.
+
+7.  Keep the default in the next panel:
+    "Inverse of NAD83 to WGS84 (1) INVERSE(EPSG):1188" for North America.
+    Click on the "OK" button in the lower right.
+
+8.  Click on the "Close" button in the lower right.
+
+9.  You should now see the USGS stream site locations plotted as dots on
+    top of the HUC12 shapefile.
+
+10. Create a "spatial index" for the TSV file layer.
+    In the Layers panel, right click on TSV layer name, choose Properties.
+    In the left side of the Properties dialog, click on "Source" bitmap.
+    In the Geometry section, click on the "Create Spatial Index" button.
+    This will only take a few seconds.
+    Note: If you did Step 5B, this button will be dimmed and will have
+      the label "Spatial Index Exists".
+
+11. In QGIS top menu, choose Preferences.
+
+12. Click on Processing near bottom of left side, then expand
+    the General menu and scroll down to "Invalid features filtering".
+    In the droplist on the right, double-click and choose:
+    "Skip (ignore) features with invalid geometries"
+    Click on the OK button in the bottom right.
+ 
+13. Now click on the Processing pulldown in the QGIS top menu and choose Toolbox.
+
+14. Scroll down to "Vector General" and expand the submenu.
+
+15. Choose "Join Attributes by Location"
+    Choose the TSV file with all USGS stream sites.
+    Click the radio button labeled "are within".
+    Choose the HUC12 shapefile (droplist labeled "By comparing to")
+    Choose the "huc12" attribute (in "Fields to add")
+    In the "Joined layer" section, choose "Save to File", then give
+      an output filename, e.g. All_Stream_Sites_with_HUC12.csv
+    Click the Save button, then click on the Run button in lower right.
+    This will be *very, very slow" if you don't create a spatial index.
+    Can use "tail" at terminal command line to monitor progress.
+    Can also use "ls -l *.csv" to see that filesize is increasing.
+    On a MacBook Pro this took 1 hour 44 minutes.
+
+16. If there are any "features with invalid geometries" in the HUC12
+    polygon shapefile, QGIS will print a red message in the console
+    for each such feature; e.g. this message:
+
+    Feature (8657) from “WBD_National_HUC12” has invalid geometry and has
+    been skipped.   Please fix the geometry or change the “Invalid features
+    filtering” option for this input or globally in Processing settings.
+
+    Got this same message for features:
+    8657, 46935, 46936, 47361, 47364, 50617, 55335, 81331, 98739
+
+17. The new CSV file will now have an extra "huc12" column.
+
+18. Check whether this new CSV file has the same number of rows as the
+    TSV file "NWIS_All_Stream_Site_Data.tsv".  There may have been
+    "features with invalid geometries" in the HUC12 polygon shapefile
+    and we indicated that these should be skipped.  For the shapefile
+    used here, resulting CSV file also had 158818 rows, but rows from
+    158547 onward there was no HUC12 code assigned.  So about 271
+    sites did not get a HUC12 code (or 0.17 percent).  But note that
+    some of the stream sites didn't have decimal lat/lon values.
+
+    NOTE: For the shapefile: WBD_HUC12_CONUS_pulled10262020.shp,
+    the new CSV had only 151733 rows while TSV had 158818. So in that
+    case there were enough HUC12 polygons with invalid geometries so
+    that 7085 sites could not be assigned a HUC12 code.
+
+19. Use Numbers or MS Excel to conver the CSV file to TSV format.
+    This file has been added to the USGS_NWIS_Web/_New folder.
+    
+
+ 
+
+
+
+
+ 
