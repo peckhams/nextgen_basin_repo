@@ -1,0 +1,104 @@
+
+S.D. Peckham
+2023-3-18
+
+====================================
+ How to Download Data via NWIS Web
+====================================
+1.  Go to this URL:
+    https://nwis.waterdata.usgs.gov/nwis/inventory
+
+2.  In the Site Location panel, click on "State/Territory".
+
+3.  In the Site Attribute panel, click on "Site Type".
+
+4.  Click on the Submit button near the bottom left.
+
+5.  In the State/Territory droplist, if you select all entries
+    you will get an error message that says:
+    "Warning:  This data request exceeds the maximum retrieval size
+    currently allowed on this system. Please return to the previous
+    page and adjust your site-selection criteria to retrieve fewer sites."
+
+6.  Click on Alabama, then scroll down to Mississippi, hold down the Shift
+    key and click on Mississipi to select roughly half of all US states.
+    This amount of data will not trigger the warning in Step 5.
+
+7.  Choose "Stream" from Site type droplist.
+
+8.  Scroll down to "Choose Output Format" section.
+    Check "Site-description information displayed in:
+        "tab-separated format -- saved to file"
+    Select all fields in the corresponding droplist.
+ 
+9.  Click the Submit button at the bottom left.
+
+10. The default name of the downloaded file is "inventory".
+    Change this to "NWIS_Stream_Site_Data_AL_to_MS.tsv".
+    This file will start with numerous header lines that describe
+    the attributes and will say that there are 76904 sites.
+    Each header line starts with a hash tag "#".
+
+11. Return to Step 6, but click on Missouri, scroll down to Wyoming,
+    hold down the Shift key and click on Wyoming to select the
+    remaining US states/territories.
+
+12. Click on the Submit button again.
+
+13. Again, the default name of the downloaded file is "inventory".
+    Change this to NWIS_Stream_Site_Data_MO_to_WY.tsv.
+    This file will start with numerous header lines that describe
+    the attributes and will say that there are 81913 sites.
+    Each header line starts with a hash tag "#".
+
+14. Open each of these 2 TSV files with a text editor and remove all
+    of the header lines that start with "#" and put them in text files
+    with the names:  "NWIS_Stream_Site_Data_AL_to_MS_HEADER.txt" and
+    "NWIS_Stream_Site_Data_MO_to_WY_HEADER.txt".
+    In the file: "NWIS_Stream_Site_Data_AL_to_MS.tsv", also remove the
+    heading row that starts with "5s".
+    In the file: "NWIS_Stream_Site_Data_MO_to_WY.tsv", also remove the
+    two heading rows that start with "agency_cd" and "5s".
+
+15. Now merge the 2 TSV files into one file with the Unix command:
+    % cat NWIS_Stream_Site_Data_AL_to_MS.tsv NWIS_Stream_Site_Data_MO_to_WY.tsv
+      > NWIS_All_Stream_Site_Data.tsv
+    This new file will have a filesize of about 50.2 MB.
+    It will start with 1 row that has the column headings.
+    It will have a total of 158818 rows.
+
+16. Open the file "NWIS_All_Stream_Site_Data.tsv" with a spreadsheet program.
+
+17. Note that the 4th column heading is "site_tp_cd" which stands
+    for "Site Type Code" and can be any of the following:
+    ST (stream), ST_CA (canals), ST_DCH (ditch), ST_TS (tidal stream).
+    These are all "stream types".
+
+18. Note that there is another column heading "data_types_cd", which
+    indicates the type of data collected at the site.  This is a
+    30-character array, explained here:
+    https://help.waterdata.usgs.gov/codes-and-parameters/type-of-data-collected
+    (Note that positions 17-30 are supposed to be unassigned, and meant for
+    future use.  But the 30th slot can be A, I or N; maybe used for discharge?)
+    It appears that besides A, I, and O, "N" is also used (no instrument?).
+    There are about 12832 sites where this code starts with "A", indicating
+    sites that actively collect _continuous_ stage or water level data.
+
+19. If you sort on the first column, with heading "agency_cd", you will see
+    that 7237 rows have an agency code other than "USGS".  Some of these are
+    for US states and start with a 2-letter state abbreviation.  The rest
+    are for other US agencies like USARS, USBLM, USCE, USEPA, and USFS.
+
+20. If you sort on the column with heading "rt_bool" (for real-time boolean),
+    you can see that there are 17109 sites with a code of 1 that at some
+    point collected real-time data, plus 103846 sites with a code of 0.
+    However, there seems to be no clear indication of which sites are currently
+    active, despite these columns:
+        inventory_dt  - Date site established or inventoried
+        peak_end_date - Peak-streamflow data end date
+        qw_end_date   - Water-quality data end date  
+        gw_end_date   - Field water-level measurements end date
+        sv_end_date   - Site-visit data end date 
+    These give dates in YYYY-MM-DD format and can be sorted in descending order
+    to get the most recent dates.
+

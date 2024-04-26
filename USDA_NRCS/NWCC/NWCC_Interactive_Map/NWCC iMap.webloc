@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://nwcc-apps.sc.egov.usda.gov/imap/#version=169&amp;elements=&amp;networks=!&amp;states=!&amp;counties=!&amp;hucs=&amp;minElevation=&amp;maxElevation=&amp;elementSelectType=any&amp;activeOnly=true&amp;activeForecastPointsOnly=false&amp;hucLabels=false&amp;hucIdLabels=false&amp;hucParameterLabels=true&amp;stationLabels=&amp;overlays=&amp;hucOverlays=&amp;basinOpacity=75&amp;basinNoDataOpacity=25&amp;basemapOpacity=100&amp;maskOpacity=0&amp;mode=stations&amp;openSections=dataElement,parameter,date,basin,options,elements,location,networks&amp;controlsOpen=true&amp;popup=&amp;popupMulti=&amp;popupBasin=&amp;base=esriNgwm&amp;displayType=inventory&amp;basinType=6&amp;dataElement=WTEQ&amp;depth=-8&amp;parameter=PCTMED&amp;frequency=DAILY&amp;duration=I&amp;customDuration=&amp;dayPart=E&amp;monthPart=E&amp;forecastPubDay=1&amp;forecastExceedance=50&amp;useMixedPast=true&amp;seqColor=1&amp;divColor=7&amp;scaleType=D&amp;scaleMin=&amp;scaleMax=&amp;referencePeriodType=POR&amp;referenceBegin=1991&amp;referenceEnd=2020&amp;minimumYears=20&amp;hucAssociations=true&amp;relativeDate=-1&amp;lat=42.300&amp;lon=-114.300&amp;zoom=4.5</string>
+</dict>
+</plist>
