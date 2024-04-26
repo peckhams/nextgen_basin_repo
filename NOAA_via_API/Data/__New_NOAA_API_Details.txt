@@ -1,11 +1,19 @@
 
 S.D. Peckham
 2023-11-10
-----------------------
-New NWS API (beta version):
-   https://preview-api.water.noaa.gov/v1/docs/#/Gauges/Gauges_ListGauges
+2024-04-25 (updated due to official release of API)
 
-Note: This new (beta) API gives extensive info for a single station
+-------------------------------------------------------------------------
+New NWS API:  https://api.water.noaa.gov/nwps/v1/docs/
+
+New NWS API (beta version) is no longer available at:
+   https://preview-api.water.noaa.gov/v1/docs/  OR
+   https://preview-api.water.noaa.gov/nwps/v1/docs/
+-------------------------------------------------------------------------
+
+Go to: https://api.water.noaa.gov/nwps/v1/docs/#/Gauges/Gauges_ListGauges
+
+Note: This new API gives extensive info for a single station
       such as "ANAW1" or "13334300", including RFC name.
       The below
 
@@ -20,3 +28,5 @@ curl -X GET "https://preview-api.water.noaa.gov/v1/gauges?bbox.xmin=-124.75&bbox
 https://preview-api.water.noaa.gov/v1/gauges?bbox.xmin=-124.75&bbox.ymin=24.5&bbox.xmax=-66.9&bbox.ymax=49.39&srid=EPSG_4326
 
 ###### RangeError: Maximum call stack size exceeded  ########
+
+
