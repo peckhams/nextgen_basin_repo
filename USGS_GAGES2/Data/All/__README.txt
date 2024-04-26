@@ -23,3 +23,9 @@ The file topoflow/utils/ngen/gages2_utils.py has many utilities for
 working with these GAGES-II datasets.  That source code files also contains
 additional information in comments.
 
+The following GAGES-II files were excluded from this repo due to
+their larger size:
+   boundaries_shapefiles_by_aggeco.zip
+   mainstem_lin_covers.zip
+
+
